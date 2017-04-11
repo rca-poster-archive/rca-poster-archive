@@ -77,3 +77,7 @@ img {
     order: -1;
     writing-mode: vertical-rl;
 }
+
+.footer {
+    clear: both;
+}
