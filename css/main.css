@@ -53,3 +53,21 @@ body {
 .header, .header__title, .header__description, .main, .footer {
     margin-bottom: 1rem;
 }
+
+.poster {
+    display: flex;
+}
+
+.poster__image {
+    transform: translate3d(-3rem, 0, 0);
+    transition: transform 1s;
+}
+
+.poster__image:hover {
+    transform: translate3d(0.5rem, 0, 0);
+}
+
+.poster__text {
+    order: -1;
+    writing-mode: vertical-rl;
+}
