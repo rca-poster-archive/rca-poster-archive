@@ -19,40 +19,39 @@
 		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
 	<body>
-		<header id="header">
-			<h1><a href="{{ site.url }}">{{ site.title }}</a></h1>
+		<header id="header" class="header">
+			<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
 			<span>Ordered by Process Click to change</span>
-			<h2>About</h2>
-			<p>{{ site.description }}</p>
+			<h2 class="header__about">About</h2>
+			<p class="header__description">{{ site.description }}</p>
 		</header>
-
 		<main>
 			{% for poster in site.data.posters %}
-				<article>
-					<h1>{{ poster.title }}</h1>
-					<img src="img/1.jpg" alt="">
-					<h2>Details</h2>
-					<ul>
-						<li>{{ poster.title }}</li>
-						<li>{{ poster.date }}</li>
-						<li>{{ poster.width }} x {{ poster.height }}</li>
+				<article class="poster">
+					<h1 class="poster__title">{{ poster.title }}</h1>
+					<img class="poster__image" src="img/1.jpg" srcset="img/1-medium.jpg 1000w,img/1-large.jpg 2000w" alt="{{ poster.alt }}">
+					<h2 class="poster__details">Details</h2>
+					<ul class"poster__details-list">
+						<li class="poster__title">{{ poster.title }}</li>
+						<li class="poster__date">{{ poster.date }}</li>
+						<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
 					</ul>
-					<h2>Contact</h2>
+					<h2 class="poster__contact">Contact</h2>
 					<p>
 						If you have any information or corrections, contact us:
 					</p>
-					<ul>
+					<ul class="poster__contact-list">
 						{% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
 						{% if site.twitter.username %}<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
 					</ul>
 				</article>
 			{% endfor %}
 		</main>
-		<footer>
-			<nav>
+		<footer class="footer">
+			<nav class="fototer__nav">
 				<a href="#header">Back to top</a>
 			</nav>
-			<small>
+			<small class="footer__copyright">
 				&copy; Royal College of Arts <script>document.write(new Date().getFullYear())</script>
 			</small>
 		</footer>
