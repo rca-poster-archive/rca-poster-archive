@@ -1,64 +1,75 @@
----
----
+--- ---
 <!DOCTYPE html>
 <html lang='en-gb'>
 
 <head>
+
 	<head>
 		<meta charset="utf-8">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		{% seo %}
-		<base href="{{ site.url }}">
-		{% feed_meta %}
-<!--
+		<meta name="viewport" content="width=device-width, initial-scale=1"> {% seo %}
+		<base href="{{ site.url }}"> {% feed_meta %}
+		<!--
 		<link rel="stylesheet" href="css/normalize.css">
 -->
 		<link rel="stylesheet" href="css/main.css">
 		<script src="js/vendor/jquery-1.12.0.min.js"></script>
 		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
+
 	<body>
 		<header id="header" class="header">
 			<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
 			<span>Ordered by Process</span>
 			<input type="button" value="Click to change" onClick="window.location.reload()">
-			<h2 class="header__about">About</h2>
+			<noscript>
+				<h2 class="header__about">About</h2>
+			</noscript>
 			<p class="header__description">{{ site.description }}</p>
 		</header>
 		<main class="main">
 			{% for poster in site.data.posters %}
-				<article class="poster">
-					<h1 class="poster__title">{{ poster.title }}</h1>
-					<img class="poster__image" src="img/1.jpg" alt="{{ poster.alt }}">
-					<h2 class="poster__details">Details</h2>
-					<ul class"poster__details-list">
-						<li class="poster__title">{{ poster.title }}</li>
-						<li class="poster__date">{{ poster.date }}</li>
-						<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
-					</ul>
-					<h2 class="poster__contact">Contact</h2>
-					<p>
-						If you have any information or corrections, contact us:
-					</p>
-					<ul class="poster__contact-list">
-						{% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
-						{% if site.twitter.username %}<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
-					</ul>
-				</article>
+			<article class="poster">
+				<noscript>
+						<h1 class="poster__title">{{ poster.title }}</h1>
+					</noscript>
+				<img class="poster__image" src="img/1.jpg" alt="{{ poster.alt }}" />
+				<noscript>
+						<h2 class="poster__details">Details</h2>
+					</noscript>
+				<ul class "poster__details-list">
+					<li class="poster__title">{{ poster.title }}</li>
+					<li class="poster__date">{{ poster.date }}</li>
+					<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
+				</ul>
+				<h2 class="poster__contact">Corrections</h2>
+				<noscript>
+						<p>
+							If you have any information or corrections, contact us:
+						</p>
+					</noscript>
+				<ul class="poster__contact-list">
+					{% if site.email %}
+					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %} {% if site.twitter.username %}
+					<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
+				</ul>
+			</article>
 			{% endfor %}
 		</main>
 		<footer class="footer">
-			<nav class="fototer__nav">
-				<a href="#header">Back to top</a>
-			</nav>
+			<noscript>
+				<nav class="footer__nav">
+					<a href="#header">Back to top</a>
+				</nav>
+			</noscript>
 			<small class="footer__copyright">
 				&copy; Royal College of Arts <script>document.write(new Date().getFullYear())</script>
 			</small>
 		</footer>
-	<!--
+		<!--
 		<script src="js/plugins.js"></script>
 		<script src="js/main.js"></script>
 	-->
 	</body>
+
 </html>
