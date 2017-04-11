@@ -32,29 +32,33 @@
 		<main class="main">
 			{% for poster in site.data.posters %}
 			<article class="poster">
-				<noscript>
+				<div class="poster__image">
+					<noscript>
 						<h1 class="poster__title">{{ poster.title }}</h1>
 					</noscript>
-				<img class="poster__image" src="img/1.jpg" alt="{{ poster.alt }}" />
-				<noscript>
+					<img class="poster__image" src="img/1.jpg" alt="{{ poster.alt }}" />
+				</div>
+				<div class="poster__text">
+					<noscript>
 						<h2 class="poster__details">Details</h2>
 					</noscript>
-				<ul class "poster__details-list">
-					<li class="poster__title">{{ poster.title }}</li>
-					<li class="poster__date">{{ poster.date }}</li>
-					<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
-				</ul>
-				<h2 class="poster__contact">Corrections</h2>
-				<noscript>
-						<p>
-							If you have any information or corrections, contact us:
-						</p>
-					</noscript>
-				<ul class="poster__contact-list">
-					{% if site.email %}
-					<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %} {% if site.twitter.username %}
-					<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
-				</ul>
+					<ul class="poster__details-list">
+						<li class="poster__title">{{ poster.title }}</li>
+						<li class="poster__date">{{ poster.date }}</li>
+						<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
+					</ul>
+					<h2 class="poster__contact">Corrections</h2>
+					<noscript>
+							<p>
+								If you have any information or corrections, contact us:
+							</p>
+						</noscript>
+					<ul class="poster__contact-list">
+						{% if site.email %}
+						<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %} {% if site.twitter.username %}
+						<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
+					</ul>
+				</div>
 			</article>
 			{% endfor %}
 		</main>
