@@ -50,7 +50,7 @@ body {
     margin: 1rem;
 }
 
-.header, .header__title, .header__description, .main, .footer {
+.header, .header__title, .header__reload, .header__description, .main, .footer {
     margin-bottom: 1rem;
 }
 
