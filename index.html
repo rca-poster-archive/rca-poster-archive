@@ -24,15 +24,27 @@
 			<p>{{ site.description }}</p>
 		</header>
 
-	<main>
-		<div>
-			<img src="img/1.jpg" />
-			<span>NA – YB01M↑</span>
-			<div class='hiddentext'>Quadrant 022<br> 123x244mm<br> 14.3.27</div>
-		</div>
-	</main>
-	<script src="js/plugins.js"></script>
-	<script src="js/main.js"></script>
-</body>
+		<main>
+			{% for poster in site.data.posters %}
+				<article>
+					<h1>{{ poster.title }}</h1>
+					<img src="img/1.jpg" alt="">
+					<h2>Details</h2>
+					<ul>
+						<li>{{ poster.title }}</li>
+						<li>{{ poster.date }}</li>
+						<li>{{ poster.width }} x {{ poster.height }}</li>
+					</ul>
+					<h2>Contact</h2>
+					<p>
+						If you have any information or corrections, contact us:
+					</p>
+					<ul>
+						{% if site.email %}<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+						{% if site.twitter.username %}<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
+					</ul>
+				</article>
+			{% endfor %}
+		</main>
 
 </html>
