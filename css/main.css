@@ -56,15 +56,17 @@ body {
 
 .poster {
     display: flex;
+    float: left;
+    width: 33%;
 }
 
 .poster__image {
-    transform: translate3d(-3rem, 0, 0);
+    transform: translate3d(-6rem, 0, 0);
     transition: transform 1s;
 }
 
 .poster__image:hover {
-    transform: translate3d(0.5rem, 0, 0);
+    transform: translate3d(1rem, 0, 0);
 }
 
 .poster__text {
