@@ -46,6 +46,10 @@ table {
 
 /* Rebuild CSS */
 
-.header, .main, .footer {
+body {
+    margin: 1rem;
+}
+
+.header, .header__title, .header__description, .main, .footer {
     margin-bottom: 1rem;
 }
