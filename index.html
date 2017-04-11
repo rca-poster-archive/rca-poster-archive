@@ -13,19 +13,20 @@
 		{% feed_meta %}
 <!--
 		<link rel="stylesheet" href="css/normalize.css">
-		<link rel="stylesheet" href="css/main.css">
 -->
+		<link rel="stylesheet" href="css/main.css">
 		<script src="js/vendor/jquery-1.12.0.min.js"></script>
 		<script src="js/vendor/modernizr-2.8.3.min.js"></script>
 	</head>
 	<body>
 		<header id="header" class="header">
 			<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
-			<span>Ordered by Process Click to change</span>
+			<span>Ordered by Process</span>
+			<input type="button" value="Click to change" onClick="window.location.reload()">
 			<h2 class="header__about">About</h2>
 			<p class="header__description">{{ site.description }}</p>
 		</header>
-		<main>
+		<main class="main">
 			{% for poster in site.data.posters %}
 				<article class="poster">
 					<h1 class="poster__title">{{ poster.title }}</h1>
