@@ -54,8 +54,11 @@ body {
     margin-bottom: 1rem;
 }
 
-.poster {
-    display: flex;
+.button--link {
+    border: none;
+    background: inherit;
+    font: inherit;
+    text-decoration: underline;
 }
 
 .left {
