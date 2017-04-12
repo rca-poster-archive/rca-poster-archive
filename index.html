@@ -41,16 +41,8 @@
 						<li class="poster__date">{{ poster.date }}</li>
 						<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
 					</ul>
-					<h2 class="poster__contact">Corrections</h2>
-					<noscript>
-							<p>
-								If you have any information or corrections, contact us:
-							</p>
-						</noscript>
 					<ul class="poster__contact-list">
-						{% if site.email %}
-						<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %} {% if site.twitter.username %}
-						<li><a href="http://twitter.com/{{ site.twitter.username }}">{{ site.twitter.username | prepend: '@' }}</a></li>{% endif %}
+						{% if site.email %}<li>Corrections: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
 					</ul>
 				</div>
 			</article>
