@@ -65,8 +65,8 @@ img {
     text-decoration: underline;
 }
 
-.left {
-    float: left;
+.button--link:hover, .poster:hover {
+    cursor: pointer;
 }
 
 .right {
