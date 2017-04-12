@@ -69,16 +69,17 @@ body {
     float: right;
 }
 
-.four {
-    width: calc(100% / 12 * 2);
+.small {
+    width: 15%;
+    min-width: 8rem;
 }
 
-.five {
-    width: calc(100% / 12 * 3);
+.medium {
+    width: 30%;
 }
 
-.six {
-    width: calc(100% / 12 * 4);
+.large {
+    width: 45%;
 }
 
 .poster__image {
