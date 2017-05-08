@@ -1,8 +1,8 @@
 ---
 title: Royal College of Art Poster Archive
 description: Example Description NA is a database of collected + referenced images. This data has been sourced from a 55x135cm receptacle placed 29 steps from entrance to Tesco (E9 6ND). These objects have been displaced from their original intended course, rejected and placed in the new container
-url:
-enforce_ssl:
+url: https://jacobcharleswilson.com/rca-poster-archive
+enforce_ssl: jacobcharleswilson.com
 email: example@example.org
 twitter:
   username: example
