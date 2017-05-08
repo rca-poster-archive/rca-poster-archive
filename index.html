@@ -2,7 +2,14 @@
 layout: default
 ---
 {% for poster in site.data.posters %}
-<article class="poster">
+<article
+{% if poster.year %} data-year={{ poster.year }}{% endif %}
+{% if poster.promoting %} data-promoting={{ poster.promoting }}{% endif %}
+{% if poster.colour %} data-colour={{ poster.colour }}{% endif %}
+{% if poster.process %} data-process={{ poster.process }}{% endif %}
+{% if poster.designer %} data-designer={{ poster.designer }}{% endif %}
+{% if poster.orientation %} data-orientation={{ poster.orientation }}{% endif %}
+ class="poster">
 	<div class="poster__image">
 		<noscript>
 			<h1 class="poster__title">{{ poster.title }}</h1>
