@@ -6,8 +6,6 @@ enforce_ssl: jacobcharleswilson.com
 email: example@example.org
 twitter:
   username: example
-github:
-  username:
 instagram:
   username:
 permalink: "/:title"
