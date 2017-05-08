@@ -1,62 +1,26 @@
 ---
+layout: default
 ---
-<!DOCTYPE html>
-<html lang='en-gb'>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="x-ua-compatible" content="ie=edge">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		{% seo %}
-		{% feed_meta %}
-		<link rel="stylesheet" href="css/main.css">
-		<script src="js/vendor/jquery-1.12.0.min.js"></script>
-	</head>
-	<body>
-		<header id="header" class="header">
-			<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
-			<div class="header__reload">
-				<span>Ordered by Process</span> <input class="button--link" type="button" value="Click to change" onClick="window.location.reload()">
-			</div>
-			<noscript>
-				<h2 class="header__about">About</h2>
-			</noscript>
-			<p class="header__description">{{ site.description }}</p>
-		</header>
-		<main class="main">
-			{% for poster in site.data.posters %}
-			<article class="poster">
-				<div class="poster__image">
-					<noscript>
-						<h1 class="poster__title">{{ poster.title }}</h1>
-					</noscript>
-					<img class="poster__file" src="img/{{ poster.title }}.jpg" alt="{{ poster.alt }}" />
-				</div>
-				<div class="poster__text">
-					<noscript>
-						<h2 class="poster__details">Details</h2>
-					</noscript>
-					<ul class="poster__details-list">
-						<li class="poster__title">{{ poster.title }}</li>
-						<li class="poster__date">{{ poster.date }}</li>
-						<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
-					</ul>
-					<ul class="poster__contact-list">
-						{% if site.email %}<li>Corrections: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
-					</ul>
-				</div>
-			</article>
-			{% endfor %}
-		</main>
-		<footer class="footer">
-			<noscript>
-				<nav class="footer__nav">
-					<a href="#header">Back to top</a>
-				</nav>
-			</noscript>
-			<small class="footer__copyright">
-				&copy; Royal College of Arts <script>document.write(new Date().getFullYear())</script>
-			</small>
-		</footer>
-		<script src="js/main.js"></script>
-	</body>
-</html>
+{% for poster in site.data.posters %}
+<article class="poster">
+	<div class="poster__image">
+		<noscript>
+			<h1 class="poster__title">{{ poster.title }}</h1>
+		</noscript>
+		<img class="poster__file" src="img/{{ poster.title }}.jpg" alt="{{ poster.alt }}" />
+	</div>
+	<div class="poster__text">
+		<noscript>
+			<h2 class="poster__details">Details</h2>
+		</noscript>
+		<ul class="poster__details-list">
+			<li class="poster__title">{{ poster.title }}</li>
+			<li class="poster__date">{{ poster.date }}</li>
+			<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
+		</ul>
+		<ul class="poster__contact-list">
+			{% if site.email %}<li>Corrections: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>{% endif %}
+		</ul>
+	</div>
+</article>
+{% endfor %}
