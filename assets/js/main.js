@@ -1,3 +1,6 @@
+var posterProperties = ['promoting','process','colour','year','designer','orientation']
+var randomProperty = posterProperties[Math.floor(Math.random() * posterProperties.length)];
+
 $(document).ready(function() {
 
 	var widths = ["small", "medium", "large"];
@@ -6,10 +9,8 @@ $(document).ready(function() {
     $(".poster").each(function() {
         randomwidth = Math.floor(Math.random() * widths.length);
         randomfloat = Math.floor(Math.random() * floats.length);
-
         $(this).addClass(widths[randomwidth]);
         $(this).addClass(floats[randomfloat]);
-
     });
 
 });
