@@ -10,6 +10,10 @@ img {
     margin-bottom: 1rem;
 }
 
+.header__title, .header__reload {
+    display: inline;
+}
+
 .button--link {
     border: none;
     background: inherit;
@@ -32,7 +36,7 @@ img {
 }
 
 .medium {
-    width: 30%;
+    width: 33%;
 }
 
 .large {
