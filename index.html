@@ -20,9 +20,6 @@ layout: default
 			<h2 class="poster__details">Details</h2>
 		</noscript>
 		<ul class="poster__details-list">
-			<li class="poster__title">{{ poster.title }}</li>
-			<li class="poster__date">{{ poster.date }}</li>
-			<li class="poster__size">{{ poster.width }} x {{ poster.height }}</li>
 			{% if poster.year %}<li class="poster__year">{{ poster.year }}</li>{% endif %}
 			{% if poster.promoting %}<li class="poster__promoting">{{ poster.promoting }}</li>{% endif %}
 			{% if poster.colour %}<li class="poster__colour">{{ poster.colour }}</li>{% endif %}
