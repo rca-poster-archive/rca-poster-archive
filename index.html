@@ -30,12 +30,11 @@ layout: default
 			<h2 class="poster__details">Details</h2>
 		</noscript>
 		<ul class="poster__details-list">
-			{% if poster.year %}<li class="poster__year">{{ poster.year }}</li>{% endif %}
-			{% if poster.promoting %}<li class="poster__promoting">{{ poster.promoting }}</li>{% endif %}
-			{% if poster.colour %}<li class="poster__colour">{{ poster.colour }}</li>{% endif %}
-			{% if poster.process %}<li class="poster__process">{{ poster.process }}</li>{% endif %}
-			{% if poster.designer %}<li class="poster__designer">{{ poster.designer }}</li>{% endif %}
-			{% if poster.orientation %}<li class="poster__orientation">{{ poster.orientation }}</li>{% endif %}
+			{% if poster.year %}<li class="poster__year">Date: {{ poster.year }}</li>{% endif %}
+			{% if poster.promoting %}<li class="poster__promoting">Promoting: {{ poster.promoting }}</li>{% endif %}
+			{% if poster.colour %}<li class="poster__colour">Colour: {{ poster.colour }}</li>{% endif %}
+			{% if poster.process %}<li class="poster__process">Process: {{ poster.process }}</li>{% endif %}
+			{% if poster.orientation %}<li class="poster__orientation">Orientation: {{ poster.orientation }}</li>{% endif %}
 		</ul>
 		<ul class="poster__contact-list">
 			{% if site.email %}<li>Corrections: <a href='mailto:{{ site.email }}'>{{ site.email }}</a></li>{% endif %}
