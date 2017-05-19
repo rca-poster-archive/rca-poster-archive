@@ -4,7 +4,7 @@
   "description": "A project archiving the RCA's posters of the past 75 years.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "cp -r node_modules/* assets/vendor/"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,7 @@
   "homepage": "https://github.com/jclwilson/rca-poster-archive#readme",
   "dependencies": {
     "jquery": "^3.2.1",
+    "lazysizes": "^4.0.0-rc1",
     "reset-css": "latest"
-  },
-  "scripts": {
-	"postinstall": "cp -r node_modules/* assets/vendor/"
   }
 }
