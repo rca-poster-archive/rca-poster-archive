@@ -65,26 +65,25 @@ img {
     cursor: pointer;
 }
 
-.poster {
-    position: relative;
+.left {
     float: left;
 }
 
+.right {
+    float: right;
+}
+
 .small {
-    width: 15%;
-    min-width: 8rem;
+    width: 10%;
+    min-width: 8em;
 }
 
 .medium {
-    width: 33%;
+    width: 20%;
 }
 
 .large {
-    width: 45%;
-}
-
-.poster__image {
-    transition: transform 0.4s ease;
+    width: 30%;
 }
 
 .poster__text {
