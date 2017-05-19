@@ -1,436 +1,1095 @@
-id,filename,promoting,colour,process,year,designer,orientation
-,GDA_Exhibitions_A1_1-0002.jpg,Exhibition,Red,Offset,1994,Sara Fanelli,Portrait
-,GDA_Exhibitions_A1_1-0003.jpg,Exhibition,White,Screenprint,1962,David Hockney,Portrait
-,GDA_Exhibitions_A1_1-0004.jpg,Exhibition,Red,Screenprint,1953,,Portrait
-,GDA_Exhibitions_A1_1-0005.jpg,Exhibition,White,Offset,2000,,Portrait
-,GDA_Exhibitions_A1_1-0006.jpg,Exhibition,White,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0007.jpg,Exhibition,White,Offset,1963,,Portrait
-,GDA_Exhibitions_A1_1-0008.jpg,Exhibition,Blue,Screenprint,1969,,Portrait
-,GDA_Exhibitions_A1_1-0011.jpg,Exhibition,Green,Offset,1969,,Portrait
-,GDA_Exhibitions_A1_1-0012.jpg,Exhibition,Red,Offset,1961,,Portrait
-,GDA_Exhibitions_A1_1-0013.jpg,Exhibition,Red,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0014.jpg,Exhibition,Blue,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0015.jpg,Exhibition,Black,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0016.jpg,Exhibition,White,Offset,1974,,Portrait
-,GDA_Exhibitions_A1_1-0017.jpg,Exhibition,Yellow,,,,Portrait
-,GDA_Exhibitions_A1_1-0018.jpg,Exhibition,Red,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0019.jpg,Exhibition,White,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0020.jpg,Exhibition,Blue,Screenprint,1963,,Portrait
-,GDA_Exhibitions_A1_1-0021.jpg,Exhibition,Orange,Offset,1964,,Portrait
-,GDA_Exhibitions_A1_1-0022.jpg,Exhibition,White,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0023.jpg,Exhibition,White,Screenprint,1962,Barrie Bates,Landscape
-,GDA_Exhibitions_A1_1-0024.jpg,Exhibition,Blue,Screenprint,1969,,Portrait
-,GDA_Exhibitions_A1_1-0025.jpg,Exhibition,White,Screenprint,1980,,Portrait
-,GDA_Exhibitions_A1_1-0027.jpg,Exhibition,Blue,Screenprint,1970,,Landscape
-,GDA_Exhibitions_A1_1-0028.jpg,Exhibition,Multicoloured,Offset,1980,Martin mcGinn,Landscape
-,GDA_Exhibitions_A1_1-0029.jpg,Exhibition,White,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0030.jpg,Exhibition,White,Offset,1973,,Portrait
-,GDA_Exhibitions_A1_1-0031.jpg,Exhibition,White,Offset,1970,,Portrait
-,GDA_Exhibitions_A1_1-0032.jpg,Exhibition,White,Screenprint,1991,Neil Church,Portrait
-,GDA_Exhibitions_A1_1-0033.jpg,Exhibition,White,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0035.jpg,Exhibition,Multicoloured,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0036.jpg,Exhibition,Yellow,Letterpress,1956,,Portrait
-,GDA_Exhibitions_A1_1-0037.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0038.jpg,Exhibition,Red,Screenprint,1986,Graham Elliott,Portrait
-,GDA_Exhibitions_A1_1-0039.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0040.jpg,Exhibition,Brown,Letterpress,,Mike Owner,Portrait
-,GDA_Exhibitions_A1_1-0041.jpg,Exhibition,Blue,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0042.jpg,Exhibition,Yellow,Screenprint,1948,MDC,Landscape
-,GDA_Exhibitions_A1_1-0043.jpg,Exhibition,White,Letterpress,,,Landscape
-,GDA_Exhibitions_A1_1-0044.jpg,Exhibition,Red,Letterpress,,Matt Stillman / Micheal Parry,Landscape
-,GDA_Exhibitions_A1_1-0045.jpg,Exhibition,Green,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0046.jpg,Exhibition,Green,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0047.jpg,Exhibition,Blue,Offset,1989,,Portrait
-,GDA_Exhibitions_A1_1-0048.jpg,Exhibition,Red,Offset,2007,,Portrait
-,GDA_Exhibitions_A1_1-0049.jpg,Exhibition,Red,Screenprint,1971,,Portrait
-,GDA_Exhibitions_A1_1-0052.jpg,Exhibition,Multicoloured,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0054.jpg,Exhibition,Red,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0056.jpg,Exhibition,White,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0057.jpg,Exhibition,Red,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0058.jpg,Exhibition,White,Offset,1969,,Portrait
-,GDA_Exhibitions_A1_1-0059.jpg,Exhibition,White,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0060.jpg,Exhibition,Pink,Screenprint,1996,,Landscape
-,GDA_Exhibitions_A1_1-0061.jpg,Exhibition,White,Offset,1981,,Portrait
-,GDA_Exhibitions_A1_1-0062.jpg,Exhibition,Blue,Offset,1984,,Portrait
-,GDA_Exhibitions_A1_1-0063.jpg,Exhibition,Red,Offset,2004,Leonara Chan,Landscape
-,GDA_Exhibitions_A1_1-0064.jpg,Exhibition,Red,Offset,1983,,Portrait
-,GDA_Exhibitions_A1_1-0065.jpg,Exhibition,White,Offset,1983,,Portrait
-,GDA_Exhibitions_A1_1-0066.jpg,Exhibition,Yellow,Offset,1984,Carlo Targalike,Portrait
-,GDA_Exhibitions_A1_1-0067.jpg,Exhibition,White,Offset,2008,,Portrait
-,GDA_Exhibitions_A1_1-0068.jpg,Exhibition,Red,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0069.jpg,Exhibition,White,Hand,2010,,Portrait
-,GDA_Exhibitions_A1_1-0070.jpg,Exhibition,White,Hand,2010,,Portrait
-,GDA_Exhibitions_A1_1-0071.jpg,Exhibition,White,Hand,2010,,Portrait
-,GDA_Exhibitions_A1_1-0072.jpg,Exhibition,White,Hand,2010,,Portrait
-,GDA_Exhibitions_A1_1-0073.jpg,Exhibition,White,Hand,2010,,Portrait
-,GDA_Exhibitions_A1_1-0074.jpg,Exhibition,Multicoloured,Offset,1958,Don Foster,Portrait
-,GDA_Exhibitions_A1_1-0075.jpg,Exhibition,Blue,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0076.jpg,Exhibition,Multicoloured,Offset,1969,,Portrait
-,GDA_Exhibitions_A1_1-0077.jpg,Exhibition,Multicoloured,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0078.jpg,Exhibition,Multicoloured,Offset,1980,,Portrait
-,GDA_Exhibitions_A1_1-0079.jpg,Exhibition,Blue,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0080.jpg,Exhibition,White,Offset,1983,,Portrait
-,GDA_Exhibitions_A1_1-0081.jpg,Exhibition,White,Offset,1980,,Portrait
-,GDA_Exhibitions_A1_1-0082.jpg,Exhibition,Yellow,Offset,,,Landscape
-,GDA_Exhibitions_A1_1-0083.jpg,Exhibition,Yellow,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0084.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0085.jpg,Exhibition,White,Letterpress,,Matt Stillman / Micheal Parry,Landscape
-,GDA_Exhibitions_A1_1-0086.jpg,Exhibition,White,Screenprint,1981,,Portrait
-,GDA_Exhibitions_A1_1-0088.jpg,Exhibition,White,Screenprint,1998,,Portrait
-,GDA_Exhibitions_A1_1-0089.jpg,Exhibition,Multicoloured,Offset,1988,Geoff Grandfield,Portrait
-,GDA_Exhibitions_A1_1-0092.jpg,Exhibition,Pink,Offset,1990,Frank Phillipin,Portrait
-,GDA_Exhibitions_A1_1-0095.jpg,Exhibition,Black,Screenprint,,John Watson,Portrait
-,GDA_Exhibitions_A1_1-0097.jpg,Exhibition,White,Offset,,A&R,Portrait
-,GDA_Exhibitions_A1_1-0098.jpg,Exhibition,White,Screenprint,1982,,Portrait
-,GDA_Exhibitions_A1_1-0099.jpg,Exhibition,White,Screenprint,,Brian Padden,Portrait
-,GDA_Exhibitions_A1_1-0100.jpg,Exhibition,Multicoloured,Hand,2001,,Portrait
-,GDA_Exhibitions_A1_1-0101.jpg,Exhibition,Image,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0102.jpg,Exhibition,Red,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0103.jpg,Exhibition,Image,Offset,1980,,Portrait
-,GDA_Exhibitions_A1_1-0104.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0106.jpg,Exhibition,Black,Offset,1981,,Landscape
-,GDA_Exhibitions_A1_1-0107.jpg,Exhibition,Black,Hand,1984,,Landscape
-,GDA_Exhibitions_A1_1-0109.jpg,Exhibition,Pink,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0110.jpg,Exhibition,Yellow,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0111.jpg,Exhibition,Pink,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_1-0113.jpg,Exhibition,Red,Screenprint,1969,,Portrait
-,GDA_Exhibitions_A1_1-0114.jpg,Exhibition,Yellow,Offset,1986,,Portrait
-,GDA_Exhibitions_A1_1-0115.jpg,Exhibition,Image,Digital,2006,,Portrait
-,GDA_Exhibitions_A1_1-0116.jpg,Exhibition,Black,Screenprint,1977,,Portrait
-,GDA_Exhibitions_A1_1-0117.jpg,Exhibition,Red,Screenprint,1970,,Portrait
-,GDA_Exhibitions_A1_1-0118.jpg,Exhibition,Black,Offset,,,Portrait
-,GDA_Exhibitions_A1_1-0119.jpg,Exhibition,Black,Offset,1976,,Landscape
-,GDA_Exhibitions_A1_1-0120.jpg,Exhibition,Blue,Screenprint,1978,,Landscape
-,GDA_Exhibitions_A1_1-0121.jpg,Exhibition,Black,Offset,1984,,Landscape
-,GDA_Exhibitions_A1_1-0122.jpg,Exhibition,Green,Offset,1968,,Portrait
-,GDA_Exhibitions_A1_1-0123.jpg,Exhibition,Orange,Offset,1966,,Portrait
-,GDA_Exhibitions_A1_1-0124.jpg,Exhibition,Black,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_1-0125.jpg,Exhibition,Blue,Screenprint,1966,,Landscape
-,GDA_Exhibitions_A1_2-0002.jpg,Exhibition,Yellow,Offset,1985,,Landscape
-,GDA_Exhibitions_A1_2-0003.jpg,Exhibition,Brown,Screenprint,1966,,Portrait
-,GDA_Exhibitions_A1_2-0004.jpg,Exhibition,Image,Offset,1982,,Landscape
-,GDA_Exhibitions_A1_2-0006.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0007.jpg,Exhibition,Red,Offset,1986,,Landscape
-,GDA_Exhibitions_A1_2-0009.jpg,Exhibition,Blue,Screenprint,1986,,Landscape
-,GDA_Exhibitions_A1_2-0010.jpg,Exhibition,White,Offset,1985,,Portrait
-,GDA_Exhibitions_A1_2-0011.jpg,Exhibition,Multicoloured,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0012.jpg,Exhibition,White,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0013.jpg,Exhibition,Blue,Offset,1997,,Portrait
-,GDA_Exhibitions_A1_2-0014.jpg,Exhibition,Blue,Offset,1986,,Portrait
-,GDA_Exhibitions_A1_2-0015.jpg,Exhibition,Blue,Offset,1993,,Landscape
-,GDA_Exhibitions_A1_2-0016.jpg,Exhibition,Image,Offset,,,
-,GDA_Exhibitions_A1_2-0017.jpg,Exhibition,Multicoloured,Offset,1982,Simon Ogden,Portrait
-,GDA_Exhibitions_A1_2-0018.jpg,Exhibition,Blue,Offset,1992,,
-,GDA_Exhibitions_A1_2-0019.jpg,Exhibition,Image,Offset,1976,,Portrait
-,GDA_Exhibitions_A1_2-0020.jpg,Exhibition,Blue,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0021.jpg,Exhibition,Multicoloured,Offset,1986,,Portrait
-,GDA_Exhibitions_A1_2-0022.jpg,Exhibition,Black,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0023.jpg,Exhibition,Blue,Offset,1984,,Portrait
-,GDA_Exhibitions_A1_2-0024.jpg,Exhibition,Yellow,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0026.jpg,Exhibition,Yellow,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0027.jpg,Exhibition,Image,Digital,2007,,Landscape
-,GDA_Exhibitions_A1_2-0028.jpg,Exhibition,Multicoloured,Offset,1979,,Portrait
-,GDA_Exhibitions_A1_2-0029.jpg,Exhibition,Blue,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_2-0030.jpg,Exhibition,Red,Screenprint,,John Diebel,Portrait
-,GDA_Exhibitions_A1_2-0031.jpg,Exhibition,Image,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0032.jpg,Exhibition,Multicoloured,Screenprint,1971,,Landscape
-,GDA_Exhibitions_A1_2-0033.jpg,Exhibition,Multicoloured,Offset,1985,Jeremy Pearce,Portrait
-,GDA_Exhibitions_A1_2-0034.jpg,Exhibition,White,Screenprint,1980,,Portrait
-,GDA_Exhibitions_A1_2-0035.jpg,Exhibition,Blue,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0037.jpg,Exhibition,Red,Screenprint,1968,,Portrait
-,GDA_Exhibitions_A1_2-0038.jpg,Exhibition,Blue,Screenprint,1967,,Portrait
-,GDA_Exhibitions_A1_2-0039.jpg,Exhibition,Gold,Letterpress,,,Portrait
-,GDA_Exhibitions_A1_2-0040.jpg,Exhibition,Red,Screenprint,1963,,Portrait
-,GDA_Exhibitions_A1_2-0041.jpg,Exhibition,Multicoloured,Offset,1986,Abrham Games,Portrait
-,GDA_Exhibitions_A1_2-0042.jpg,Exhibition,Blue,Offset,1990,Jeanne Verdoux,Portrait
-,GDA_Exhibitions_A1_2-0043.jpg,Exhibition,Multicoloured,Screenprint,1962,,Portrait
-,GDA_Exhibitions_A1_2-0044.jpg,Exhibition,Red,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0045.jpg,Exhibition,Image,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0046.jpg,Exhibition,Red,Offset,2000,,Portrait
-,GDA_Exhibitions_A1_2-0047.jpg,Exhibition,Black,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0048.jpg,Exhibition,Multicoloured,,1982,,Landscape
-,GDA_Exhibitions_A1_2-0049.jpg,Exhibition,Image,,1983,,Portrait
-,GDA_Exhibitions_A1_2-0050.jpg,Exhibition,Brown,Screenprint,1967,,Portrait
-,GDA_Exhibitions_A1_2-0051.jpg,Exhibition,Blue,Offset,1986,,Portrait
-,GDA_Exhibitions_A1_2-0052.jpg,Exhibition,Multicoloured,Offset,1976,,Landscape
-,GDA_Exhibitions_A1_2-0054.jpg,Exhibition,Purple,Offset,1967,,Portrait
-,GDA_Exhibitions_A1_2-0055.jpg,Exhibition,Brown,,,,Portrait
-,GDA_Exhibitions_A1_2-0056.jpg,Exhibition,Green,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0057.jpg,Exhibition,Purple,Screenprint,1968,,Portrait
-,GDA_Exhibitions_A1_2-0058.jpg,Exhibition,Orange,Screenprint,1966,,Portrait
-,GDA_Exhibitions_A1_2-0059.jpg,Exhibition,Multicoloured,Screenprint,1981,,Landscape
-,GDA_Exhibitions_A1_2-0060.jpg,Exhibition,Red,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0061.jpg,Exhibition,Brown,Offset,1972,,Portrait
-,GDA_Exhibitions_A1_2-0062.jpg,Exhibition,Multicoloured,Offset,,,Landscape
-,GDA_Exhibitions_A1_2-0063.jpg,Exhibition,Orange,Letterpress,,,Portrait
-,GDA_Exhibitions_A1_2-0064.jpg,Exhibition,White,Letterpress,1970,,Portrait
-,GDA_Exhibitions_A1_2-0065.jpg,Exhibition,Green,Offset, ,Larry Carter,Portrait
-,GDA_Exhibitions_A1_2-0066.jpg,Exhibition,Black,Offset,1964,,Landscape
-,GDA_Exhibitions_A1_2-0067.jpg,Exhibition,Multicoloured,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0068.jpg,Exhibition,Blue,Offset,1981,,Portrait
-,GDA_Exhibitions_A1_2-0069.jpg,Exhibition,Black,Offset,1961,Allan Marshall,Portrait
-,GDA_Exhibitions_A1_2-0070.jpg,Exhibition,Blue,Offset,,Gary Rowland,Portrait
-,GDA_Exhibitions_A1_2-0071.jpg,Exhibition,Red,Offset,1961,,Portrait
-,GDA_Exhibitions_A1_2-0072.jpg,Exhibition,Multicoloured,Offset,,The Thunder Jockeys,Portrait
-,GDA_Exhibitions_A1_2-0073.jpg,Exhibition,Pink,,,,Portrait
-,GDA_Exhibitions_A1_2-0074.jpg,Exhibition,Red,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0075.jpg,Exhibition,Yellow,Offset,1971,Dave Freeman,Portrait
-,GDA_Exhibitions_A1_2-0076.jpg,Exhibition,Yellow,Digital,2010,Jack Gilby,Portrait
-,GDA_Exhibitions_A1_2-0078.jpg,Exhibition,Red,Offset,1971,,Portrait
-,GDA_Exhibitions_A1_2-0079.jpg,Exhibition,Image,Offset,1971,,Portrait
-,GDA_Exhibitions_A1_2-0080.jpg,Exhibition,Image,Offset,1996,Graphic Thought Facility / Russell Barns,Portrait
-,GDA_Exhibitions_A1_2-0083.jpg,Exhibition,Blue,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0084.jpg,Exhibition,White,Screenprint,1993,Al Fuller,Portrait
-,GDA_Exhibitions_A1_2-0085.jpg,Exhibition,Green,Offset,1993,Barry Vaud,Portrait
-,GDA_Exhibitions_A1_2-0086.jpg,Exhibition,Pink,Offset,1999,Frank Phillippin,Portrait
-,GDA_Exhibitions_A1_2-0087.jpg,Exhibition,Red,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0088.jpg,Exhibition,Brown,Offset,,,Portrait
-,GDA_Exhibitions_A1_2-0089.jpg,Exhibition,Yellow,Offset,1952,Bailey,Portrait
-,GDA_Exhibitions_A1_2-0091.jpg,Exhibition,Yellow,Screenprint,,,Landscape
-,GDA_Exhibitions_A1_2-0092.jpg,Exhibition,Gold,Screenprint,,John Watson,Portrait
-,GDA_Exhibitions_A1_2-0093.jpg,Exhibition,White,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0094.jpg,Exhibition,Image,Offset,1991,Ian Vickers,Portrait
-,GDA_Exhibitions_A1_2-0095.jpg,Exhibition,Red,Offset,,Angus Hyland,Portrait
-,GDA_Exhibitions_A1_2-0096.jpg,Exhibition,Image,Offset,1994,,Portrait
-,GDA_Exhibitions_A1_2-0097.jpg,Exhibition,Pink,Offset,1999,Tickles,Portrait
-,GDA_Exhibitions_A1_2-0098.jpg,Exhibition,White,Offset,1995,,Portrait
-,GDA_Exhibitions_A1_2-0099.jpg,Exhibition,Green,Screenprint,1999,,Portrait
-,GDA_Exhibitions_A1_2-0100.jpg,Exhibition,Green,Screenprint,,,Portrait
-,GDA_Exhibitions_A1_2-0101.jpg,Exhibition,Blue,Offset,1994,Carlo Targalia,Portrait
-,GDA_Exhibitions_A1_2-0102.jpg,Exhibition,Red,Screenprint,1998,,Portrait
-,GDA_Exhibitions_A1_2-0103.jpg,Exhibition,Red,Offset,2000,,Portrait
-,GDA_Exhibitions_A1_2-0104.jpg,Exhibition,White,Offset,1999,,Landscape
-,GDA_Exhibitions_A1_2-0106.jpg,Exhibition,White,Offset,1993,Jesper Stahl / Gary Lockton,Portrait
-,GDA_Exhibitions_A1_2-0107.jpg,Exhibition,White,Digital,2009,,Portrait
-,GDA_Exhibitions_A1_2-0108.jpg,Exhibition,Red,Screenprint,1968,,Portrait
-,GDA_Exhibitions_A1_2-0109.jpg,Exhibition,Multicoloured,Offset,1991,,Portrait
-,GDA_Exhibitions_A1_2-0110.jpg,Exhibition,Multicoloured,Offset,1994,A Kimonski,Portrait
-,GDA_Exhibitions_A1_2-0111.jpg,Exhibition,Brown,Screenprint,1972,,Portrait
-,GDA_Film_Society_A1_1-0001.jpg,Film Society,Pink,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0002.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0003.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0004.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0005.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0006.jpg,Film Society,White,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0007.jpg,Film Society,White,Screenprint,1960,,Landscape
-,GDA_Film_Society_A1_1-0008.jpg,Film Society,White,Screenprint,1964,,Landscape
-,GDA_Film_Society_A1_1-0009.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0010.jpg,Film Society,Red,Screenprint,1963,Richard Doust,Landscape
-,GDA_Film_Society_A1_1-0011.jpg,Film Society,Purple,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0012.jpg,Film Society,Multicoloured,Offset,1967,,Portrait
-,GDA_Film_Society_A1_1-0013.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0014.jpg,Film Society,Blue,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0015.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0016.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0017.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0018.jpg,Film Society,Pink,Screenprint,1971,,Portrait
-,GDA_Film_Society_A1_1-0019.jpg,Film Society,Green,Offset,1963,,Landscape
-,GDA_Film_Society_A1_1-0020.jpg,Film Society,Red,Offset,1963,,Landscape
-,GDA_Film_Society_A1_1-0021.jpg,Film Society,Multicoloured,Offset,1964,,Portrait
-,GDA_Film_Society_A1_1-0022.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0023.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0024.jpg,Film Society,Gold,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0025.jpg,Film Society,Blue,Screenprint,,Grope Stupe,Portrait
-,GDA_Film_Society_A1_1-0026.jpg,Film Society,Red,Screenprint,1969,,Portrait
-,GDA_Film_Society_A1_1-0027.jpg,Film Society,White,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0028.jpg,Film Society,Orange,Letterpress,1957,,Landscape
-,GDA_Film_Society_A1_1-0029.jpg,Film Society,Green,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0030.jpg,Film Society,Pink,Offset,1969,,Portrait
-,GDA_Film_Society_A1_1-0031.jpg,Film Society,White,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0032.jpg,Film Society,Red,Screenprint,1970,,Portrait
-,GDA_Film_Society_A1_1-0033.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0034.jpg,Film Society,Red,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0035.jpg,Film Society,White,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0036.jpg,Film Society,Green,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0037.jpg,Film Society,Yellow,Hand,,,Portrait
-,GDA_Film_Society_A1_1-0038.jpg,Film Society,Green,Screenprint,1964,,Landscape
-,GDA_Film_Society_A1_1-0039.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0040.jpg,Film Society,Pink,Screenprint,1964,,Portrait
-,GDA_Film_Society_A1_1-0041.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0042.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0043.jpg,Film Society,Black,Screenprint,1959,Siobhan Noonam ,Landscape
-,GDA_Film_Society_A1_1-0044.jpg,Film Society,Green,Hand,,Graham Clarke,Landscape
-,GDA_Film_Society_A1_1-0045.jpg,Film Society,White,Hand,,,Portrait
-,GDA_Film_Society_A1_1-0046.jpg,Film Society,Red,Screenprint,1969,,Portrait
-,GDA_Film_Society_A1_1-0047.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0048.jpg,Film Society,Red,Screenprint,,Peter Rea,Portrait
-,GDA_Film_Society_A1_1-0049.jpg,Film Society,Blue,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0050.jpg,Film Society,Black,Screenprint,,Micheal Danist,Landscape
-,GDA_Film_Society_A1_1-0051.jpg,Film Society,Yellow,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0052.jpg,Film Society,Red,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0053.jpg,Film Society,Multicoloured,Hand,,,Portrait
-,GDA_Film_Society_A1_1-0054.jpg,Film Society,Purple,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0055.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0056.jpg,Film Society,White,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0057.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0058.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0059.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0060.jpg,Film Society,Purple,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0061.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0062.jpg,Film Society,Red,Hand,,,Portrait
-,GDA_Film_Society_A1_1-0063.jpg,Film Society,Black,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0064.jpg,Film Society,White,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0065.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0066.jpg,Film Society,Pink,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0067.jpg,Film Society,Green,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0068.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0069.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0070.jpg,Film Society,Green,Screenprint,1965,,Portrait
-,GDA_Film_Society_A1_1-0071.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0072.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0073.jpg,Film Society,Pink,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0074.jpg,Film Society,Pink,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0075.jpg,Film Society,Yellow,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0076.jpg,Film Society,Brown,Letterpress,,,Portrait
-,GDA_Film_Society_A1_1-0077.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0078.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0079.jpg,Film Society,Green,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0080.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0081.jpg,Film Society,White,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0082.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0083.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0084.jpg,Film Society,Green,Offset,1964,,Portrait
-,GDA_Film_Society_A1_1-0085.jpg,Film Society,Black,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0086.jpg,Film Society,Purple,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0087.jpg,Film Society,Green,Offset,1970,,Portrait
-,GDA_Film_Society_A1_1-0088.jpg,Film Society,Orange,Screenprint,1968,Kevan Stafford,Portrait
-,GDA_Film_Society_A1_1-0089.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0090.jpg,Film Society,Blue,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0091.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_A1_1-0092.jpg,Film Society,Pink,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0093.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0094.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0095.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0096.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0097.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0098.jpg,Film Society,White,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0099.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0100.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0101.jpg,Film Society,Yellow,,,,Portrait
-,GDA_Film_Society_A1_1-0102.jpg,Film Society,Multicoloured,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0103.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0104.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0105.jpg,Film Society,Pink,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0106.jpg,Film Society,Blue,,,,Portrait
-,GDA_Film_Society_A1_1-0107.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0108.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0109.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0110.jpg,Film Society,Multicoloured,Offset,,,Portrait
-,GDA_Film_Society_A1_1-0111.jpg,Film Society,Pink,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0112.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0113.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0114.jpg,Film Society,Black,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0115.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0116.jpg,Film Society,Gold,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0117.jpg,Film Society,Black,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0118.jpg,Film Society,Black,Offset,,Phillipe Pham,Portrait
-,GDA_Film_Society_A1_1-0119.jpg,Film Society,Black,Screenprint,1966,,Portrait
-,GDA_Film_Society_A1_1-0120.jpg,Film Society,Black,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0121.jpg,Film Society,Black,Screenprint,,John Fenton Brown,Landscape
-,GDA_Film_Society_A1_1-0122.jpg,Film Society,Black,Offset,,,Landscape
-,GDA_Film_Society_A1_1-0123.jpg,Film Society,Black,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0124.jpg,Film Society,Black,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0125.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_A1_1-0126.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_A1_1-0127.jpg,Film Society,Red,Letterpress,,,Landscape
-,GDA_Film_Society_2_A1_2-0002.jpg,Film Society,Blue,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0003.jpg,Film Society,Brown,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0004.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0005.jpg,Film Society,Brown,Hand,,John Sewell,Portrait
-,GDA_Film_Society_2_A1_2-0006.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0007.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0008.jpg,Film Society,White,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0009.jpg,Film Society,White,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0010.jpg,Film Society,White,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0011.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0012.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0013.jpg,Film Society,White,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0014.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0015.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0016.jpg,Film Society,Black,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0017.jpg,Film Society,Orange,Hand,,,Landscape
-,GDA_Film_Society_2_A1_2-0018.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0019.jpg,Film Society,Red,Screenprint,1969,,Landscape
-,GDA_Film_Society_2_A1_2-0020.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0021.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0024.jpg,Film Society,White,Letterpress,,,Landscape
-,GDA_Film_Society_2_A1_2-0025.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0026.jpg,Film Society,Multicoloured,Screenprint,1968,,Portrait
-,GDA_Film_Society_2_A1_2-0027.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0028.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0029.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0031.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0032.jpg,Film Society,Yellow,Screenprint,1969,,Portrait
-,GDA_Film_Society_2_A1_2-0033.jpg,Film Society,White,Screenprint,1963,,Portrait
-,GDA_Film_Society_2_A1_2-0034.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0035.jpg,Film Society,Blue,Letterpress,,,Landscape
-,GDA_Film_Society_2_A1_2-0036.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0037.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0039.jpg,Film Society,Orange,Screenprint,,Brian Denyer,Portrait
-,GDA_Film_Society_2_A1_2-0041.jpg,Film Society,Pink,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0042.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0043.jpg,Film Society,Purple,Screenprint,,Woodcork,Portrait
-,GDA_Film_Society_2_A1_2-0044.jpg,Film Society,Blue,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0045.jpg,Film Society,Brown,Screenprint,1961,,Portrait
-,GDA_Film_Society_2_A1_2-0046.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0047.jpg,Film Society,Image,Offset,1959,,Landscape
-,GDA_Film_Society_2_A1_2-0048.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0049.jpg,Film Society,Blue,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0050.jpg,Film Society,Orange,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0051.jpg,Film Society,White,Screenprint,1959,,Portrait
-,GDA_Film_Society_2_A1_2-0052.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0053.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0054.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0055.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0056.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0057.jpg,Film Society,White,Screenprint,,John Fenton Brown,Portrait
-,GDA_Film_Society_2_A1_2-0058.jpg,Film Society,Black,Screenprint,1953,Jordan Searea,Portrait
-,GDA_Film_Society_2_A1_2-0059.jpg,Film Society,Brown,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0060.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0061.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0062.jpg,Film Society,Brown,,1952,Bruce Lacey,Landscape
-,GDA_Film_Society_2_A1_2-0064.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0065.jpg,Film Society,Blue,Hand,,,Landscape
-,GDA_Film_Society_2_A1_2-0067.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0068.jpg,Film Society,Orange,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0070.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0073.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0074.jpg,Film Society,Brown,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0075.jpg,Film Society,Red,Linocut,,,Landscape
-,GDA_Film_Society_2_A1_2-0076.jpg,Film Society,White,Hand,1952,,Portrait
-,GDA_Film_Society_2_A1_2-0077.jpg,Film Society,Brown,,,,Portrait
-,GDA_Film_Society_2_A1_2-0078.jpg,Film Society,Orange,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0080.jpg,Film Society,Multicoloured,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0082.jpg,Film Society,Green,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0083.jpg,Film Society,Pink,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0084.jpg,Film Society,Yellow,Offset,,,Portrait
-,GDA_Film_Society_2_A1_2-0087.jpg,Film Society,Green,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0088.jpg,Film Society,Red,Screenprint,1979,,Portrait
-,GDA_Film_Society_2_A1_2-0091.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0093.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0095.jpg,Film Society,Blue,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0097.jpg,Film Society,Yellow,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0099.jpg,Film Society,Green,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0100.jpg,Film Society,Purple,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0101.jpg,Film Society,Red,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0102.jpg,Film Society,Yellow,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0104.jpg,Film Society,White,Letterpress,1986,,Landscape
-,GDA_Film_Society_2_A1_2-0105.jpg,Film Society,Blue,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0106.jpg,Film Society,White,Screenprint,,,Portrait
-,GDA_Film_Society_2_A1_2-0107.jpg,Film Society,Image,Offset,1969,,Landscape
-,GDA_Film_Society_2_A1_2-0108.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0109.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0110.jpg,Film Society,Purple,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0111-1.jpg,Film Society,Red,Screenprint,1969,,Landscape
-,GDA_Film_Society_2_A1_2-0112-1.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0113-1.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0114-1.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0115-1.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0116-1.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0117.jpg,Film Society,Pink,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0118.jpg,Film Society,Yellow,Screenprint,1968,,Landscape
-,GDA_Film_Society_2_A1_2-0119.jpg,Film Society,Red,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0120.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0122.jpg,Film Society,Brown,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0123.jpg,Film Society,Black,Screenprint,,,Landscape
-,GDA_Film_Society_2_A1_2-0124.jpg,Film Society,Green,Screenprint,,,Landscape
+id,filename,title,promoting,colour,process,year,designer,
+GDA_Exhibitions_A1_1-0002,GDA_Exhibitions_A1_1-0002.jpg,Still there will be Stories,Exhibition,Red,Offset,1994,Sara Fanelli,
+GDA_Exhibitions_A1_1-0003,GDA_Exhibitions_A1_1-0003.jpg,Towards Art?,Exhibition,White,Screenprint,1962,David Hockney,
+GDA_Exhibitions_A1_1-0004,GDA_Exhibitions_A1_1-0004.jpg,RCA 1948–1953 Coronation Year Exhibition,Exhibition,Red,Screenprint,1953,,
+GDA_Exhibitions_A1_1-0005,GDA_Exhibitions_A1_1-0005.jpg,Folio Society Illustration Awards,Exhibition,White,Offset,2000,,
+GDA_Exhibitions_A1_1-0006,GDA_Exhibitions_A1_1-0006.jpg,Paintings and Sculpture by of the RCA and Slade Schools,Exhibition,White,Screenprint,,,
+GDA_Exhibitions_A1_1-0007,GDA_Exhibitions_A1_1-0007.jpg,Graphic Design Diploma Exhibition,Exhibition,White,Offset,1963,,
+GDA_Exhibitions_A1_1-0008,GDA_Exhibitions_A1_1-0008.jpg,Young Contemporaries,Exhibition,Blue,Screenprint,1969,,
+GDA_Exhibitions_A1_1-0011,GDA_Exhibitions_A1_1-0011.jpg,Young Contemporaries,Exhibition,Green,Offset,1969,,
+GDA_Exhibitions_A1_1-0012,GDA_Exhibitions_A1_1-0012.jpg,Graphic Design Diploma Exhibition,Exhibition,Red,Offset,1961,,
+GDA_Exhibitions_A1_1-0013,GDA_Exhibitions_A1_1-0013.jpg,7 Painters 7 Printmakers,Exhibition,Red,Offset,,,
+GDA_Exhibitions_A1_1-0014,GDA_Exhibitions_A1_1-0014.jpg,Fine Art for Industry,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_1-0015,GDA_Exhibitions_A1_1-0015.jpg,Rosenthal Studio,Exhibition,Black,Screenprint,,,
+GDA_Exhibitions_A1_1-0016,GDA_Exhibitions_A1_1-0016.jpg,RCA Degree Show,Exhibition,White,Offset,1974,,
+GDA_Exhibitions_A1_1-0017,GDA_Exhibitions_A1_1-0017.jpg,Painting Sculpture Environmental Media ,Exhibition,Yellow,,,,
+GDA_Exhibitions_A1_1-0018,GDA_Exhibitions_A1_1-0018.jpg,Five Painters Five Printmakers,Exhibition,Red,Offset,,,
+GDA_Exhibitions_A1_1-0019,GDA_Exhibitions_A1_1-0019.jpg,RCA Galleries,Exhibition,White,Offset,,,
+GDA_Exhibitions_A1_1-0020,GDA_Exhibitions_A1_1-0020.jpg,Pictures for Schools Exhibition,Exhibition,Blue,Screenprint,1963,,
+GDA_Exhibitions_A1_1-0021,GDA_Exhibitions_A1_1-0021.jpg,Shakespeare Lithographs,Exhibition,Orange,Offset,1964,,
+GDA_Exhibitions_A1_1-0022,GDA_Exhibitions_A1_1-0022.jpg,Gerard Titus-Carmel,Exhibition,White,Screenprint,,,
+GDA_Exhibitions_A1_1-0023,GDA_Exhibitions_A1_1-0023.jpg,Young Contemporaries,Exhibition,White,Screenprint,1962,Barrie Bates,
+GDA_Exhibitions_A1_1-0024,GDA_Exhibitions_A1_1-0024.jpg,Why are the 2nd year Painters,Exhibition,Blue,Screenprint,1969,,
+GDA_Exhibitions_A1_1-0025,GDA_Exhibitions_A1_1-0025.jpg,Second Year Painting Show,Exhibition,White,Screenprint,1980,,
+GDA_Exhibitions_A1_1-0027,GDA_Exhibitions_A1_1-0027.jpg,The Second Year Painters,Exhibition,Blue,Screenprint,1970,,
+GDA_Exhibitions_A1_1-0028,GDA_Exhibitions_A1_1-0028.jpg,Folio Society Illustration Awards,Exhibition,Multicoloured,Offset,1980,Martin mcGinn,
+GDA_Exhibitions_A1_1-0029,GDA_Exhibitions_A1_1-0029.jpg,An Exhibition of Paintings and Textiles,Exhibition,White,Offset,,,
+GDA_Exhibitions_A1_1-0030,GDA_Exhibitions_A1_1-0030.jpg,Delux Degree Show,Exhibition,White,Offset,1973,,
+GDA_Exhibitions_A1_1-0031,GDA_Exhibitions_A1_1-0031.jpg,Painting School Degree Exhibition,Exhibition,White,Offset,1970,,
+GDA_Exhibitions_A1_1-0032,GDA_Exhibitions_A1_1-0032.jpg,The last of the Letterpress Machines,Exhibition,White,Screenprint,1991,Neil Church,
+GDA_Exhibitions_A1_1-0033,GDA_Exhibitions_A1_1-0033.jpg,3 Sketchbooks,Exhibition,White,Screenprint,,,
+GDA_Exhibitions_A1_1-0035,GDA_Exhibitions_A1_1-0035.jpg,Arts Festival Exhibition,Exhibition,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_1-0036,GDA_Exhibitions_A1_1-0036.jpg,Exhibition of Design,Exhibition,Yellow,Letterpress,1956,,
+GDA_Exhibitions_A1_1-0037,GDA_Exhibitions_A1_1-0037.jpg,Exhibition of Paintings,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_1-0038,GDA_Exhibitions_A1_1-0038.jpg,Venice,Exhibition,Red,Screenprint,1986,Graham Elliott,
+GDA_Exhibitions_A1_1-0039,GDA_Exhibitions_A1_1-0039.jpg,Cool Painting,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_1-0040,GDA_Exhibitions_A1_1-0040.jpg,2nd Year Printmaking Show,Exhibition,Brown,Letterpress,,Mike Owner,
+GDA_Exhibitions_A1_1-0041,GDA_Exhibitions_A1_1-0041.jpg,Contact,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_1-0042,GDA_Exhibitions_A1_1-0042.jpg,Department of Graphic Information,Exhibition,Yellow,Screenprint,1948,MDC,
+GDA_Exhibitions_A1_1-0043,GDA_Exhibitions_A1_1-0043.jpg,RCA Wood Engravers,Exhibition,White,Letterpress,,,
+GDA_Exhibitions_A1_1-0044,GDA_Exhibitions_A1_1-0044.jpg,Work in Progress,Exhibition,Red,Letterpress,,Matt Stillman / Micheal Parry,
+GDA_Exhibitions_A1_1-0045,GDA_Exhibitions_A1_1-0045.jpg,Work in Progress,Exhibition,Green,Screenprint,,,
+GDA_Exhibitions_A1_1-0046,GDA_Exhibitions_A1_1-0046.jpg,Second Year Painting Show,Exhibition,Green,Screenprint,,,
+GDA_Exhibitions_A1_1-0047,GDA_Exhibitions_A1_1-0047.jpg,Fine Art Degree Shows,Exhibition,Blue,Offset,1989,,
+GDA_Exhibitions_A1_1-0048,GDA_Exhibitions_A1_1-0048.jpg,Work in Progress,Exhibition,Red,Offset,2007,,
+GDA_Exhibitions_A1_1-0049,GDA_Exhibitions_A1_1-0049.jpg,Waterloo 71,Exhibition,Red,Screenprint,1971,,
+GDA_Exhibitions_A1_1-0052,GDA_Exhibitions_A1_1-0052.jpg,Exhibition',Exhibition,Multicoloured,Screenprint,,,
+GDA_Exhibitions_A1_1-0054,GDA_Exhibitions_A1_1-0054.jpg,Berlin Impressions,Exhibition,Red,Screenprint,,,
+GDA_Exhibitions_A1_1-0056,GDA_Exhibitions_A1_1-0056.jpg,School of Graphic Arts 2nd Year show,Exhibition,White,Offset,,,
+GDA_Exhibitions_A1_1-0057,GDA_Exhibitions_A1_1-0057.jpg,Larger Than Life,Exhibition,Red,Screenprint,,,
+GDA_Exhibitions_A1_1-0058,GDA_Exhibitions_A1_1-0058.jpg,IDE:10,Exhibition,White,Offset,1969,,
+GDA_Exhibitions_A1_1-0059,GDA_Exhibitions_A1_1-0059.jpg,Work in Progress,Exhibition,White,Offset,,,
+GDA_Exhibitions_A1_1-0060,GDA_Exhibitions_A1_1-0060.jpg,Work in Progress,Exhibition,Pink,Screenprint,1996,,
+GDA_Exhibitions_A1_1-0061,GDA_Exhibitions_A1_1-0061.jpg,Oberon Book Illustration Awards,Exhibition,White,Offset,1981,,
+GDA_Exhibitions_A1_1-0062,GDA_Exhibitions_A1_1-0062.jpg,Printmaking Degree Show,Exhibition,Blue,Offset,1984,,
+GDA_Exhibitions_A1_1-0063,GDA_Exhibitions_A1_1-0063.jpg,Oberon Book Illustration Awards,Exhibition,Red,Offset,2004,Leonara Chan,
+GDA_Exhibitions_A1_1-0064,GDA_Exhibitions_A1_1-0064.jpg,Work in Progress,Exhibition,Red,Offset,1983,,
+GDA_Exhibitions_A1_1-0065,GDA_Exhibitions_A1_1-0065.jpg,Folio Society Illustration Awards,Exhibition,White,Offset,1983,,
+GDA_Exhibitions_A1_1-0066,GDA_Exhibitions_A1_1-0066.jpg,Still there will be Stories,Exhibition,Yellow,Offset,1984,Carlo Targalike,
+GDA_Exhibitions_A1_1-0067,GDA_Exhibitions_A1_1-0067.jpg,Oberon Book Illustration Awards,Exhibition,White,Offset,2008,,
+GDA_Exhibitions_A1_1-0068,GDA_Exhibitions_A1_1-0068.jpg,Exhibition of Sculpture,Exhibition,Red,Screenprint,,,
+GDA_Exhibitions_A1_1-0069,GDA_Exhibitions_A1_1-0069.jpg,Draw,Exhibition,White,Hand,2010,,
+GDA_Exhibitions_A1_1-0070,GDA_Exhibitions_A1_1-0070.jpg,Draw,Exhibition,White,Hand,2010,,
+GDA_Exhibitions_A1_1-0071,GDA_Exhibitions_A1_1-0071.jpg,Draw,Exhibition,White,Hand,2010,,
+GDA_Exhibitions_A1_1-0072,GDA_Exhibitions_A1_1-0072.jpg,Draw,Exhibition,White,Hand,2010,,
+GDA_Exhibitions_A1_1-0073,GDA_Exhibitions_A1_1-0073.jpg,Draw,Exhibition,White,Hand,2010,,
+GDA_Exhibitions_A1_1-0074,GDA_Exhibitions_A1_1-0074.jpg,A Room of Our Own,Exhibition,Multicoloured,Offset,1958,Don Foster,
+GDA_Exhibitions_A1_1-0075,GDA_Exhibitions_A1_1-0075.jpg,Work in Progress,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_1-0076,GDA_Exhibitions_A1_1-0076.jpg,Courtaulds,Exhibition,Multicoloured,Offset,1969,,
+GDA_Exhibitions_A1_1-0077,GDA_Exhibitions_A1_1-0077.jpg,Painting and Printmaking Degree Shows,Exhibition,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_1-0078,GDA_Exhibitions_A1_1-0078.jpg,Second Year Show,Exhibition,Multicoloured,Offset,1980,,
+GDA_Exhibitions_A1_1-0079,GDA_Exhibitions_A1_1-0079.jpg,Association of Illustration Forum,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_1-0080,GDA_Exhibitions_A1_1-0080.jpg,Degree Show,Exhibition,White,Offset,1983,,
+GDA_Exhibitions_A1_1-0081,GDA_Exhibitions_A1_1-0081.jpg,Second Year Painting Show,Exhibition,White,Offset,1980,,
+GDA_Exhibitions_A1_1-0082,GDA_Exhibitions_A1_1-0082.jpg,3 Painters exhibiting at RCA Galleries,Exhibition,Yellow,Offset,,,
+GDA_Exhibitions_A1_1-0083,GDA_Exhibitions_A1_1-0083.jpg,15 Graphic Design & Art Direction,Exhibition,Yellow,Offset,,,
+GDA_Exhibitions_A1_1-0084,GDA_Exhibitions_A1_1-0084.jpg,15 Graphic Design & Art Direction,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_1-0085,GDA_Exhibitions_A1_1-0085.jpg,Work in Progress,Exhibition,White,Letterpress,,Matt Stillman / Micheal Parry,
+GDA_Exhibitions_A1_1-0086,GDA_Exhibitions_A1_1-0086.jpg,2nd Year Painting ,Exhibition,White,Screenprint,1981,,
+GDA_Exhibitions_A1_1-0088,GDA_Exhibitions_A1_1-0088.jpg,Catalogue of Disasters,Exhibition,White,Screenprint,1998,,
+GDA_Exhibitions_A1_1-0089,GDA_Exhibitions_A1_1-0089.jpg,The Folio Society,Exhibition,Multicoloured,Offset,1988,Geoff Grandfield,
+GDA_Exhibitions_A1_1-0092,GDA_Exhibitions_A1_1-0092.jpg,Summer Show,Exhibition,Pink,Offset,1999,Frank Phillipin,
+GDA_Exhibitions_A1_1-0095,GDA_Exhibitions_A1_1-0095.jpg,Architectural Ceramics,Exhibition,Black,Screenprint,,John Watson,
+GDA_Exhibitions_A1_1-0097,GDA_Exhibitions_A1_1-0097.jpg,School of Applied Art,Exhibition,White,Offset,,A&R,
+GDA_Exhibitions_A1_1-0098,GDA_Exhibitions_A1_1-0098.jpg,Degree Show,Exhibition,White,Screenprint,1982,,
+GDA_Exhibitions_A1_1-0099,GDA_Exhibitions_A1_1-0099.jpg,The Environmental Media Dept.,Exhibition,White,Screenprint,,Brian Padden,
+GDA_Exhibitions_A1_1-0100,GDA_Exhibitions_A1_1-0100.jpg,Work in Progress,Exhibition,Multicoloured,Hand,2001,,
+GDA_Exhibitions_A1_1-0101,GDA_Exhibitions_A1_1-0101.jpg,Sculpture Degree Show,Exhibition,Image,Offset,,,
+GDA_Exhibitions_A1_1-0102,GDA_Exhibitions_A1_1-0102.jpg,"Sladw, Royal Academy",Exhibition,Red,Offset,,,
+GDA_Exhibitions_A1_1-0103,GDA_Exhibitions_A1_1-0103.jpg,Printmaking Degree Show,Exhibition,Image,Offset,1980,,
+GDA_Exhibitions_A1_1-0104,GDA_Exhibitions_A1_1-0104.jpg,School of Sculpture Degree Show,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_1-0106,GDA_Exhibitions_A1_1-0106.jpg,Degree Show,Exhibition,Black,Offset,1981,,
+GDA_Exhibitions_A1_1-0107,GDA_Exhibitions_A1_1-0107.jpg,Sculpture Works,Exhibition,Black,Hand,1984,,
+GDA_Exhibitions_A1_1-0109,GDA_Exhibitions_A1_1-0109.jpg,New Designs in Man-made Fibres,Exhibition,Pink,Screenprint,,,
+GDA_Exhibitions_A1_1-0110,GDA_Exhibitions_A1_1-0110.jpg,New Designs in Man-made Fibres,Exhibition,Yellow,Screenprint,,,
+GDA_Exhibitions_A1_1-0111,GDA_Exhibitions_A1_1-0111.jpg,Red Faces in the Blue Room,Exhibition,Pink,Screenprint,,,
+GDA_Exhibitions_A1_1-0113,GDA_Exhibitions_A1_1-0113.jpg,Degree Exhibition,Exhibition,Red,Screenprint,1969,,
+GDA_Exhibitions_A1_1-0114,GDA_Exhibitions_A1_1-0114.jpg,Folio Society Illustration Awards,Exhibition,Yellow,Offset,1986,,
+GDA_Exhibitions_A1_1-0115,GDA_Exhibitions_A1_1-0115.jpg,Oberon Book Illustration Awards,Exhibition,Image,Digital,2006,,
+GDA_Exhibitions_A1_1-0116,GDA_Exhibitions_A1_1-0116.jpg,School of Film and Television Degree Show,Exhibition,Black,Screenprint,1977,,
+GDA_Exhibitions_A1_1-0117,GDA_Exhibitions_A1_1-0117.jpg,Surface to Surface,Exhibition,Red,Screenprint,1970,,
+GDA_Exhibitions_A1_1-0118,GDA_Exhibitions_A1_1-0118.jpg,Pictures and Print,Exhibition,Black,Offset,,,
+GDA_Exhibitions_A1_1-0119,GDA_Exhibitions_A1_1-0119.jpg,Art Films 1976-77,Exhibition,Black,Offset,1976,,
+GDA_Exhibitions_A1_1-0120,GDA_Exhibitions_A1_1-0120.jpg,New Contemporaries,Exhibition,Blue,Screenprint,1978,,
+GDA_Exhibitions_A1_1-0121,GDA_Exhibitions_A1_1-0121.jpg,Painting Degree Show,Exhibition,Black,Offset,1984,,
+GDA_Exhibitions_A1_1-0122,GDA_Exhibitions_A1_1-0122.jpg,A View of Henry Moore,Exhibition,Green,Offset,1968,,
+GDA_Exhibitions_A1_1-0123,GDA_Exhibitions_A1_1-0123.jpg,Young Contemporaries,Exhibition,Orange,Offset,1966,,
+GDA_Exhibitions_A1_1-0124,GDA_Exhibitions_A1_1-0124.jpg,First Special Showing,Exhibition,Black,Screenprint,,,
+GDA_Exhibitions_A1_1-0125,GDA_Exhibitions_A1_1-0125.jpg,Hall-mark ,Exhibition,Blue,Screenprint,1966,,
+GDA_Exhibitions_A1_2-0002,GDA_Exhibitions_A1_2-0002.jpg,Painting and Printmaking Degree Shows,Exhibition,Yellow,Offset,1985,,
+GDA_Exhibitions_A1_2-0003,GDA_Exhibitions_A1_2-0003.jpg,Cyril Reason,Exhibition,Brown,Screenprint,1966,,
+GDA_Exhibitions_A1_2-0004,GDA_Exhibitions_A1_2-0004.jpg,Printmaking Degree Show,Exhibition,Image,Offset,1982,,
+GDA_Exhibitions_A1_2-0006,GDA_Exhibitions_A1_2-0006.jpg,Paintings by Peter Millband,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_2-0007,GDA_Exhibitions_A1_2-0007.jpg,The Folio Society,Exhibition,Red,Offset,1986,,
+GDA_Exhibitions_A1_2-0009,GDA_Exhibitions_A1_2-0009.jpg,La Boule,Exhibition,Blue,Screenprint,1986,,
+GDA_Exhibitions_A1_2-0010,GDA_Exhibitions_A1_2-0010.jpg,Department of Photography Degree Show,Exhibition,White,Offset,1985,,
+GDA_Exhibitions_A1_2-0011,GDA_Exhibitions_A1_2-0011.jpg,Painting and Printmaking Degree Shows,Exhibition,Multicoloured,Screenprint,,,
+GDA_Exhibitions_A1_2-0012,GDA_Exhibitions_A1_2-0012.jpg,Great Expectations,Exhibition,White,Offset,,,
+GDA_Exhibitions_A1_2-0013,GDA_Exhibitions_A1_2-0013.jpg,Degree Show,Exhibition,Blue,Offset,1997,,
+GDA_Exhibitions_A1_2-0014,GDA_Exhibitions_A1_2-0014.jpg,Bryan Kneale Sculpture 1960-83 & Bone Drawings 1983-86,Exhibition,Blue,Offset,1986,,
+GDA_Exhibitions_A1_2-0015,GDA_Exhibitions_A1_2-0015.jpg,Gate 14,Exhibition,Blue,Offset,1993,,
+GDA_Exhibitions_A1_2-0016,GDA_Exhibitions_A1_2-0016.jpg,Printmaking Degree Show,Exhibition,Image,Offset,,,
+GDA_Exhibitions_A1_2-0017,GDA_Exhibitions_A1_2-0017.jpg,Painting Degree Show,Exhibition,Multicoloured,Offset,1982,Simon Ogden,
+GDA_Exhibitions_A1_2-0018,GDA_Exhibitions_A1_2-0018.jpg,Zillij The Art of Moroccan Ceramics,Exhibition,Blue,Offset,1992,,
+GDA_Exhibitions_A1_2-0019,GDA_Exhibitions_A1_2-0019.jpg,Painting and Printmaking Degree Shows,Exhibition,Image,Offset,1976,,
+GDA_Exhibitions_A1_2-0020,GDA_Exhibitions_A1_2-0020.jpg,Brazilian Art Today,Exhibition,Blue,Offset,,,
+GDA_Exhibitions_A1_2-0021,GDA_Exhibitions_A1_2-0021.jpg,Eduardo Paolozzi,Exhibition,Multicoloured,Offset,1986,,
+GDA_Exhibitions_A1_2-0022,GDA_Exhibitions_A1_2-0022.jpg,A. Craft ,Exhibition,Black,Offset,,,
+GDA_Exhibitions_A1_2-0023,GDA_Exhibitions_A1_2-0023.jpg,Printmaking Degree Show,Exhibition,Blue,Offset,1984,,
+GDA_Exhibitions_A1_2-0024,GDA_Exhibitions_A1_2-0024.jpg,Degree Show,Exhibition,Yellow,Offset,,,
+GDA_Exhibitions_A1_2-0026,GDA_Exhibitions_A1_2-0026.jpg,Industrial Design Exhibition,Exhibition,Yellow,Offset,,,
+GDA_Exhibitions_A1_2-0027,GDA_Exhibitions_A1_2-0027.jpg,Interim Show,Exhibition,Image,Digital,2007,,
+GDA_Exhibitions_A1_2-0028,GDA_Exhibitions_A1_2-0028.jpg,Painting and Printmaking Degree Shows,Exhibition,Multicoloured,Offset,1979,,
+GDA_Exhibitions_A1_2-0029,GDA_Exhibitions_A1_2-0029.jpg,Recent Sculptors from the RCA,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_2-0030,GDA_Exhibitions_A1_2-0030.jpg,Industrial Design Exhibition,Exhibition,Red,Screenprint,,John Diebel,
+GDA_Exhibitions_A1_2-0031,GDA_Exhibitions_A1_2-0031.jpg,First Year Printmaking and Sculpture Exhibition,Exhibition,Image,Offset,,,
+GDA_Exhibitions_A1_2-0032,GDA_Exhibitions_A1_2-0032.jpg,Graphic Design Degree Show,Exhibition,Multicoloured,Screenprint,1971,,
+GDA_Exhibitions_A1_2-0033,GDA_Exhibitions_A1_2-0033.jpg,Graduates,Exhibition,Multicoloured,Offset,1985,Jeremy Pearce,
+GDA_Exhibitions_A1_2-0035,GDA_Exhibitions_A1_2-0035.jpg,Coming Events Printmaking Painting & Sculpture,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_2-0037,GDA_Exhibitions_A1_2-0037.jpg,Paintings by Stanford Steele,Exhibition,Red,Screenprint,1968,,
+GDA_Exhibitions_A1_2-0038,GDA_Exhibitions_A1_2-0038.jpg,Vintage 1967,Exhibition,Blue,Screenprint,1967,,
+GDA_Exhibitions_A1_2-0039,GDA_Exhibitions_A1_2-0039.jpg,Exhibition of Paintings,Exhibition,Gold,Letterpress,,,
+GDA_Exhibitions_A1_2-0040,GDA_Exhibitions_A1_2-0040.jpg,Graphic Design Diploma Exhibition,Exhibition,Red,Screenprint,1963,,
+GDA_Exhibitions_A1_2-0041,GDA_Exhibitions_A1_2-0041.jpg,Hamstead Artists,Exhibition,Multicoloured,Offset,1986,Abrham Games,
+GDA_Exhibitions_A1_2-0042,GDA_Exhibitions_A1_2-0042.jpg,Degree Show,Exhibition,Blue,Offset,1990,Jeanne Verdoux,
+GDA_Exhibitions_A1_2-0043,GDA_Exhibitions_A1_2-0043.jpg,Open Week,Exhibition,Multicoloured,Screenprint,1962,,
+GDA_Exhibitions_A1_2-0044,GDA_Exhibitions_A1_2-0044.jpg,Windows for Coventry,Exhibition,Red,Offset,,,
+GDA_Exhibitions_A1_2-0045,GDA_Exhibitions_A1_2-0045.jpg,Printmaking and Sculpture,Exhibition,Image,Offset,,,
+GDA_Exhibitions_A1_2-0046,GDA_Exhibitions_A1_2-0046.jpg,The Show,Exhibition,Red,Offset,2000,,
+GDA_Exhibitions_A1_2-0047,GDA_Exhibitions_A1_2-0047.jpg,Six Ex RCA,Exhibition,Black,Screenprint,,,
+GDA_Exhibitions_A1_2-0048,GDA_Exhibitions_A1_2-0048.jpg,Degree Show,Exhibition,Multicoloured,,1982,,
+GDA_Exhibitions_A1_2-0049,GDA_Exhibitions_A1_2-0049.jpg,Degree Show,Exhibition,Image,,1983,,
+GDA_Exhibitions_A1_2-0050,GDA_Exhibitions_A1_2-0050.jpg,Vintage 1967,Exhibition,Brown,Screenprint,1967,,
+GDA_Exhibitions_A1_2-0051,GDA_Exhibitions_A1_2-0051.jpg,Degree Show,Exhibition,Blue,Offset,1986,,
+GDA_Exhibitions_A1_2-0052,GDA_Exhibitions_A1_2-0052.jpg,Xlll Printmakers,Exhibition,Multicoloured,Offset,1976,,
+GDA_Exhibitions_A1_2-0054,GDA_Exhibitions_A1_2-0054.jpg,Young Contemporaries,Exhibition,Purple,Offset,1967,,
+GDA_Exhibitions_A1_2-0055,GDA_Exhibitions_A1_2-0055.jpg,Young Contemporaries,Exhibition,Brown,,,,
+GDA_Exhibitions_A1_2-0056,GDA_Exhibitions_A1_2-0056.jpg,Young Contemporaries,Exhibition,Green,Screenprint,,,
+GDA_Exhibitions_A1_2-0057,GDA_Exhibitions_A1_2-0057.jpg,Young Contemporaries,Exhibition,Purple,Screenprint,1968,,
+GDA_Exhibitions_A1_2-0058,GDA_Exhibitions_A1_2-0058.jpg,Young Contemporaries,Exhibition,Orange,Screenprint,1966,,
+GDA_Exhibitions_A1_2-0059,GDA_Exhibitions_A1_2-0059.jpg,Fashion,Exhibition,Multicoloured,Screenprint,1981,,
+GDA_Exhibitions_A1_2-0060,GDA_Exhibitions_A1_2-0060.jpg,Young Contemporaries,Exhibition,Red,Screenprint,,,
+GDA_Exhibitions_A1_2-0061,GDA_Exhibitions_A1_2-0061.jpg,Modern French Tapestries,Exhibition,Brown,Offset,1972,,
+GDA_Exhibitions_A1_2-0062,GDA_Exhibitions_A1_2-0062.jpg,Peter Logans Mechanical Ballet,Exhibition,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_2-0063,GDA_Exhibitions_A1_2-0063.jpg,An Exhibition of Architectural Models,Exhibition,Orange,Letterpress,,,
+GDA_Exhibitions_A1_2-0064,GDA_Exhibitions_A1_2-0064.jpg,Fifty Odd Posters,Exhibition,White,Letterpress,1970,,
+GDA_Exhibitions_A1_2-0065,GDA_Exhibitions_A1_2-0065.jpg,Visual Aspects of Science,Exhibition,Green,Offset, ,Larry Carter,
+GDA_Exhibitions_A1_2-0066,GDA_Exhibitions_A1_2-0066.jpg,Graphic Design Diploma Exhibition,Exhibition,Black,Offset,1964,,
+GDA_Exhibitions_A1_2-0067,GDA_Exhibitions_A1_2-0067.jpg,Modern French Tapestries,Exhibition,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_2-0068,GDA_Exhibitions_A1_2-0068.jpg,Degree Show,Exhibition,Blue,Offset,1981,,
+GDA_Exhibitions_A1_2-0069,GDA_Exhibitions_A1_2-0069.jpg,Graphic Design Diploma Exhibition,Exhibition,Black,Offset,1961,Allan Marshall,
+GDA_Exhibitions_A1_2-0070,GDA_Exhibitions_A1_2-0070.jpg,Degree Show,Exhibition,Blue,Offset,,Gary Rowland,
+GDA_Exhibitions_A1_2-0071,GDA_Exhibitions_A1_2-0071.jpg,Graphic Design Diploma Exhibition,Exhibition,Red,Offset,1961,,
+GDA_Exhibitions_A1_2-0072,GDA_Exhibitions_A1_2-0072.jpg,Break Through ,Exhibition,Multicoloured,Offset,,The Thunder Jockeys,
+GDA_Exhibitions_A1_2-0073,GDA_Exhibitions_A1_2-0073.jpg,The Work of the RCA,Exhibition,Pink,,,,
+GDA_Exhibitions_A1_2-0074,GDA_Exhibitions_A1_2-0074.jpg,Fly the Flag,Exhibition,Red,Screenprint,,,
+GDA_Exhibitions_A1_2-0075,GDA_Exhibitions_A1_2-0075.jpg,Beyond Illustration,Exhibition,Yellow,Offset,1971,Dave Freeman,
+GDA_Exhibitions_A1_2-0076,GDA_Exhibitions_A1_2-0076.jpg,Oberon Book Illustration Awards,Exhibition,Yellow,Digital,2010,Jack Gilby,
+GDA_Exhibitions_A1_2-0078,GDA_Exhibitions_A1_2-0078.jpg,Still there will be Stories,Exhibition,Red,Offset,1971,,
+GDA_Exhibitions_A1_2-0079,GDA_Exhibitions_A1_2-0079.jpg,Beyond Illustration,Exhibition,Image,Offset,1971,,
+GDA_Exhibitions_A1_2-0080,GDA_Exhibitions_A1_2-0080.jpg,Design of the Times,Exhibition,Image,Offset,1996,Graphic Thought Facility / Russell Barns,
+GDA_Exhibitions_A1_2-0083,GDA_Exhibitions_A1_2-0083.jpg,Fly the Flag,Exhibition,Blue,Screenprint,,,
+GDA_Exhibitions_A1_2-0084,GDA_Exhibitions_A1_2-0084.jpg,Fly the Flag,Exhibition,White,Screenprint,1993,Al Fuller,
+GDA_Exhibitions_A1_2-0085,GDA_Exhibitions_A1_2-0085.jpg,Degree Show,Exhibition,Green,Offset,1993,Barry Vaud,
+GDA_Exhibitions_A1_2-0087,GDA_Exhibitions_A1_2-0087.jpg,Whats Yours?,Exhibition,Red,Offset,,,
+GDA_Exhibitions_A1_2-0088,GDA_Exhibitions_A1_2-0088.jpg,Whats Yours?,Exhibition,Brown,Offset,,,
+GDA_Exhibitions_A1_2-0089,GDA_Exhibitions_A1_2-0089.jpg,Exhibition of Paintings Sculpture Engraving and Graphic Design,Exhibition,Yellow,Offset,1952,Bailey,
+GDA_Exhibitions_A1_2-0091,GDA_Exhibitions_A1_2-0091.jpg,An Exhibition by 2nd year Illustration Students,Exhibition,Yellow,Screenprint,,,
+GDA_Exhibitions_A1_2-0092,GDA_Exhibitions_A1_2-0092.jpg,Architectural Ceramics,Exhibition,Gold,Screenprint,,John Watson,
+GDA_Exhibitions_A1_2-0093,GDA_Exhibitions_A1_2-0093.jpg,Exhibition of the Graphic work of Milton Glaser,Exhibition,White,Screenprint,,,
+GDA_Exhibitions_A1_2-0094,GDA_Exhibitions_A1_2-0094.jpg,Wish you were here,Exhibition,Image,Offset,1991,Ian Vickers,
+GDA_Exhibitions_A1_2-0095,GDA_Exhibitions_A1_2-0095.jpg,Picture This,Exhibition,Red,Offset,,Angus Hyland,
+GDA_Exhibitions_A1_2-0096,GDA_Exhibitions_A1_2-0096.jpg,Works for '94,Exhibition,Image,Offset,1994,,
+GDA_Exhibitions_A1_2-0097,GDA_Exhibitions_A1_2-0097.jpg,Work in Progress,Exhibition,Pink,Offset,1999,Tickles,
+GDA_Exhibitions_A1_2-0098,GDA_Exhibitions_A1_2-0098.jpg,Make Believe,Exhibition,White,Offset,1995,,
+GDA_Exhibitions_A1_2-0099,GDA_Exhibitions_A1_2-0099.jpg,Faith & Reason,Exhibition,Green,Screenprint,1999,,
+GDA_Exhibitions_A1_2-0100,GDA_Exhibitions_A1_2-0100.jpg,A Retrospective Exhibition of work by Norman Adams,Exhibition,Green,Screenprint,,,
+GDA_Exhibitions_A1_2-0101,GDA_Exhibitions_A1_2-0101.jpg,And still there will be stories,Exhibition,Blue,Offset,1994,Carlo Targalia,
+GDA_Exhibitions_A1_2-0102,GDA_Exhibitions_A1_2-0102.jpg,Pacovska,Exhibition,Red,Screenprint,1998,,
+GDA_Exhibitions_A1_2-0103,GDA_Exhibitions_A1_2-0103.jpg,Printmaking and Sculpture,Exhibition,Red,Offset,2000,,
+GDA_Exhibitions_A1_2-0104,GDA_Exhibitions_A1_2-0104.jpg,A Six Day Exploration/Exhibition of the Hockney Gallery,Exhibition,White,Offset,1999,,
+GDA_Exhibitions_A1_2-0106,GDA_Exhibitions_A1_2-0106.jpg,Industrial Design Exhibition,Exhibition,White,Offset,1993,Jesper Stahl / Gary Lockton,
+GDA_Exhibitions_A1_2-0107,GDA_Exhibitions_A1_2-0107.jpg,Show RCA,Exhibition,White,Digital,2009,,
+GDA_Exhibitions_A1_2-0109,GDA_Exhibitions_A1_2-0109.jpg,Prince Alberts Vision,Exhibition,Multicoloured,Offset,1991,,
+GDA_Exhibitions_A1_2-0110,GDA_Exhibitions_A1_2-0110.jpg,The Booth-Clibborn Collection,Exhibition,Multicoloured,Offset,1994,A Kimonski,
+GDA_Exhibitions_A1_2-0111,GDA_Exhibitions_A1_2-0111.jpg,Sculpture Degree Show,Exhibition,Brown,Screenprint,1972,,
+GDA_Film_Society_2_A1_2-0002,GDA_Film_Society_2_A1_2-0002.jpg,Only Two Can Play,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0003,GDA_Film_Society_2_A1_2-0003.jpg,That man From Rio,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0004,GDA_Film_Society_2_A1_2-0004.jpg,La Notte,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0005,GDA_Film_Society_2_A1_2-0005.jpg,Paisa,Film Society,Brown,Hand,,John Sewell,
+GDA_Film_Society_2_A1_2-0006,GDA_Film_Society_2_A1_2-0006.jpg,Derek Hambra,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0007,GDA_Film_Society_2_A1_2-0007.jpg,La Notte,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0008,GDA_Film_Society_2_A1_2-0008.jpg,Paris La Nuit,Film Society,White,Offset,,,
+GDA_Film_Society_2_A1_2-0009,GDA_Film_Society_2_A1_2-0009.jpg,All the Kings Men,Film Society,White,Offset,,,
+GDA_Film_Society_2_A1_2-0010,GDA_Film_Society_2_A1_2-0010.jpg,La Belle Vie,Film Society,White,Offset,,,
+GDA_Film_Society_2_A1_2-0011,GDA_Film_Society_2_A1_2-0011.jpg,End as a Man,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0012,GDA_Film_Society_2_A1_2-0012.jpg,At the Circus,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0013,GDA_Film_Society_2_A1_2-0013.jpg,Eyes without a Face,Film Society,White,Offset,,,
+GDA_Film_Society_2_A1_2-0014,GDA_Film_Society_2_A1_2-0014.jpg,A Taste of Honey,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0015,GDA_Film_Society_2_A1_2-0015.jpg,The Golem,Film Society,Green,Screenprint,,,
+GDA_Film_Society_2_A1_2-0016,GDA_Film_Society_2_A1_2-0016.jpg,Death Notice,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0017,GDA_Film_Society_2_A1_2-0017.jpg,Lili,Film Society,Orange,Hand,,,
+GDA_Film_Society_2_A1_2-0018,GDA_Film_Society_2_A1_2-0018.jpg,Left Handed,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0019,GDA_Film_Society_2_A1_2-0019.jpg,Candide,Film Society,Red,Screenprint,1969,,
+GDA_Film_Society_2_A1_2-0020,GDA_Film_Society_2_A1_2-0020.jpg,Hands over the City,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0021,GDA_Film_Society_2_A1_2-0021.jpg,Who are you Polly Maggoo,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0024,GDA_Film_Society_2_A1_2-0024.jpg,The...,Film Society,White,Letterpress,,,
+GDA_Film_Society_2_A1_2-0025,GDA_Film_Society_2_A1_2-0025.jpg,Red River,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0026,GDA_Film_Society_2_A1_2-0026.jpg,Persona,Film Society,Multicoloured,Screenprint,1968,,
+GDA_Film_Society_2_A1_2-0027,GDA_Film_Society_2_A1_2-0027.jpg,Fireworks,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0028,GDA_Film_Society_2_A1_2-0028.jpg,October,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0029,GDA_Film_Society_2_A1_2-0029.jpg,The Fireman's Ball,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0031,GDA_Film_Society_2_A1_2-0031.jpg,Hidden Fortress,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0032,GDA_Film_Society_2_A1_2-0032.jpg,Of 1000 Delights,Film Society,Yellow,Screenprint,1969,,
+GDA_Film_Society_2_A1_2-0033,GDA_Film_Society_2_A1_2-0033.jpg,An Actors Revenge,Film Society,White,Screenprint,1963,,
+GDA_Film_Society_2_A1_2-0034,GDA_Film_Society_2_A1_2-0034.jpg,The Cranes Are Flying,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0035,GDA_Film_Society_2_A1_2-0035.jpg,A Member of the Wedding,Film Society,Blue,Letterpress,,,
+GDA_Film_Society_2_A1_2-0036,GDA_Film_Society_2_A1_2-0036.jpg,Paris Nous Appartient,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0037,GDA_Film_Society_2_A1_2-0037.jpg,Gods Against Tomorrow,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0041,GDA_Film_Society_2_A1_2-0041.jpg,An American in Paris,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_2_A1_2-0042,GDA_Film_Society_2_A1_2-0042.jpg,Bicycle Thieves,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0043,GDA_Film_Society_2_A1_2-0043.jpg,Le Testament d'Orphee,Film Society,Purple,Screenprint,,Woodcork,
+GDA_Film_Society_2_A1_2-0044,GDA_Film_Society_2_A1_2-0044.jpg,Traffic,Film Society,Blue,Offset,,,
+GDA_Film_Society_2_A1_2-0045,GDA_Film_Society_2_A1_2-0045.jpg,Film Soc,Film Society,Brown,Screenprint,1961,,
+GDA_Film_Society_2_A1_2-0046,GDA_Film_Society_2_A1_2-0046.jpg,At the Cinema,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0047,GDA_Film_Society_2_A1_2-0047.jpg,Our Man In Havana,Film Society,Image,Offset,1959,,
+GDA_Film_Society_2_A1_2-0048,GDA_Film_Society_2_A1_2-0048.jpg,Summer Manoeuvres,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0049,GDA_Film_Society_2_A1_2-0049.jpg,Intolerance,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0050,GDA_Film_Society_2_A1_2-0050.jpg,Eight Shorts,Film Society,Orange,Offset,,,
+GDA_Film_Society_2_A1_2-0051,GDA_Film_Society_2_A1_2-0051.jpg,Oh Dreamland,Film Society,White,Screenprint,1959,,
+GDA_Film_Society_2_A1_2-0052,GDA_Film_Society_2_A1_2-0052.jpg,Murder Inc,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0053,GDA_Film_Society_2_A1_2-0053.jpg,Kanal,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0054,GDA_Film_Society_2_A1_2-0054.jpg,The Mill on the River,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0055,GDA_Film_Society_2_A1_2-0055.jpg,House of Bamboo,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0056,GDA_Film_Society_2_A1_2-0056.jpg,North by Northwest,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0057,GDA_Film_Society_2_A1_2-0057.jpg,The Savage Eye,Film Society,White,Screenprint,,John Fenton Brown,
+GDA_Film_Society_2_A1_2-0058,GDA_Film_Society_2_A1_2-0058.jpg,The Naked City,Film Society,Black,Screenprint,1953,Jordan Searea,
+GDA_Film_Society_2_A1_2-0059,GDA_Film_Society_2_A1_2-0059.jpg,Rashamon,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0060,GDA_Film_Society_2_A1_2-0060.jpg,The General Line,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0061,GDA_Film_Society_2_A1_2-0061.jpg,Films,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0062,GDA_Film_Society_2_A1_2-0062.jpg,Mother,Film Society,Brown,,1952,Bruce Lacey,
+GDA_Film_Society_2_A1_2-0064,GDA_Film_Society_2_A1_2-0064.jpg,The Red Badge of Courage,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0065,GDA_Film_Society_2_A1_2-0065.jpg,The Grapes of Wrath,Film Society,Blue,Hand,,,
+GDA_Film_Society_2_A1_2-0067,GDA_Film_Society_2_A1_2-0067.jpg,Los Golfos,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0068,GDA_Film_Society_2_A1_2-0068.jpg,The Navigator,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0070,GDA_Film_Society_2_A1_2-0070.jpg,The Balcony Sex,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_2_A1_2-0073,GDA_Film_Society_2_A1_2-0073.jpg,The Imposter,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0074,GDA_Film_Society_2_A1_2-0074.jpg,Wosseck,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0075,GDA_Film_Society_2_A1_2-0075.jpg,A Night at the Opera,Film Society,Red,Linocut,,,
+GDA_Film_Society_2_A1_2-0076,GDA_Film_Society_2_A1_2-0076.jpg,Quai des Orfevres,Film Society,White,Hand,1952,,
+GDA_Film_Society_2_A1_2-0077,GDA_Film_Society_2_A1_2-0077.jpg,Threepenny Opera,Film Society,Brown,,,,
+GDA_Film_Society_2_A1_2-0078,GDA_Film_Society_2_A1_2-0078.jpg,An Autumn Afternoon,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_2_A1_2-0083,GDA_Film_Society_2_A1_2-0083.jpg,Mahanagar,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_2_A1_2-0084,GDA_Film_Society_2_A1_2-0084.jpg,The Jewels of Madame de,Film Society,Yellow,Offset,,,
+GDA_Film_Society_2_A1_2-0087,GDA_Film_Society_2_A1_2-0087.jpg,Lady in the Lake,Film Society,Green,Screenprint,,,
+GDA_Film_Society_2_A1_2-0088,GDA_Film_Society_2_A1_2-0088.jpg,Quadrophenia,Film Society,Red,Screenprint,1979,,
+GDA_Film_Society_2_A1_2-0091,GDA_Film_Society_2_A1_2-0091.jpg,The Giant of Marathon,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0093,GDA_Film_Society_2_A1_2-0093.jpg,Casanova,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0095,GDA_Film_Society_2_A1_2-0095.jpg,theatre de monsieur e madame Kabal,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0097,GDA_Film_Society_2_A1_2-0097.jpg,The Thing from Another World & Invaders from Mars,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_2_A1_2-0099,GDA_Film_Society_2_A1_2-0099.jpg,Love Me Tender,Film Society,Green,Screenprint,,,
+GDA_Film_Society_2_A1_2-0100,GDA_Film_Society_2_A1_2-0100.jpg,Love Me Tender,Film Society,Purple,Screenprint,,,
+GDA_Film_Society_2_A1_2-0101,GDA_Film_Society_2_A1_2-0101.jpg,Cul-de-sac,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0102,GDA_Film_Society_2_A1_2-0102.jpg,Los Olvidados,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_2_A1_2-0104,GDA_Film_Society_2_A1_2-0104.jpg,Babette's Feast & Tampopo,Film Society,White,Letterpress,1986,,
+GDA_Film_Society_2_A1_2-0105,GDA_Film_Society_2_A1_2-0105.jpg,Suit,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_2_A1_2-0106,GDA_Film_Society_2_A1_2-0106.jpg,400 Blows,Film Society,White,Screenprint,,,
+GDA_Film_Society_2_A1_2-0107,GDA_Film_Society_2_A1_2-0107.jpg,Cuba 1969,Film Society,Image,Offset,1969,,
+GDA_Film_Society_2_A1_2-0108,GDA_Film_Society_2_A1_2-0108.jpg,Les Quatres Cents Coups,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0109,GDA_Film_Society_2_A1_2-0109.jpg,The Left Handed Gun,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0110,GDA_Film_Society_2_A1_2-0110.jpg,Orphee,Film Society,Purple,Screenprint,,,
+GDA_Film_Society_2_A1_2-0111-1,GDA_Film_Society_2_A1_2-0111-1.jpg,The Witches of Salem,Film Society,Red,Screenprint,1969,,
+GDA_Film_Society_2_A1_2-0112-1,GDA_Film_Society_2_A1_2-0112-1.jpg,Rio Bravo,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0113-1,GDA_Film_Society_2_A1_2-0113-1.jpg,Cat People,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0114-1,GDA_Film_Society_2_A1_2-0114-1.jpg,Le Crime de Monsieur Lange,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0115-1,GDA_Film_Society_2_A1_2-0115-1.jpg,Throne of Blood,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0116-1,GDA_Film_Society_2_A1_2-0116-1.jpg,Zazie Dans le Metro,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0117,GDA_Film_Society_2_A1_2-0117.jpg,Psycho,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_2_A1_2-0118,GDA_Film_Society_2_A1_2-0118.jpg,Have you got the Knack,Film Society,Yellow,Screenprint,1968,,
+GDA_Film_Society_2_A1_2-0119,GDA_Film_Society_2_A1_2-0119.jpg,Taste the Blood of Dracula,Film Society,Red,Screenprint,,,
+GDA_Film_Society_2_A1_2-0120,GDA_Film_Society_2_A1_2-0120.jpg,Black Orpheus,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0122,GDA_Film_Society_2_A1_2-0122.jpg,The Organiser,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_2_A1_2-0123,GDA_Film_Society_2_A1_2-0123.jpg,La Notte,Film Society,Black,Screenprint,,,
+GDA_Film_Society_2_A1_2-0124,GDA_Film_Society_2_A1_2-0124.jpg,Pandora's Box,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0001,GDA_Film_Society_A1_1-0001.jpg,The Ipcress File,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_A1_1-0002,GDA_Film_Society_A1_1-0002.jpg,Orphee,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0003,GDA_Film_Society_A1_1-0003.jpg,Oceans Eleven,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0004,GDA_Film_Society_A1_1-0004.jpg,The Sun Shines Bright,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0005,GDA_Film_Society_A1_1-0005.jpg,3.10 To Yuma,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0006,GDA_Film_Society_A1_1-0006.jpg,Frank Sinatra,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0007,GDA_Film_Society_A1_1-0007.jpg,L'avventura,Film Society,White,Screenprint,1960,,
+GDA_Film_Society_A1_1-0008,GDA_Film_Society_A1_1-0008.jpg,La Jettee,Film Society,White,Screenprint,1964,,
+GDA_Film_Society_A1_1-0009,GDA_Film_Society_A1_1-0009.jpg,Jour De Fete,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0010,GDA_Film_Society_A1_1-0010.jpg,Picture Action,Film Society,Red,Screenprint,1963,Richard Doust,
+GDA_Film_Society_A1_1-0011,GDA_Film_Society_A1_1-0011.jpg,Intolerance,Film Society,Purple,Letterpress,,,
+GDA_Film_Society_A1_1-0012,GDA_Film_Society_A1_1-0012.jpg,Vivre sa Vie,Film Society,Multicoloured,Offset,1967,,
+GDA_Film_Society_A1_1-0013,GDA_Film_Society_A1_1-0013.jpg,A Blond in Love plus Match Girl,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0014,GDA_Film_Society_A1_1-0014.jpg,Summer with Monica,Film Society,Blue,Offset,,,
+GDA_Film_Society_A1_1-0015,GDA_Film_Society_A1_1-0015.jpg,One Eyed Jacks,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0016,GDA_Film_Society_A1_1-0016.jpg,Spivs,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0017,GDA_Film_Society_A1_1-0017.jpg,Memories of Underdevelopment,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0018,GDA_Film_Society_A1_1-0018.jpg,Waterloo 71,Film Society,Pink,Screenprint,1971,,
+GDA_Film_Society_A1_1-0019,GDA_Film_Society_A1_1-0019.jpg,Joseph Killian,Film Society,Green,Offset,1963,,
+GDA_Film_Society_A1_1-0020,GDA_Film_Society_A1_1-0020.jpg,Joseph Killian,Film Society,Red,Offset,1963,,
+GDA_Film_Society_A1_1-0021,GDA_Film_Society_A1_1-0021.jpg,Les Carabiniers,Film Society,Multicoloured,Offset,1964,,
+GDA_Film_Society_A1_1-0022,GDA_Film_Society_A1_1-0022.jpg,A Taste of Honey,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0023,GDA_Film_Society_A1_1-0023.jpg,Wozzeck,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0024,GDA_Film_Society_A1_1-0024.jpg,Moana,Film Society,Gold,Screenprint,,,
+GDA_Film_Society_A1_1-0025,GDA_Film_Society_A1_1-0025.jpg,Flying Down to Rio,Film Society,Blue,Screenprint,,Grope Stupe,
+GDA_Film_Society_A1_1-0026,GDA_Film_Society_A1_1-0026.jpg,To Kill a Mockingbird,Film Society,Red,Screenprint,1969,,
+GDA_Film_Society_A1_1-0027,GDA_Film_Society_A1_1-0027.jpg,Monsieur Vincent,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0028,GDA_Film_Society_A1_1-0028.jpg,Smiles of a Summer Night,Film Society,Orange,Letterpress,1957,,
+GDA_Film_Society_A1_1-0029,GDA_Film_Society_A1_1-0029.jpg,Metro Polis,Film Society,Green,Letterpress,,,
+GDA_Film_Society_A1_1-0030,GDA_Film_Society_A1_1-0030.jpg,All Reactionaries are Paper Tigers,Film Society,Pink,Offset,1969,,
+GDA_Film_Society_A1_1-0031,GDA_Film_Society_A1_1-0031.jpg,Achtung,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0032,GDA_Film_Society_A1_1-0032.jpg,Hitlers Children,Film Society,Red,Screenprint,1970,,
+GDA_Film_Society_A1_1-0033,GDA_Film_Society_A1_1-0033.jpg,Three Wise Guys,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0034,GDA_Film_Society_A1_1-0034.jpg,A Programme of Shorts,Film Society,Red,Offset,,,
+GDA_Film_Society_A1_1-0035,GDA_Film_Society_A1_1-0035.jpg,The Tin Star,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0036,GDA_Film_Society_A1_1-0036.jpg,Incident at Owl Creek,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0037,GDA_Film_Society_A1_1-0037.jpg,The Rise and Fall of the City of Mahagonny,Film Society,Yellow,Hand,,,
+GDA_Film_Society_A1_1-0038,GDA_Film_Society_A1_1-0038.jpg,The Old Man and the Sea,Film Society,Green,Screenprint,1964,,
+GDA_Film_Society_A1_1-0039,GDA_Film_Society_A1_1-0039.jpg,Salvatore Giuliano,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0040,GDA_Film_Society_A1_1-0040.jpg,Disordly Orderly,Film Society,Pink,Screenprint,1964,,
+GDA_Film_Society_A1_1-0041,GDA_Film_Society_A1_1-0041.jpg,"Hallelujah the Hills & The Critic, Two Men and a Wardrobe",Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0042,GDA_Film_Society_A1_1-0042.jpg,Lord of the Flies,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0043,GDA_Film_Society_A1_1-0043.jpg,Plan 9 from Outer Space,Film Society,Black,Screenprint,1959,Siobhan Noonam ,
+GDA_Film_Society_A1_1-0044,GDA_Film_Society_A1_1-0044.jpg,Country Doctor,Film Society,Green,Hand,,Graham Clarke,
+GDA_Film_Society_A1_1-0045,GDA_Film_Society_A1_1-0045.jpg,Felix Wins and Loses & Sousalito,Film Society,White,Hand,,,
+GDA_Film_Society_A1_1-0046,GDA_Film_Society_A1_1-0046.jpg,Smiles of a Summer Night,Film Society,Red,Screenprint,1969,,
+GDA_Film_Society_A1_1-0047,GDA_Film_Society_A1_1-0047.jpg,Peeping Tom,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0048,GDA_Film_Society_A1_1-0048.jpg,Book and Candle,Film Society,Red,Screenprint,,Peter Rea,
+GDA_Film_Society_A1_1-0049,GDA_Film_Society_A1_1-0049.jpg,Alexander Nevsky,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0050,GDA_Film_Society_A1_1-0050.jpg,The Red Badge of Courage,Film Society,Black,Screenprint,,Micheal Danist,
+GDA_Film_Society_A1_1-0051,GDA_Film_Society_A1_1-0051.jpg,The African Queen,Film Society,Yellow,Offset,,,
+GDA_Film_Society_A1_1-0052,GDA_Film_Society_A1_1-0052.jpg,Kameradschaft,Film Society,Red,Offset,,,
+GDA_Film_Society_A1_1-0053,GDA_Film_Society_A1_1-0053.jpg,Duped Till Doomsday,Film Society,Multicoloured,Hand,,,
+GDA_Film_Society_A1_1-0054,GDA_Film_Society_A1_1-0054.jpg,The Blue Angel,Film Society,Purple,Letterpress,,,
+GDA_Film_Society_A1_1-0055,GDA_Film_Society_A1_1-0055.jpg,Left Handed Gun,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0056,GDA_Film_Society_A1_1-0056.jpg,Ten Days to Die,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0057,GDA_Film_Society_A1_1-0057.jpg,There was a Crooked Man,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0058,GDA_Film_Society_A1_1-0058.jpg,The Criminal life of Archibold la Cruz,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0059,GDA_Film_Society_A1_1-0059.jpg,Hunger,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0060,GDA_Film_Society_A1_1-0060.jpg,The Four Horsemen of the Apocalypse,Film Society,Purple,Screenprint,,,
+GDA_Film_Society_A1_1-0061,GDA_Film_Society_A1_1-0061.jpg,Cincinatti Kid,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0062,GDA_Film_Society_A1_1-0062.jpg,Strange Incident,Film Society,Red,Hand,,,
+GDA_Film_Society_A1_1-0063,GDA_Film_Society_A1_1-0063.jpg,Wozzeck,Film Society,Black,Letterpress,,,
+GDA_Film_Society_A1_1-0064,GDA_Film_Society_A1_1-0064.jpg,Before the Revolution,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0065,GDA_Film_Society_A1_1-0065.jpg,Two Men and a Wardrobe,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0066,GDA_Film_Society_A1_1-0066.jpg,Wozzeck,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_A1_1-0067,GDA_Film_Society_A1_1-0067.jpg,The Connection,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0068,GDA_Film_Society_A1_1-0068.jpg,The Phantom of the Opera,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0069,GDA_Film_Society_A1_1-0069.jpg,Billy Bud,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0070,GDA_Film_Society_A1_1-0070.jpg,Lady in a cage & Simon of the Desert,Film Society,Green,Screenprint,1965,,
+GDA_Film_Society_A1_1-0071,GDA_Film_Society_A1_1-0071.jpg,Dancing Cheek to Cheek,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0072,GDA_Film_Society_A1_1-0072.jpg,The Saragossa Manuscript,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0073,GDA_Film_Society_A1_1-0073.jpg,The Ghost That Never Returns,Film Society,Pink,Letterpress,,,
+GDA_Film_Society_A1_1-0074,GDA_Film_Society_A1_1-0074.jpg,The Cabinet of Dr Caligari,Film Society,Pink,Letterpress,,,
+GDA_Film_Society_A1_1-0075,GDA_Film_Society_A1_1-0075.jpg,Hotel Sahara,Film Society,Yellow,Offset,,,
+GDA_Film_Society_A1_1-0076,GDA_Film_Society_A1_1-0076.jpg,Time in the Sun,Film Society,Brown,Letterpress,,,
+GDA_Film_Society_A1_1-0077,GDA_Film_Society_A1_1-0077.jpg,Paths of Glory: the Invisible Menace,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0078,GDA_Film_Society_A1_1-0078.jpg,My Darling Clementine,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0079,GDA_Film_Society_A1_1-0079.jpg,Le Plaisir & The New Janitor,Film Society,Green,Letterpress,,,
+GDA_Film_Society_A1_1-0080,GDA_Film_Society_A1_1-0080.jpg,Black God White Devil,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0081,GDA_Film_Society_A1_1-0081.jpg,Yojimbo,Film Society,White,Offset,,,
+GDA_Film_Society_A1_1-0082,GDA_Film_Society_A1_1-0082.jpg,A Night at the Opera,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0083,GDA_Film_Society_A1_1-0083.jpg,Born Yesterday,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0084,GDA_Film_Society_A1_1-0084.jpg,The Guns,Film Society,Green,Offset,1964,,
+GDA_Film_Society_A1_1-0085,GDA_Film_Society_A1_1-0085.jpg,The Mattei Affair,Film Society,Black,Offset,,,
+GDA_Film_Society_A1_1-0086,GDA_Film_Society_A1_1-0086.jpg,Joseph Andrews,Film Society,Purple,Offset,,,
+GDA_Film_Society_A1_1-0087,GDA_Film_Society_A1_1-0087.jpg,Hitlers Children,Film Society,Green,Offset,1970,,
+GDA_Film_Society_A1_1-0088,GDA_Film_Society_A1_1-0088.jpg,Artistes at the Big Top: Disorientated,Film Society,Orange,Screenprint,1968,Kevan Stafford,
+GDA_Film_Society_A1_1-0089,GDA_Film_Society_A1_1-0089.jpg,Marx Brothers Go West,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0090,GDA_Film_Society_A1_1-0090.jpg,Mother,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0091,GDA_Film_Society_A1_1-0091.jpg,Mill on Pablo Zerode,Film Society,White,Letterpress,,,
+GDA_Film_Society_A1_1-0092,GDA_Film_Society_A1_1-0092.jpg,Kanal,Film Society,Pink,Screenprint,,Brian Heyes,
+GDA_Film_Society_A1_1-0093,GDA_Film_Society_A1_1-0093.jpg,I Vitelloni,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0094,GDA_Film_Society_A1_1-0094.jpg,Rocco and his Brothers,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0095,GDA_Film_Society_A1_1-0095.jpg,Hells Angels,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0096,GDA_Film_Society_A1_1-0096.jpg,October,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0097,GDA_Film_Society_A1_1-0097.jpg,Paths of Glory: the Invisible Menace,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0098,GDA_Film_Society_A1_1-0098.jpg,Les Yeux Sans Visage,Film Society,White,Offset,,,
+GDA_Film_Society_A1_1-0099,GDA_Film_Society_A1_1-0099.jpg,Wild Strawberries,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0100,GDA_Film_Society_A1_1-0100.jpg,Sawdust & Tinsel,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A1_1-0101,GDA_Film_Society_A1_1-0101.jpg,La Strada,Film Society,Yellow,,,,
+GDA_Film_Society_A1_1-0102,GDA_Film_Society_A1_1-0102.jpg,Go West,Film Society,Multicoloured,Screenprint,,,
+GDA_Film_Society_A1_1-0103,GDA_Film_Society_A1_1-0103.jpg,Ustinov,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0104,GDA_Film_Society_A1_1-0104.jpg,End as a Man,Film Society,White,Screenprint,,,
+GDA_Film_Society_A1_1-0105,GDA_Film_Society_A1_1-0105.jpg,Tom Jones,Film Society,Pink,Offset,,,
+GDA_Film_Society_A1_1-0106,GDA_Film_Society_A1_1-0106.jpg,Shadows,Film Society,Blue,,,,
+GDA_Film_Society_A1_1-0107,GDA_Film_Society_A1_1-0107.jpg,Lolita,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A1_1-0108,GDA_Film_Society_A1_1-0108.jpg,Point Blank,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0109,GDA_Film_Society_A1_1-0109.jpg,Lonely are the Brave,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A1_1-0110,GDA_Film_Society_A1_1-0110.jpg,Portrait of Jason,Film Society,Multicoloured,Offset,,,
+GDA_Film_Society_A1_1-0111,GDA_Film_Society_A1_1-0111.jpg,The Pink Panther,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_A1_1-0112,GDA_Film_Society_A1_1-0112.jpg,The Fiends,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A1_1-0113,GDA_Film_Society_A1_1-0113.jpg,The Haunting,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0114,GDA_Film_Society_A1_1-0114.jpg,A Night to Remember,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0115,GDA_Film_Society_A1_1-0115.jpg,Irma La Douche,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0116,GDA_Film_Society_A1_1-0116.jpg,The Organiser,Film Society,Gold,Screenprint,,,
+GDA_Film_Society_A1_1-0117,GDA_Film_Society_A1_1-0117.jpg,The Gervaise Sake,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0118,GDA_Film_Society_A1_1-0118.jpg,Mouchette,Film Society,Black,Offset,,Phillipe Pham,
+GDA_Film_Society_A1_1-0119,GDA_Film_Society_A1_1-0119.jpg,The Cranes are Flying,Film Society,Black,Screenprint,1966,,
+GDA_Film_Society_A1_1-0120,GDA_Film_Society_A1_1-0120.jpg,Les Quatres Cents Coups,Film Society,Black,Offset,,,
+GDA_Film_Society_A1_1-0121,GDA_Film_Society_A1_1-0121.jpg,Death of a Salesman,Film Society,Black,Screenprint,,John Fenton Brown,
+GDA_Film_Society_A1_1-0122,GDA_Film_Society_A1_1-0122.jpg,Plan 9 from Outer Space,Film Society,Black,Offset,,,
+GDA_Film_Society_A1_1-0123,GDA_Film_Society_A1_1-0123.jpg,Shoot the Pianist,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0124,GDA_Film_Society_A1_1-0124.jpg,Scarface,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0125,GDA_Film_Society_A1_1-0125.jpg,Dr Strangelove,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A1_1-0126,GDA_Film_Society_A1_1-0126.jpg,The Treasure of Sierra Madre,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A1_1-0127,GDA_Film_Society_A1_1-0127.jpg,Singing in the Rain,Film Society,Red,Letterpress,,,
+GDA_Al_Rees-0002,GDA_Al_Rees-0002.jpg,Going Places,Film Society,Image,Offset,,,
+GDA_Al_Rees-0004,GDA_Al_Rees-0004.jpg,Al Rees,Film Society,Image,Offset,1998,,
+GDA_Al_Rees-0007,GDA_Al_Rees-0007.jpg,Documentary Cinema,Film Society,Red,Offset,,,
+GDA_Al_Rees-0008,GDA_Al_Rees-0008.jpg,Make it Abstract,Film Society,Multicoloured,Offset,,,
+GDA_Al_Rees-0009,GDA_Al_Rees-0009.jpg,Matrix,Film Society,Yellow,Offset,,,
+GDA_Al_Rees-0010,GDA_Al_Rees-0010.jpg,Gender & Cinema,Film Society,Black,Offset,,,
+GDA_Al_Rees-0011,GDA_Al_Rees-0011.jpg,Joan Jonas,Film Society,Orange,Digital,2003,Stinson Squeeze,
+GDA_Al_Rees-0013,GDA_Al_Rees-0013.jpg,Film Seminar,Film Society,Blue,Offset,1998,,
+GDA_Al_Rees-0015,GDA_Al_Rees-0015.jpg,Gender & Cinema,Film Society,Image,Offset,1997,Chiara Grandesso & Harm Hoogland,
+GDA_Al_Rees-0016,GDA_Al_Rees-0016.jpg,Dancing in the Dark,Film Society,White,Offset,1991,Ursula Dahmen,
+GDA_Al_Rees-0017,GDA_Al_Rees-0017.jpg,Telling Tales,Film Society,Black,Offset,1991,Ursula Dahmen,
+GDA_ARK_posters-0002,GDA_ARK_posters-0002.jpg,New Look Ark on Illustration,ARK Magazine,White,,,,
+GDA_ARK_posters-0003,GDA_ARK_posters-0003.jpg,The journal of the RCA,ARK Magazine,Red,Screenprint,,,
+GDA_ARK_posters-0004,GDA_ARK_posters-0004.jpg,ARK 39,ARK Magazine,Image,Offset,,,
+GDA_ARK_posters-0005,GDA_ARK_posters-0005.jpg,ARK 23,ARK Magazine,Red,Offset,,,
+GDA_ARK_posters-0006,GDA_ARK_posters-0006.jpg,The journal of the RCA,ARK Magazine,Multicoloured,Screenprint,,,
+GDA_ARK_posters-0008,GDA_ARK_posters-0008.jpg,ARK 29,ARK Magazine,White,Screenprint,,,
+GDA_ARK_posters-0009,GDA_ARK_posters-0009.jpg,ARK 30,ARK Magazine,Blue,Screenprint,,,
+GDA_ARK_posters-0010,GDA_ARK_posters-0010.jpg,ARK 16,ARK Magazine,Red,Screenprint,,,
+GDA_ARK_posters-0011,GDA_ARK_posters-0011.jpg,ARK 32,ARK Magazine,Blue,Screenprint,1962,,
+GDA_ARK_posters-0012,GDA_ARK_posters-0012.jpg,Ark Changes Shape,ARK Magazine,Multicoloured,Screenprint,,,
+GDA_ARK_posters-0013,GDA_ARK_posters-0013.jpg,HAVE IMAGE WILL TRAVEL,ARK Magazine,Black,Screenprint,,,
+GDA_ARK_posters-0014,GDA_ARK_posters-0014.jpg,ARK 51,ARK Magazine,Black,Screenprint,,,
+GDA_Events_Lectures_A2-0002,GDA_Events_Lectures_A2-0002.jpg,Cultural History,Lectures,Multicoloured,Hand,1988,,
+GDA_Events_Lectures_A2-0003,GDA_Events_Lectures_A2-0003.jpg,British Design in Japan,Lectures,White,Screenprint,,,
+GDA_Events_Lectures_A2-0004,GDA_Events_Lectures_A2-0004.jpg,Planet Earth: Need we Bother,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0005,GDA_Events_Lectures_A2-0005.jpg,Open Day,Lectures,Brown,Screenprint,,,
+GDA_Events_Lectures_A2-0006,GDA_Events_Lectures_A2-0006.jpg,Writing Developments,Lectures,Purple,Screenprint,,,
+GDA_Events_Lectures_A2-0007,GDA_Events_Lectures_A2-0007.jpg,Visual Arts Administration,Lectures,Blue,Digital,2000,Herman Lelie,
+GDA_Events_Lectures_A2-0008,GDA_Events_Lectures_A2-0008.jpg,Estranget Men,Lectures,White,Screenprint,1989,Robert Mills,
+GDA_Events_Lectures_A2-0009,GDA_Events_Lectures_A2-0009.jpg,Drawing at the ZOo,Lectures,Red,Screenprint,,John Loader,
+GDA_Events_Lectures_A2-0010,GDA_Events_Lectures_A2-0010.jpg,RCA Prospectus,Lectures,Blue,Offset,1987,,
+GDA_Events_Lectures_A2-0011,GDA_Events_Lectures_A2-0011.jpg,Across CHS,Lectures,Multicoloured,Digital,2017,,
+GDA_Events_Lectures_A2-0012,GDA_Events_Lectures_A2-0012.jpg,Explicit Demands,Lectures,Blue,Risograph,2016,,
+GDA_Events_Lectures_A2-0013,GDA_Events_Lectures_A2-0013.jpg,Design Research,Lectures,Blue,Screenprint,1979,Bruce Bentz,
+GDA_Events_Lectures_A2-0014,GDA_Events_Lectures_A2-0014.jpg,British school at Rome,Lectures,Image,Offset,1983,Wilde,
+GDA_Events_Lectures_A2-0015,GDA_Events_Lectures_A2-0015.jpg,British school at Rome,Lectures,Yellow,Offset,1982,Robert Jones,
+GDA_Events_Lectures_A2-0016,GDA_Events_Lectures_A2-0016.jpg,RCA Folio Society Show,Lectures,White,Screenprint,1986,,
+GDA_Events_Lectures_A2-0017,GDA_Events_Lectures_A2-0017.jpg,Giovanni Pisano,Lectures,Yellow,Letterpress,,,
+GDA_Events_Lectures_A2-0018,GDA_Events_Lectures_A2-0018.jpg,British school at Rome,Lectures,Blue,Screenprint,1985,Tony,
+GDA_Events_Lectures_A2-0019,GDA_Events_Lectures_A2-0019.jpg,Good Neighbours,Lectures,Yellow,Screenprint,1966,,
+GDA_Events_Lectures_A2-0020,GDA_Events_Lectures_A2-0020.jpg,British school at Rome,Lectures,Red,Screenprint,1986,Hilary Daltry & Kathryn Largey,
+GDA_Events_Lectures_A2-0021,GDA_Events_Lectures_A2-0021.jpg,Recital Poetry,Lectures,Purple,Screenprint,,,
+GDA_Events_Lectures_A2-0022,GDA_Events_Lectures_A2-0022.jpg,Cubism in Architecture and Design,Lectures,Red,Offset,1979,,
+GDA_Events_Lectures_A2-0023,GDA_Events_Lectures_A2-0023.jpg,Notice,Lectures,Red,Offset,,,
+GDA_Events_Lectures_A2-0024,GDA_Events_Lectures_A2-0024.jpg,Junk and the New Arts & Crafts Movement,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0025,GDA_Events_Lectures_A2-0025.jpg,American Art After Andre,Lectures,Black,Screenprint,,,
+GDA_Events_Lectures_A2-0026,GDA_Events_Lectures_A2-0026.jpg,RCATV,Lectures,Red,Screenprint,1970,,
+GDA_Events_Lectures_A2-0027,GDA_Events_Lectures_A2-0027.jpg,You're on your own,Lectures,Multicoloured,Screenprint,1977,,
+GDA_Events_Lectures_A2-0028,GDA_Events_Lectures_A2-0028.jpg,Its Wycoon Teek,Lectures,White,Screenprint,,,
+GDA_Events_Lectures_A2-0029,GDA_Events_Lectures_A2-0029.jpg,Personal Views,Lectures,Red,,,Suzi Godson,
+GDA_Events_Lectures_A2-0030,GDA_Events_Lectures_A2-0030.jpg,Into the Flux,Lectures,Image,Offset,,,
+GDA_Events_Lectures_A2-0031,GDA_Events_Lectures_A2-0031.jpg,Angela Davis & Reggae,Lectures,White,Screenprint,,,
+GDA_Events_Lectures_A2-0032,GDA_Events_Lectures_A2-0032.jpg,Poetry Recital,Lectures,Purple,Screenprint,,,
+GDA_Events_Lectures_A2-0033,GDA_Events_Lectures_A2-0033.jpg,British School at Rome,Lectures,Green,Screenprint,1961,,
+GDA_Events_Lectures_A2-0034,GDA_Events_Lectures_A2-0034.jpg,British School at Rome,Lectures,Purple,Screenprint,1962,,
+GDA_Events_Lectures_A2-0035,GDA_Events_Lectures_A2-0035.jpg,ISFF72,Lectures,Grey,Screenprint,,,
+GDA_Events_Lectures_A2-0036,GDA_Events_Lectures_A2-0036.jpg,Screenprint,Lectures,Multicoloured,Offset,,,
+GDA_Events_Lectures_A2-0037,GDA_Events_Lectures_A2-0037.jpg,Everyman,Lectures,Orange,Screenprint,,,
+GDA_Events_Lectures_A2-0038,GDA_Events_Lectures_A2-0038.jpg,Swiss Typography,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0039,GDA_Events_Lectures_A2-0039.jpg,Slides of New York,Lectures,Image,Offset,1978,,
+GDA_Events_Lectures_A2-0040,GDA_Events_Lectures_A2-0040.jpg,Lecture and Demonstration by the London Contemporary Dance Group,Lectures,Image,Offset,,,
+GDA_Events_Lectures_A2-0041,GDA_Events_Lectures_A2-0041.jpg,Fashion Degree Show,Lectures,Blue,Screenprint,1991,,
+GDA_Events_Lectures_A2-0042,GDA_Events_Lectures_A2-0042.jpg,Systematic Research into the Possibilities,Lectures,Grey,Screenprint,,,
+GDA_Events_Lectures_A2-0044,GDA_Events_Lectures_A2-0044.jpg,3 Years in...,Lectures,Green,Screenprint,,,
+GDA_Events_Lectures_A2-0045,GDA_Events_Lectures_A2-0045.jpg,Astrology and Images of the Psyche,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0046,GDA_Events_Lectures_A2-0046.jpg,Hofdaletur,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0047,GDA_Events_Lectures_A2-0047.jpg,While you're under this roof,Lectures,Blue,Screenprint,1998,,
+GDA_Events_Lectures_A2-0048,GDA_Events_Lectures_A2-0048.jpg,Industrial Design,Lectures,Orange,Offset,,Peter Willberg,
+GDA_Events_Lectures_A2-0049,GDA_Events_Lectures_A2-0049.jpg,Call for Work,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0050,GDA_Events_Lectures_A2-0050.jpg,Alexander Pope,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0051,GDA_Events_Lectures_A2-0051.jpg,Design Age Competition,Lectures,Red,Offset,1999,Miho Tanaka,
+GDA_Events_Lectures_A2-0052,GDA_Events_Lectures_A2-0052.jpg,Geoffrey Grigson,Lectures,Pink,Screenprint,,,
+GDA_Events_Lectures_A2-0053,GDA_Events_Lectures_A2-0053.jpg,Call for Entries,Lectures,Red,Screenprint,1987,Ashley Carter,
+GDA_Events_Lectures_A2-0054,GDA_Events_Lectures_A2-0054.jpg,Bruno Monguzzi,Lectures,Blue,Screenprint,2008,,
+GDA_Events_Lectures_A2-0055,GDA_Events_Lectures_A2-0055.jpg,British School at Rome,Lectures,Blue,Screenprint,1982,,
+GDA_Events_Lectures_A2-0056,GDA_Events_Lectures_A2-0056.jpg,Modern Art and its Enemies,Lectures,Purple,Screenprint,1980,,
+GDA_Events_Lectures_A2-0058,GDA_Events_Lectures_A2-0058.jpg,Hand and Compass,Lectures,Red,Screenprint,1981,,
+GDA_Events_Lectures_A2-0059,GDA_Events_Lectures_A2-0059.jpg,Disarmament and the Pugwash Conferences,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0060,GDA_Events_Lectures_A2-0060.jpg,Postgraduate design Studies,Lectures,White,Screenprint,1980,,
+GDA_Events_Lectures_A2-0062,GDA_Events_Lectures_A2-0062.jpg,Joan Smith Talks,Lectures,Image,Offset,1991,,
+GDA_Events_Lectures_A2-0063,GDA_Events_Lectures_A2-0063.jpg,Malcolm Quinn Cartography Liminality,Lectures,White,Screenprint,1996,,
+GDA_Events_Lectures_A2-0066,GDA_Events_Lectures_A2-0066.jpg,Are we safe in their hands?,Lectures,Yellow,Screenprint,1989,Robert Mills,
+GDA_Events_Lectures_A2-0067,GDA_Events_Lectures_A2-0067.jpg,What can each of us do?,Lectures,Blue,Screenprint,1989,Robert Mills,
+GDA_Events_Lectures_A2-0068,GDA_Events_Lectures_A2-0068.jpg,Artists and the Natural World,Lectures,Blue,Screenprint,,Suzi Godson,
+GDA_Events_Lectures_A2-0069,GDA_Events_Lectures_A2-0069.jpg,Symbolism in Indian Painting,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0070,GDA_Events_Lectures_A2-0070.jpg,Arthur Mizener,Lectures,Black,Screenprint,,,
+GDA_Events_Lectures_A2-0072,GDA_Events_Lectures_A2-0072.jpg,Richard Findlater,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0073,GDA_Events_Lectures_A2-0073.jpg,Chaucer,Lectures,Green,Screenprint,,,
+GDA_Events_Lectures_A2-0074,GDA_Events_Lectures_A2-0074.jpg,The Marriage of Art & Architecture,Lectures,Red,Screenprint,1981,,
+GDA_Events_Lectures_A2-0075,GDA_Events_Lectures_A2-0075.jpg,Einstein,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0076,GDA_Events_Lectures_A2-0076.jpg,Karl Marx,Lectures,Red,,,,
+GDA_Events_Lectures_A2-0077,GDA_Events_Lectures_A2-0077.jpg,Charles Darwin,Lectures,Brown,,,,
+GDA_Events_Lectures_A2-0078,GDA_Events_Lectures_A2-0078.jpg,Four American Writers,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0079,GDA_Events_Lectures_A2-0079.jpg,James Joyce,Lectures,Green,Screenprint,,,
+GDA_Events_Lectures_A2-0080,GDA_Events_Lectures_A2-0080.jpg,Freud,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0081,GDA_Events_Lectures_A2-0081.jpg,War and Peace,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0082,GDA_Events_Lectures_A2-0082.jpg,Poetry Recital,Lectures,Green,Screenprint,,,
+GDA_Events_Lectures_A2-0083,GDA_Events_Lectures_A2-0083.jpg,Poetry Recital,Lectures,Purple,Letterpress,,,
+GDA_Events_Lectures_A2-0084,GDA_Events_Lectures_A2-0084.jpg,Four American Writers,Lectures,Brown,Letterpress,,,
+GDA_Events_Lectures_A2-0085,GDA_Events_Lectures_A2-0085.jpg,Three Lectures by Basil Taylor,Lectures,Orange,Screenprint,,Celia Young,
+GDA_Events_Lectures_A2-0086,GDA_Events_Lectures_A2-0086.jpg,The Song of Roland,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0087,GDA_Events_Lectures_A2-0087.jpg,Under Milk Wood ,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0088,GDA_Events_Lectures_A2-0088.jpg,Douglas Cooper,Lectures,Yellow,Hand,1951,,
+GDA_Events_Lectures_A2-0090,GDA_Events_Lectures_A2-0090.jpg,An Artist in Greece,Lectures,Orange,Screenprint,1952,,
+GDA_Events_Lectures_A2-0091,GDA_Events_Lectures_A2-0091.jpg,Don Quixote,Lectures,Blue,Screenprint,,,
+GDA_Events_Lectures_A2-0092,GDA_Events_Lectures_A2-0092.jpg,Two Lectures by S.W.Hayter,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0093,GDA_Events_Lectures_A2-0093.jpg,RCA Cycling Club,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0094,GDA_Events_Lectures_A2-0094.jpg,Contemporary Criticism in the Visual Arts,Lectures,Red,,,,
+GDA_Events_Lectures_A2-0095,GDA_Events_Lectures_A2-0095.jpg,24 Hours of Unseen American Television,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0096,GDA_Events_Lectures_A2-0096.jpg,Poetry Recital,Lectures,Red,Screenprint,,,
+GDA_Events_Lectures_A2-0097,GDA_Events_Lectures_A2-0097.jpg,Peter Cohen on Karl Marx,Lectures,Orange,Screenprint,,,
+GDA_Events_Lectures_A2-0098,GDA_Events_Lectures_A2-0098.jpg,Jonathan Rosen,Lectures,Image,Offset,,,
+GDA_Events_Lectures_A2-0099,GDA_Events_Lectures_A2-0099.jpg,Jonathan Rosen,Lectures,Red,Offset,,,
+GDA_Events_Lectures_A2-0100,GDA_Events_Lectures_A2-0100.jpg,British School at Rome,Lectures,Green,Offset,1979,,
+GDA_Events_Lectures_A2-0101,GDA_Events_Lectures_A2-0101.jpg,British School at Rome,Lectures,Orange,Offset,1981,,
+GDA_Events_Lectures_A2-0102,GDA_Events_Lectures_A2-0102.jpg,Double Talk,Lectures,Purple,Offset,,,
+GDA_Events_Lectures_A2-0103,GDA_Events_Lectures_A2-0103.jpg,Performance ,Lectures,Blue,Offset,,,
+GDA_Events_Lectures_A2-0105,GDA_Events_Lectures_A2-0105.jpg,Colour Laser Copier in the RCA,Lectures,Multicoloured,Offset,,Csaba Pysztor,
+GDA_Events_Lectures_A2-0106,GDA_Events_Lectures_A2-0106.jpg,The Artists Cookbook,Lectures,Multicoloured,Offset,,John Piper,
+GDA_Events_Lectures_A2-0107,GDA_Events_Lectures_A2-0107.jpg,What can each of us do?,Lectures,Purple,Offset,,,
+GDA_Events_Lectures_A2-0109,GDA_Events_Lectures_A2-0109.jpg,Edward Bawden,Lectures,Red,Screenprint,1998,,
+GDA_Events_Lectures_A2-0110,GDA_Events_Lectures_A2-0110.jpg,A Small Nature Reserve,Lectures,Red,Screenprint,1989,,
+GDA_Events_Lectures_A2-0112,GDA_Events_Lectures_A2-0112.jpg,Contemporary Views,Lectures,Green,Letterpress,,Jorg Willisch,
+GDA_Events_Lectures_A2-0113,GDA_Events_Lectures_A2-0113.jpg,Leonard McCombe Masterclass,Lectures,White,Screenprint,,,
+GDA_Events_Lectures_A2-0114,GDA_Events_Lectures_A2-0114.jpg,Painting thr Town,Lectures,Multicoloured,Offset,,,
+GDA_Events_Lectures_A2-0115,GDA_Events_Lectures_A2-0115.jpg,Black Make Before and After,Lectures,Image,Offset,1995,"Andres Serrano, Nomads (curtis)",
+GDA_Events_Lectures_A2-0116,GDA_Events_Lectures_A2-0116.jpg,Gerado Mosquera,Lectures,Orange,Offset,1992,Carlos Capelan,
+GDA_Events_Lectures_A2-0117,GDA_Events_Lectures_A2-0117.jpg,Contemporary Views,Lectures,Yellow,Letterpress,,Jorg Willisch,
+GDA_Events_Lectures_A2-0118,GDA_Events_Lectures_A2-0118.jpg,David Hockney talks about drawing,Lectures,Multicoloured,Offset,1995,,
+GDA_Events_Lectures_A2-0119,GDA_Events_Lectures_A2-0119.jpg,Can Design Help ,Lectures,Green,Offset,,Mick Manning,
+GDA_Events_Lectures_A2-0120,GDA_Events_Lectures_A2-0120.jpg,Supermarket Oak Tree British Rail Queen Fire,Lectures,Yellow,Offset,,Suzi Godson,
+GDA_Events_Lectures_A2-0121,GDA_Events_Lectures_A2-0121.jpg,Cultural History,Lectures,Multicoloured,Offset,1988,,
+GDA_Events_Lectures_A2-0122,GDA_Events_Lectures_A2-0122.jpg,Ceramics & Glass Dept Christmas Sale,Lectures,White,Offset,1990,Toffee Hammer Production,
+GDA_Events_Lectures_A2-0123,GDA_Events_Lectures_A2-0123.jpg,Ceramics & Glass Dept Christmas Sale,Lectures,White,Offset,1990,Toffee Hammer Production,
+GDA_Events_Lectures_A2-0124,GDA_Events_Lectures_A2-0124.jpg,Hear Personal Views Here,Lectures,Blue,Screenprint,,Suzi Godson,
+GDA_Events_Lectures_A2-0125,GDA_Events_Lectures_A2-0125.jpg,Life Support,Lectures,Green,Screenprint,,,
+GDA_Events_Lectures_A2-0126,GDA_Events_Lectures_A2-0126.jpg,Gender & Cinema,Lectures,Black,Offset,,,
+GDA_Events_Lectures_A2-0127,GDA_Events_Lectures_A2-0127.jpg,Computer Images,Lectures,Black,Offset,1981,,
+GDA_Events_Lectures_A2-0128,GDA_Events_Lectures_A2-0128.jpg,News Sheet,Lectures,White,Offset,,,
+GDA_Events_Lectures_A2-0130,GDA_Events_Lectures_A2-0130.jpg,Paul Shaw,Lectures,Black,Screenprint,,SW/HK,
+GDA_Events_Lectures_A2-0131,GDA_Events_Lectures_A2-0131.jpg,The Destruction of the Red Indian Way of Life,Lectures,Yellow,Screenprint,,,
+GDA_Events_Lectures_A2-0132,GDA_Events_Lectures_A2-0132.jpg,International Drawing Workshop,Lectures,Red,Offset,,,
+GDA_Events_Lectures_A2-0133,GDA_Events_Lectures_A2-0133.jpg,Art Bar Design Competition,Lectures,Black,Screenprint,,,
+GDA_Events_Lectures_A2-0134,GDA_Events_Lectures_A2-0134.jpg,The Story of Man's Estrangement from Nature,Lectures,Blue,Screenprint,1988,,
+GDA_Exhibitions_A1_3-0001,GDA_Exhibitions_A1_3-0001.jpg,Make or Break,Exhibitions,Yellow,Screenprint,1946,Jackie Warner,
+GDA_Exhibitions_A1_3-0002,GDA_Exhibitions_A1_3-0002.jpg,The Count of Plastic Kettles,Exhibitions,White,Screenprint,1992,,
+GDA_Exhibitions_A1_3-0003,GDA_Exhibitions_A1_3-0003.jpg,The Best of British Design and Art Direction,Exhibitions,Purple,Screenprint,1989,,
+GDA_Exhibitions_A1_3-0004,GDA_Exhibitions_A1_3-0004.jpg,The Great Engineers,Exhibitions,Yellow,Offset,1987, ,
+GDA_Exhibitions_A1_3-0005,GDA_Exhibitions_A1_3-0005.jpg,The Thirties and After,Exhibitions,Red,Offset,,,
+GDA_Exhibitions_A1_3-0006,GDA_Exhibitions_A1_3-0006.jpg,John Minton,Exhibitions,Multicoloured,Offset,1994,,
+GDA_Exhibitions_A1_3-0007,GDA_Exhibitions_A1_3-0007.jpg,Lift,Exhibitions,Black,Screenprint,,,
+GDA_Exhibitions_A1_3-0008,GDA_Exhibitions_A1_3-0008.jpg,BBPR Milanese Architexts,Exhibitions,Black,Screenprint,,,
+GDA_Exhibitions_A1_3-0009,GDA_Exhibitions_A1_3-0009.jpg,Anthony Whishaw,Exhibitions,Image,Offset,1994,,
+GDA_Exhibitions_A1_3-0010,GDA_Exhibitions_A1_3-0010.jpg,Roberto Burle Marx,Exhibitions,Black,Screenprint,1982,,
+GDA_Exhibitions_A1_3-0011,GDA_Exhibitions_A1_3-0011.jpg,Artist's Choice,Exhibitions,Multicoloured,Offset,1987,,
+GDA_Exhibitions_A1_3-0012,GDA_Exhibitions_A1_3-0012.jpg,71 Masters Show,Exhibitions,White,Offset,1971,,
+GDA_Exhibitions_A1_3-0013,GDA_Exhibitions_A1_3-0013.jpg,Chris Garnham,Exhibitions,White,Offset,1990,,
+GDA_Exhibitions_A1_3-0014,GDA_Exhibitions_A1_3-0014.jpg,Sculpture School Degree Show ,Exhibitions,Black,Offset,1987,,
+GDA_Exhibitions_A1_3-0015,GDA_Exhibitions_A1_3-0015.jpg,Degree Shows,Exhibitions,Image,Offset,1988,Peter. C / Flors A.W / Peter W,
+GDA_Exhibitions_A1_3-0016,GDA_Exhibitions_A1_3-0016.jpg,Norway SW7,Exhibitions,Image,Offset,1973,,
+GDA_Exhibitions_A1_3-0017,GDA_Exhibitions_A1_3-0017.jpg,Paula Rego,Exhibitions,Image,Offset,1988,,
+GDA_Exhibitions_A1_3-0018,GDA_Exhibitions_A1_3-0018.jpg,150 Anniversary Exhibition,Exhibitions,White,,1987,Derek Birdsall,
+GDA_Exhibitions_A1_3-0020,GDA_Exhibitions_A1_3-0020.jpg,Shells of Thought,Exhibitions,Red,Offset,1999,,
+GDA_Exhibitions_A1_3-0021,GDA_Exhibitions_A1_3-0021.jpg,Exhibition Road,Exhibitions,Multicoloured,Offset,1988,,
+GDA_Exhibitions_A1_3-0022,GDA_Exhibitions_A1_3-0022.jpg,100 Years of the RCA,Exhibitions,Green,Screenprint,1996,Russell Warren Fischer,
+GDA_Exhibitions_A1_3-0023,GDA_Exhibitions_A1_3-0023.jpg,Johnston,Exhibitions,Red,Screenprint,1972,,
+GDA_Exhibitions_A1_3-0024,GDA_Exhibitions_A1_3-0024.jpg,New Contemporaries,Exhibitions,Blue,Offset,1979,,
+GDA_Exhibitions_A1_3-0028,GDA_Exhibitions_A1_3-0028.jpg,Ceremonial Robes,Exhibitions,Yellow,,,,
+GDA_Exhibitions_A1_3-0029,GDA_Exhibitions_A1_3-0029.jpg,Modern french Tapestries,Exhibitions,Multicoloured,Offset,1972,,
+GDA_Exhibitions_A1_3-0030,GDA_Exhibitions_A1_3-0030.jpg,Playthings for the Handicapped Child,Exhibitions,Red,Screenprint,,,
+GDA_Exhibitions_A1_3-0031,GDA_Exhibitions_A1_3-0031.jpg,Edwin La Dell,Exhibitions,Yellow,Screenprint,,,
+GDA_Exhibitions_A1_3-0032,GDA_Exhibitions_A1_3-0032.jpg,China My Chins,Exhibitions,White,Offset,,,
+GDA_Exhibitions_A1_3-0033,GDA_Exhibitions_A1_3-0033.jpg,Glow,Exhibitions,Blue,Screenprint,,,
+GDA_Exhibitions_A1_3-0034,GDA_Exhibitions_A1_3-0034.jpg,Brian Knight,Exhibitions,Red,Screenprint,,,
+GDA_Exhibitions_A1_3-0035,GDA_Exhibitions_A1_3-0035.jpg,New 57 Gallery,Exhibitions,Red,Screenprint,1976,,
+GDA_Exhibitions_A1_3-0036,GDA_Exhibitions_A1_3-0036.jpg,Universal Declaration on Human Rights,Exhibitions,Red,Screenprint,1980,,
+GDA_Exhibitions_A1_3-0037,GDA_Exhibitions_A1_3-0037.jpg,Ron Lenthall,Exhibitions,Image,Offset,1981,,
+GDA_Exhibitions_A1_3-0038,GDA_Exhibitions_A1_3-0038.jpg,Pictures for Schools,Exhibitions,Red,Screenprint,1964,,
+GDA_Exhibitions_A1_3-0039,GDA_Exhibitions_A1_3-0039.jpg,Tapestries from Harrania,Exhibitions,Multicoloured,Screenprint,,,
+GDA_Exhibitions_A1_3-0040,GDA_Exhibitions_A1_3-0040.jpg,New Contemporaries,Exhibitions,Pink,Screenprint,1961,,
+GDA_Exhibitions_A1_3-0043,GDA_Exhibitions_A1_3-0043.jpg,Furniture Show,Exhibitions,Brown,Offset,1977,,
+GDA_Exhibitions_A1_3-0044,GDA_Exhibitions_A1_3-0044.jpg,Modern french Tapestries,Exhibitions,Brown,Screenprint,1972,,
+GDA_Exhibitions_A1_3-0047,GDA_Exhibitions_A1_3-0047.jpg,Prince Albert's Vision,Exhibitions,Multicoloured,Offset,1990,Jason Claisse / Andrew Lawrence,
+GDA_Exhibitions_A1_3-0048,GDA_Exhibitions_A1_3-0048.jpg,First Year Printmaking Exhibition,Exhibitions,Black,Offset,1996,,
+GDA_Exhibitions_A1_3-0049,GDA_Exhibitions_A1_3-0049.jpg,Degree Shows,Exhibitions,Black,Screenprint,1972,,
+GDA_Exhibitions_A1_3-0050,GDA_Exhibitions_A1_3-0050.jpg,Degree Shows,Exhibitions,Orange,Screenprint,1979,,
+GDA_Exhibitions_A1_3-0051,GDA_Exhibitions_A1_3-0051.jpg,Degree Shows,Exhibitions,Multicoloured,Screenprint,1981,,
+GDA_Exhibitions_A1_3-0053,GDA_Exhibitions_A1_3-0053.jpg,Printmaking Exhibition,Exhibitions,Brown,Offset,1992,,
+GDA_Exhibitions_A1_3-0054,GDA_Exhibitions_A1_3-0054.jpg,Printmaking Exhibition,Exhibitions,Multicoloured,Offset,1995,,
+GDA_Exhibitions_A1_3-0055,GDA_Exhibitions_A1_3-0055.jpg,Printmaking Exhibition,Exhibitions,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_3-0056,GDA_Exhibitions_A1_3-0056.jpg,Printmaking Exhibition,Exhibitions,Multicoloured,Offset,1993,,
+GDA_Exhibitions_A1_3-0057,GDA_Exhibitions_A1_3-0057.jpg,Printmaking and Sculpture Exhibition,Exhibitions,Blue,Offset,1994,,
+GDA_Exhibitions_A1_3-0058,GDA_Exhibitions_A1_3-0058.jpg,Rumanian art of the 20th Century,Exhibitions,Green,Screenprint,1966,,
+GDA_Exhibitions_A1_3-0061,GDA_Exhibitions_A1_3-0061.jpg,Print Out on Sight,Exhibitions,Pink,Screenprint,,,
+GDA_Exhibitions_A1_3-0062,GDA_Exhibitions_A1_3-0062.jpg,Graphics RCA,Exhibitions,Green,Screenprint,1963,,
+GDA_Exhibitions_A1_3-0063,GDA_Exhibitions_A1_3-0063.jpg,Right on the Nose,Exhibitions,Black,Offset,,Derek Couts Barrington Smith,
+GDA_Exhibitions_A1_3-0064,GDA_Exhibitions_A1_3-0064.jpg,Prospex,Exhibitions,Multicoloured,Screenprint,1967,,
+GDA_Exhibitions_A1_3-0065,GDA_Exhibitions_A1_3-0065.jpg,Klimowski,Exhibitions,Black,Screenprint,2002,,
+GDA_Exhibitions_A1_3-0066,GDA_Exhibitions_A1_3-0066.jpg,The dilemma of Ballet,Exhibitions,Black,Screenprint,1973,,
+GDA_Exhibitions_A1_3-0069,GDA_Exhibitions_A1_3-0069.jpg,Graphic Design Diploma Exhibition,Exhibitions,Blue,Screenprint,1961,,
+GDA_Exhibitions_A1_3-0070,GDA_Exhibitions_A1_3-0070.jpg,Original Copies,Exhibitions,Multicoloured,Offset,,,
+GDA_Exhibitions_A1_3-0071,GDA_Exhibitions_A1_3-0071.jpg,Degree Shows,Exhibitions,Blue,Offset,1989,,
+GDA_Exhibitions_A1_3-0072,GDA_Exhibitions_A1_3-0072.jpg,The Quick and the Dead,Exhibitions,Multicoloured,Offset,1997,,
+GDA_Exhibitions_A1_3-0073,GDA_Exhibitions_A1_3-0073.jpg,Visions of Craft,Exhibitions,Black,Offset,1993,,
+GDA_Exhibitions_A1_3-0074,GDA_Exhibitions_A1_3-0074.jpg,Printmaking Exhibition,Exhibitions,Multicoloured,Offset,1993,,
+GDA_Exhibitions_A1_3-0075,GDA_Exhibitions_A1_3-0075.jpg,Printmaking Degree Show,Exhibitions,Black,Offset,1981,,
+GDA_Exhibitions_A1_3-0076,GDA_Exhibitions_A1_3-0076.jpg,Three Sculpture Students,Exhibitions,Green,Screenprint,,,
+GDA_Exhibitions_A1_3-0077,GDA_Exhibitions_A1_3-0077.jpg,Young Blood,Exhibitions,Multicoloured,Offset,1984,,
+GDA_Exhibitions_A1_3-0078,GDA_Exhibitions_A1_3-0078.jpg,On Sight,Exhibitions,Red,Screenprint,,,
+GDA_Exhibitions_A1_3-0079,GDA_Exhibitions_A1_3-0079.jpg,Degree Show,Exhibitions,Gold,Offset,1984,,
+GDA_Exhibitions_A1_3-0080,GDA_Exhibitions_A1_3-0080.jpg,Degree Show,Exhibitions,Black,Offset,1980,,
+GDA_Exhibitions_A1_3-0082,GDA_Exhibitions_A1_3-0082.jpg,Mapworks,Exhibitions,Red,Screenprint,1994,,
+GDA_Exhibitions_A2-0001,GDA_Exhibitions_A2-0001.jpg,Elephant Exhibition,Exhibitions,White,Hand,,,
+GDA_Exhibitions_A2-0002,GDA_Exhibitions_A2-0002.jpg,Tattoo,Exhibitions,Red,Screenprint,,,
+GDA_Exhibitions_A2-0003,GDA_Exhibitions_A2-0003.jpg,New Contemporaries,Exhibitions,White,Screenprint,1983,,
+GDA_Exhibitions_A2-0004,GDA_Exhibitions_A2-0004.jpg,Work in Progress,Exhibitions,Orange,Letterpress,,,
+GDA_Exhibitions_A2-0005,GDA_Exhibitions_A2-0005.jpg,Work in Progress,Exhibitions,Purple,Letterpress,,,
+GDA_Exhibitions_A2-0006,GDA_Exhibitions_A2-0006.jpg,Unfold,Exhibitions,Red,Risograph,,,
+GDA_Exhibitions_A2-0007,GDA_Exhibitions_A2-0007.jpg,Plants,Exhibitions,Green,Offset,,Paul Martin,
+GDA_Exhibitions_A2-0008,GDA_Exhibitions_A2-0008.jpg,The Young Contemporaries,Exhibitions,Orange,Offset,1970,,
+GDA_Exhibitions_A2-0009,GDA_Exhibitions_A2-0009.jpg,Folio Society Illustration Award,Exhibitions,Orange,Offset,1994,,
+GDA_Exhibitions_A2-0010,GDA_Exhibitions_A2-0010.jpg,Show RCA,Exhibitions,Red,Digital,2013,,
+GDA_Exhibitions_A2-0011,GDA_Exhibitions_A2-0011.jpg,Show RCA,Exhibitions,Yellow,Digital,2013,,
+GDA_Exhibitions_A2-0012,GDA_Exhibitions_A2-0012.jpg,Show RCA,Exhibitions,Blue,Digital,2013,,
+GDA_Exhibitions_A2-0013,GDA_Exhibitions_A2-0013.jpg,Show RCA,Exhibitions,Blue,Digital,2013,,
+GDA_Exhibitions_A2-0014,GDA_Exhibitions_A2-0014.jpg,Show RCA,Exhibitions,Blue,Digital,2013,,
+GDA_Exhibitions_A2-0028,GDA_Exhibitions_A2-0028.jpg,First Years Scultpture Show,Exhibitions,White,Digital,1991,,
+GDA_Exhibitions_A2-0029,GDA_Exhibitions_A2-0029.jpg,Plants: an Exhibition,Exhibitions,Image,Digital,,,
+GDA_Exhibitions_A2-0030,GDA_Exhibitions_A2-0030.jpg,Paella,Exhibitions,Green,Digital,,,
+GDA_Exhibitions_A2-0031,GDA_Exhibitions_A2-0031.jpg,Pieces From Eight,Exhibitions,Pink,Screenprint,,,
+GDA_Exhibitions_A2-0032,GDA_Exhibitions_A2-0032.jpg,New Photographs,Exhibitions,White,Screenprint,1978,,
+GDA_Exhibitions_A2-0033,GDA_Exhibitions_A2-0033.jpg,W. Lillies,Exhibitions,Orange,Screenprint,1970,,
+GDA_Exhibitions_A2-0034,GDA_Exhibitions_A2-0034.jpg,Germany,Exhibitions,Pink,Lino,,,
+GDA_Exhibitions_A2-0035,GDA_Exhibitions_A2-0035.jpg,D&AD 70,Exhibitions,White,Offset,,,
+GDA_Exhibitions_A2-0036,GDA_Exhibitions_A2-0036.jpg,Exhibiton of Industrial and Graphic Design,Exhibitions,Blue,Screenprint,1955,,
+GDA_Exhibitions_A2-0037,GDA_Exhibitions_A2-0037.jpg,West Lawn Holland Park,Exhibitions,Green,Screenprint,,,
+GDA_Exhibitions_A2-0038,GDA_Exhibitions_A2-0038.jpg,Folio Society,Exhibitions,Yellow,Offset,1979,,
+GDA_Exhibitions_A2-0039,GDA_Exhibitions_A2-0039.jpg,Dog Show,Exhibitions,Grey,Offset,,,
+GDA_Exhibitions_A2-0040,GDA_Exhibitions_A2-0040.jpg,RCA Films,Exhibitions,Yellow,Screenprint,1976,,
+GDA_Exhibitions_A2-0041,GDA_Exhibitions_A2-0041.jpg,Second Year Show,Exhibitions,Red,Screenprint,1980,,
+GDA_Exhibitions_A2-0042,GDA_Exhibitions_A2-0042.jpg,,Exhibitions,Yellow,Offset,1982,,
+GDA_Exhibitions_A2-0043,GDA_Exhibitions_A2-0043.jpg,Degree Show,Exhibitions,Blue,Offset,1977,,
+GDA_Exhibitions_A2-0044,GDA_Exhibitions_A2-0044.jpg,Second Year Show,Exhibitions,Blue,Offset,1983,,
+GDA_Exhibitions_A2-0045,GDA_Exhibitions_A2-0045.jpg,F N ,Exhibitions,Red,Digital,2011,,
+GDA_Exhibitions_A2-0046,GDA_Exhibitions_A2-0046.jpg,Transcriptions,Exhibitions,Blue,Screenprint,,,
+GDA_Exhibitions_A2-0047,GDA_Exhibitions_A2-0047.jpg,Kites,Exhibitions,Blue,Offset,1981,,
+GDA_Exhibitions_A2-0049,GDA_Exhibitions_A2-0049.jpg,Sculpture,Exhibitions,Red,Jeanne Verdoux,1989,,
+GDA_Exhibitions_A2-0050,GDA_Exhibitions_A2-0050.jpg,Last One Best One,Exhibitions,Blue,,1984,,
+GDA_Exhibitions_A2-0051,GDA_Exhibitions_A2-0051.jpg,Folio Society Illustration Awards,Exhibitions,Multicoloured,,1991,,
+GDA_Exhibitions_A2-0052,GDA_Exhibitions_A2-0052.jpg,Folio Society Illustration Awards,Exhibitions,Multicoloured,,1995,,
+GDA_Exhibitions_A2-0053,GDA_Exhibitions_A2-0053.jpg,Folio Society Illustration Awards,Exhibitions,White,,1983,,
+GDA_Exhibitions_A2-0054,GDA_Exhibitions_A2-0054.jpg,Folio Society Illustration Awards,Exhibitions,Yellow,,1996,,
+GDA_Exhibitions_A2-0056,GDA_Exhibitions_A2-0056.jpg,Folio Society Illustration Awards,Exhibitions,Yellow,,1990,,
+GDA_Exhibitions_A2-0057,GDA_Exhibitions_A2-0057.jpg,Wet or Dry,Exhibitions,White,,,,
+GDA_Exhibitions_A2-0058,GDA_Exhibitions_A2-0058.jpg,British Rail at Swindon,Exhibitions,Red,,1984,,
+GDA_Exhibitions_A2-0059,GDA_Exhibitions_A2-0059.jpg,Graphic Design Diploma Show,Exhibitions,White,,1962,,
+GDA_Exhibitions_A2-0060,GDA_Exhibitions_A2-0060.jpg,Automotive Design Degree Show,Exhibitions,Multicoloured,,,,
+GDA_Exhibitions_A2-0061,GDA_Exhibitions_A2-0061.jpg,Maryclare FOA,Exhibitions,Blue,,,,
+GDA_Exhibitions_A2-0062,GDA_Exhibitions_A2-0062.jpg,Inside Out,Exhibitions,Red,,1993,,
+GDA_Exhibitions_A2-0063,GDA_Exhibitions_A2-0063.jpg,Spring Exhibition,Exhibitions,Pink,,,,
+GDA_Exhibitions_A2-0065,GDA_Exhibitions_A2-0065.jpg,Sculpture,Exhibitions,Grey,Screenprint,,,
+GDA_Exhibitions_A2-0066,GDA_Exhibitions_A2-0066.jpg,Interim Show,Exhibitions,Yellow,Offset,,,
+GDA_Exhibitions_A2-0067,GDA_Exhibitions_A2-0067.jpg,Interim Show,Exhibitions,Image,Offset,,,
+GDA_Exhibitions_A2-0068,GDA_Exhibitions_A2-0068.jpg,V&A Fine Arts Exhibition,Exhibitions,Yellow,Screenprint,,Edsor,
+GDA_Exhibitions_A2-0069,GDA_Exhibitions_A2-0069.jpg,Exhibition ,Exhibitions,Orange,Offset,,,
+GDA_Exhibitions_A2-0070,GDA_Exhibitions_A2-0070.jpg,An Exhibition Illustrating the Research Work of Graduating Students,Exhibitions,Grey,Offset,,,
+GDA_Exhibitions_A2-0071,GDA_Exhibitions_A2-0071.jpg,Interim Show,Exhibitions,Image,Offset,2008,,
+GDA_Exhibitions_A2-0072,GDA_Exhibitions_A2-0072.jpg,Interim Show,Exhibitions,Image,Offset,2006,,
+GDA_Exhibitions_A2-0073,GDA_Exhibitions_A2-0073.jpg,Printmaking and Sculpture Exhibition,Exhibitions,Multicoloured,Offset,2000,,
+GDA_Exhibitions_A2-0074,GDA_Exhibitions_A2-0074.jpg,Folio Society Illustration Award,Exhibitions,Brown,,,,
+GDA_Exhibitions_A2-0075,GDA_Exhibitions_A2-0075.jpg,Lucienne Day,Exhibitions,Multicoloured,Offset,1993,,
+GDA_Exhibitions_A2-0076,GDA_Exhibitions_A2-0076.jpg,Kenneth Griffiths Going back to College,Exhibitions,White,,,,
+GDA_Exhibitions_A2-0077,GDA_Exhibitions_A2-0077.jpg,Unknown Women,Exhibitions,White,,,Cameron Campsbell,
+GDA_Exhibitions_A2-0078,GDA_Exhibitions_A2-0078.jpg,While you're under this roof,Exhibitions,Blue,Offset,1998,,
+GDA_Exhibitions_A2-0079,GDA_Exhibitions_A2-0079.jpg,Thomas Goode,Exhibitions,Blue,Offset,,,
+GDA_Exhibitions_A2-0080,GDA_Exhibitions_A2-0080.jpg,Eric Fraser,Exhibitions,Red,Offset,1991,,
+GDA_Exhibitions_A2-0081,GDA_Exhibitions_A2-0081.jpg,The Historical Development of Industrial Design,Exhibitions,Red,Screenprint,1982,,
+GDA_Exhibitions_A2-0082,GDA_Exhibitions_A2-0082.jpg,Make Believe,Exhibitions,White,Offset,2000,,
+GDA_Exhibitions_A2-0083,GDA_Exhibitions_A2-0083.jpg,Acting Out,Exhibitions,Green,Offset,1994,,
+GDA_Exhibitions_A2-0084,GDA_Exhibitions_A2-0084.jpg,An Exhibition of Ceramics and Glass ,Exhibitions,Grey,Offset,,,
+GDA_Exhibitions_A2-0085,GDA_Exhibitions_A2-0085.jpg,Interim Show,Exhibitions,Green,Offset,2011,,
+GDA_Exhibitions_A2-0086,GDA_Exhibitions_A2-0086.jpg,History of Design,Exhibitions,Green,Offset,1993,Andrew Johnson,
+GDA_Exhibitions_A2-0087,GDA_Exhibitions_A2-0087.jpg,Alison Britton,Exhibitions,Grey,Offset,1987,Ray Carpenter,
+GDA_Exhibitions_A2-0088,GDA_Exhibitions_A2-0088.jpg,Sculpture,Exhibitions,White,Offset,1991,,
+GDA_Exhibitions_A2-0089,GDA_Exhibitions_A2-0089.jpg,Eduardo Paolozzi,Exhibitions,Purple,Offset,1991,,
+GDA_Exhibitions_A2-0090,GDA_Exhibitions_A2-0090.jpg,Fuse,Exhibitions,Blue,Offset,1994,Neville Brody,
+GDA_Exhibitions_A2-0091,GDA_Exhibitions_A2-0091.jpg,Vehicle Design Exhibition,Exhibitions,White,Offset,1992,,
+GDA_Exhibitions_A2-0092,GDA_Exhibitions_A2-0092.jpg,An American Passion,Exhibitions,Multicoloured,Offset,1995,,
+GDA_Exhibitions_A2-0093,GDA_Exhibitions_A2-0093.jpg,Hebridean,Light,Image,Offset,1983,,
+GDA_Exhibitions_A2-0094,GDA_Exhibitions_A2-0094.jpg,A Frozen Moment,Exhibitions,White,Screenprint,1983,,
+GDA_Exhibitions_A2-0095,GDA_Exhibitions_A2-0095.jpg,Streets Full of Water,Exhibitions,Gold,Screenprint,1983,,
+GDA_Exhibitions_A2-0096,GDA_Exhibitions_A2-0096.jpg,School of Industrial Design,Exhibitions,White,Screenprint,,,
+GDA_Exhibitions_A2-0097,GDA_Exhibitions_A2-0097.jpg,Furniture ,Exhibitions,White,Screenprint,1982,,
+GDA_Exhibitions_A2-0098,GDA_Exhibitions_A2-0098.jpg,Beneath the Cloth,Exhibitions,White,Screenprint,1982,,
+GDA_Exhibitions_A2-0099,GDA_Exhibitions_A2-0099.jpg,The Box of Delights,Exhibitions,Multicoloured,Offset,1991,,
+GDA_Exhibitions_A2-0100,GDA_Exhibitions_A2-0100.jpg,Fun & Games,Exhibitions,Green,Screenprint,,,
+GDA_Exhibitions_A2-0102,GDA_Exhibitions_A2-0102.jpg,Printmaking and Sculpture WIP,Exhibitions,Red,Digital,2001,,
+GDA_Exhibitions_A2-0103,GDA_Exhibitions_A2-0103.jpg,Work in Progress,Exhibitions,Blue,Screenprint,1981,,
+GDA_Exhibitions_A2-0104,GDA_Exhibitions_A2-0104.jpg,Stools,Exhibitions,Brown,Letterpress,,,
+GDA_Exhibitions_A2-0105,GDA_Exhibitions_A2-0105.jpg,The Folio Society Illustration Awards,Exhibitions,Red,Offset,,,
+GDA_Exhibitions_A2-0107,GDA_Exhibitions_A2-0107.jpg,The Folio Society Illustration Awards,Exhibitions,Black,Offset,,,
+GDA_Exhibitions_A2-0108,GDA_Exhibitions_A2-0108.jpg,Original Copies,Exhibitions,Pink,Offset,1990,Stephen Coates,
+GDA_Exhibitions_A2-0109,GDA_Exhibitions_A2-0109.jpg,Soviet Posters,Exhibitions,Red,Screenprint,1979,,
+GDA_Exhibitions_A2-0110,GDA_Exhibitions_A2-0110.jpg,The Scottish Tapestry Artists Group,Exhibitions,Black,Screenprint,1978,,
+GDA_Exhibitions_A2-0111,GDA_Exhibitions_A2-0111.jpg,Into Print,Exhibitions,Black,Screenprint,1980,,
+GDA_Exhibitions_A2-0112,GDA_Exhibitions_A2-0112.jpg,Folio Society Illustration Award,Exhibitions,Yellow,Offset,1997,Lucy Weller,
+GDA_Exhibitions_A2-0113,GDA_Exhibitions_A2-0113.jpg,Folio Society Illustration Award,Exhibitions,Orange,Offset,1993,,
+GDA_Exhibitions_A2-0114,GDA_Exhibitions_A2-0114.jpg,Sleep,Exhibitions,Blue,Screenprint,,,
+GDA_Exhibitions_A2-0115,GDA_Exhibitions_A2-0115.jpg,Second Year Painting Show,Exhibitions,Brown,Screenprint,1979,,
+GDA_Exhibitions_A2-0116,GDA_Exhibitions_A2-0116.jpg,Fine and Applied arts Show,Exhibitions,Grey,Offset,1997,,
+GDA_Exhibitions_A2-0117,GDA_Exhibitions_A2-0117.jpg,Selection of Paintings,Exhibitions,Gold,Screenprint,1972,,
+GDA_Exhibitions_A2-0118,GDA_Exhibitions_A2-0118.jpg,School of Furniture Design,Exhibitions,Black,Screenprint,,,
+GDA_Exhibitions_A2-0119,GDA_Exhibitions_A2-0119.jpg,An Exhibition by Second Year Graphic Designers,Exhibitions,Image,Offset,,,
+GDA_Exhibitions_A2-0120,GDA_Exhibitions_A2-0120.jpg,An Exhibition of Works,Exhibitions,Grey,Screenprint,1980,,
+GDA_Exhibitions_A2-0121,GDA_Exhibitions_A2-0121.jpg,An Exhibition of Recent Work,Exhibitions,Orange,Screenprint,,,
+GDA_Exhibitions_A2-0122,GDA_Exhibitions_A2-0122.jpg,Printmaking and Sculpture,Exhibitions,Image,Offset,2002,,
+GDA_Film_Society_A2-0002,GDA_Film_Society_A2-0002.jpg,When You're Quite Finished,Film Society,Red,Offset,1970,,
+GDA_Film_Society_A2-0003,GDA_Film_Society_A2-0003.jpg,Stagecoach,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A2-0004,GDA_Film_Society_A2-0004.jpg,Zabriskie Point,Film Society,Yellow,Offset,1970,Antonioni,
+GDA_Film_Society_A2-0005,GDA_Film_Society_A2-0005.jpg,Jour de Fete,Film Society,Red,,,,
+GDA_Film_Society_A2-0006,GDA_Film_Society_A2-0006.jpg,The Wild One,Film Society,Red,Screenprint,,Gordon Moon,
+GDA_Film_Society_A2-0007,GDA_Film_Society_A2-0007.jpg,The Man in the White Suit,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A2-0008,GDA_Film_Society_A2-0008.jpg,Dont MIss,Film Society,Grey,Offset,,,
+GDA_Film_Society_A2-0009,GDA_Film_Society_A2-0009.jpg,The Kidnapper,Film Society,White,Screenprint,,,
+GDA_Film_Society_A2-0010,GDA_Film_Society_A2-0010.jpg,Scott of the Antarctic,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0011,GDA_Film_Society_A2-0011.jpg,3 Films,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A2-0012,GDA_Film_Society_A2-0012.jpg,A Programme of Markfilm Productions,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A2-0013,GDA_Film_Society_A2-0013.jpg,The Four Horsemen of the Apocalpyse,Film Society,White,Screenprint,,,
+GDA_Film_Society_A2-0014,GDA_Film_Society_A2-0014.jpg,L'atlante,Film Society,Green,Offset,,,
+GDA_Film_Society_A2-0015,GDA_Film_Society_A2-0015.jpg,Garbo of Ninotchika,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0016,GDA_Film_Society_A2-0016.jpg,Jazz on a summer's day,Film Society,Green,Offset,,,
+GDA_Film_Society_A2-0017,GDA_Film_Society_A2-0017.jpg,Flesh Gordon,Film Society,Blue,Offset,,,
+GDA_Film_Society_A2-0018,GDA_Film_Society_A2-0018.jpg, invaders from mars ,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0019,GDA_Film_Society_A2-0019.jpg,The Third Man,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0020,GDA_Film_Society_A2-0020.jpg,Frenzy,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_A2-0021,GDA_Film_Society_A2-0021.jpg,The Magnet,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0022,GDA_Film_Society_A2-0022.jpg,Le Millio,Film Society,Multicoloured,Letterpress,,,
+GDA_Film_Society_A2-0023,GDA_Film_Society_A2-0023.jpg,The Grapes of Wrath ,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0024,GDA_Film_Society_A2-0024.jpg,Race for Life,Film Society,Orange,,,,
+GDA_Film_Society_A2-0025,GDA_Film_Society_A2-0025.jpg,A MAtter of Life and Death,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0026,GDA_Film_Society_A2-0026.jpg,Quartet,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0027,GDA_Film_Society_A2-0027.jpg,On the Waterfront,Film Society,Grey,Screenprint,,,
+GDA_Film_Society_A2-0028,GDA_Film_Society_A2-0028.jpg,A Day at the Races,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0029,GDA_Film_Society_A2-0029.jpg,Great Expectation,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0030,GDA_Film_Society_A2-0030.jpg,Buster Keaton,Film Society,Blue,,,,
+GDA_Film_Society_A2-0031,GDA_Film_Society_A2-0031.jpg,Los Olvidados,Film Society,Yellow,Screenprint,,,
+GDA_Film_Society_A2-0032,GDA_Film_Society_A2-0032.jpg,Winchester 73,Film Society,Grey,Screenprint,,,
+GDA_Film_Society_A2-0033,GDA_Film_Society_A2-0033.jpg,The Bandit,Film Society,Yellow,,,,
+GDA_Film_Society_A2-0034,GDA_Film_Society_A2-0034.jpg,RCA Film Society,Film Society,White,,,,
+GDA_Film_Society_A2-0035,GDA_Film_Society_A2-0035.jpg,Strike ,Film Society,Red,Letterpress,,,
+GDA_Film_Society_A2-0036,GDA_Film_Society_A2-0036.jpg,We're no Angels,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_A2-0037,GDA_Film_Society_A2-0037.jpg,The Great Adventure,Film Society,Red,,,,
+GDA_Film_Society_A2-0038,GDA_Film_Society_A2-0038.jpg,A Day of Fury,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0039,GDA_Film_Society_A2-0039.jpg,Edouard et Caroline,Film Society,Green,Letterpress,,,
+GDA_Film_Society_A2-0040,GDA_Film_Society_A2-0040.jpg,The Sawmill ,Film Society,Yellow,Letterpress,,,
+GDA_Film_Society_A2-0041,GDA_Film_Society_A2-0041.jpg,Open City,Film Society,Brown,Screenprint,,,
+GDA_Film_Society_A2-0042,GDA_Film_Society_A2-0042.jpg,Keep an eye on Amelia,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0043,GDA_Film_Society_A2-0043.jpg,Louisiana Story,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0044,GDA_Film_Society_A2-0044.jpg,Birth of a Nation,Film Society,Grey,Screenprint,,,
+GDA_Film_Society_A2-0045,GDA_Film_Society_A2-0045.jpg,Casque D'or,Film Society,Yellow,Letterpress,,,
+GDA_Film_Society_A2-0046,GDA_Film_Society_A2-0046.jpg,Louisiana Story,Film Society,Pink,Screenprint,,,
+GDA_Film_Society_A2-0047,GDA_Film_Society_A2-0047.jpg,The Bandit,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0048,GDA_Film_Society_A2-0048.jpg,October,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0049,GDA_Film_Society_A2-0049.jpg,Ten Little NIggers,Film Society,White,Screenprint,,,
+GDA_Film_Society_A2-0050,GDA_Film_Society_A2-0050.jpg,Private Angelo,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0051,GDA_Film_Society_A2-0051.jpg,The Dance of the Vampire,Film Society,Red,Offset,,,
+GDA_Film_Society_A2-0052,GDA_Film_Society_A2-0052.jpg,The Exterminating Angel,Film Society,Image,Offset,,,
+GDA_Film_Society_A2-0053,GDA_Film_Society_A2-0053.jpg,Joseph Andrews,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0054,GDA_Film_Society_A2-0054.jpg,The Blood of a poet,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0055,GDA_Film_Society_A2-0055.jpg,Car Wash,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0056,GDA_Film_Society_A2-0056.jpg,M.Hulot's Holiday,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0057,GDA_Film_Society_A2-0057.jpg,Our Man in Havana,Film Society,Multicoloured,Screenprint,,,
+GDA_Film_Society_A2-0058,GDA_Film_Society_A2-0058.jpg,On the Bowery,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A2-0059,GDA_Film_Society_A2-0059.jpg,The Birth of a Nation,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0060,GDA_Film_Society_A2-0060.jpg,Memories of Underdevelopment,Film Society,Red,Screenprint,1968,,
+GDA_Film_Society_A2-0061,GDA_Film_Society_A2-0061.jpg,The Prisoner,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A2-0062,GDA_Film_Society_A2-0062.jpg,Sawdust and Tinsel,Film Society,Red,Screenprint,,,
+GDA_Film_Society_A2-0063,GDA_Film_Society_A2-0063.jpg,Odd Man Out,Film Society,Orange,Screenprint,,,
+GDA_Film_Society_A2-0064,GDA_Film_Society_A2-0064.jpg,The Asphalt Jungle,Film Society,Black,Screenprint,,,
+GDA_Film_Society_A2-0065,GDA_Film_Society_A2-0065.jpg,Pan Pan La Julipe,Film Society,Blue,Screenprint,,,
+GDA_Film_Society_A2-0066,GDA_Film_Society_A2-0066.jpg,The Film of the Book,Film Society,Red,Offset,,,
+GDA_Film_Society_A2-0067,GDA_Film_Society_A2-0067.jpg,Silver Screen,Film Society,Green,Screenprint,,,
+GDA_Film_Society_A2-0068,GDA_Film_Society_A2-0068.jpg,Thorold Dickinson,Film Society,Brown,Offset,,,
+GDA_JCR_Parties-0002,GDA_JCR_Parties-0002.jpg,Chicago Christmas Dance,Parties,Multicoloured,Screenprint,,,
+GDA_JCR_Parties-0003,GDA_JCR_Parties-0003.jpg,Election Dance,Parties,White,Screenprint,,,
+GDA_JCR_Parties-0004,GDA_JCR_Parties-0004.jpg,Bar Party,Parties,Yellow,Screenprint,,,
+GDA_JCR_Parties-0005,GDA_JCR_Parties-0005.jpg,Summer Get Away Dance,Parties,Red,Screenprint,1965,,
+GDA_JCR_Parties-0006,GDA_JCR_Parties-0006.jpg,Spooky Tooth,Parties,Blue,Screenprint,,,
+GDA_JCR_Parties-0007,GDA_JCR_Parties-0007.jpg,New Orleans Wellington Ball,Parties,Blue,Screenprint,,,
+GDA_JCR_Parties-0008,GDA_JCR_Parties-0008.jpg,RCA Dancing,Parties,Green,Screenprint,,,
+GDA_JCR_Parties-0009,GDA_JCR_Parties-0009.jpg,Bar Party,Parties,Orange,Screenprint,,,
+GDA_JCR_Parties-0010,GDA_JCR_Parties-0010.jpg,2 Bands 2 Bars,Parties,Green,Screenprint,,,
+GDA_JCR_Parties-0011,GDA_JCR_Parties-0011.jpg,Last Chance Dance,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0012,GDA_JCR_Parties-0012.jpg,This is no Yolk,Parties,Yellow,Screenprint,,,
+GDA_JCR_Parties-0013,GDA_JCR_Parties-0013.jpg,Beards are in this Year,Parties,Brown,Screenprint,,,
+GDA_JCR_Parties-0014,GDA_JCR_Parties-0014.jpg,Big Time ,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0015,GDA_JCR_Parties-0015.jpg,Convocation Ball,Parties,Pink,Screenprint,1960,,
+GDA_JCR_Parties-0016,GDA_JCR_Parties-0016.jpg,Vote Mainly for Manley,Parties,White,Screenprint, ,Jim Corless,
+GDA_JCR_Parties-0017,GDA_JCR_Parties-0017.jpg,Friday Night Dance,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0018,GDA_JCR_Parties-0018.jpg,Its Panto Time Again,Parties,pink,Letterpress,,,
+GDA_JCR_Parties-0019,GDA_JCR_Parties-0019.jpg,Let Yourself Go,Parties,Yellow,Screenprint,,,
+GDA_JCR_Parties-0020,GDA_JCR_Parties-0020.jpg,Charity Fancy Dress Ball,Parties,Blue,Letterpress,1960,,
+GDA_JCR_Parties-0021,GDA_JCR_Parties-0021.jpg,Grand Boat Race & Dance,Parties,White,Screenprint,,,
+GDA_JCR_Parties-0022,GDA_JCR_Parties-0022.jpg,Big Dance,Parties,White,Screenprint,,,
+GDA_JCR_Parties-0023,GDA_JCR_Parties-0023.jpg,May Ball,Parties,Blue,Screenprint,1968,,
+GDA_JCR_Parties-0024,GDA_JCR_Parties-0024.jpg,Headlines,Parties,Yellow,Offset,,,
+GDA_JCR_Parties-0025,GDA_JCR_Parties-0025.jpg,Communications Party,Parties,Yellow,Offset,,,
+GDA_JCR_Parties-0026,GDA_JCR_Parties-0026.jpg,Dancing,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0027,GDA_JCR_Parties-0027.jpg,RCA Olympic Dance Team,Parties,Purple,Offset,,,
+GDA_JCR_Parties-0028,GDA_JCR_Parties-0028.jpg,Dance Darlin?,Parties,Blue,Offset,,,
+GDA_JCR_Parties-0030,GDA_JCR_Parties-0030.jpg,A Royal Affair,Parties,Red,Offset,1997,,
+GDA_JCR_Parties-0031,GDA_JCR_Parties-0031.jpg,Exchange of Art,Parties,Red,Offset,1972,,
+GDA_JCR_Parties-0032,GDA_JCR_Parties-0032.jpg,Convocation Ball,Parties,Blue,Screenprint,1958,,
+GDA_JCR_Parties-0034,GDA_JCR_Parties-0034.jpg,Grand U.C.S,Parties,Red,Offset,,,
+GDA_JCR_Parties-0035,GDA_JCR_Parties-0035.jpg,A Pureply International Affair,Parties,Yellow,Offset,,,
+GDA_JCR_Parties-0036,GDA_JCR_Parties-0036.jpg,Are Gonna Take You by the Hand,Parties,Orange,Offset,,,
+GDA_JCR_Parties-0037,GDA_JCR_Parties-0037.jpg,Convocation Ball,Parties,Pink,Offset,1992,,
+GDA_JCR_Parties-0038,GDA_JCR_Parties-0038.jpg,Valentines Party,Parties,Pink,Offset,,,
+GDA_JCR_Parties-0039,GDA_JCR_Parties-0039.jpg,Boat Race,Parties,Blue,Screenprint,1972,,
+GDA_JCR_Parties-0040,GDA_JCR_Parties-0040.jpg,The First Thing,Parties,Purple,Screenprint,,,
+GDA_JCR_Parties-0041,GDA_JCR_Parties-0041.jpg,Nowhere to go? ,Parties,Blue,Letterpress,,,
+GDA_JCR_Parties-0042,GDA_JCR_Parties-0042.jpg,Valentine Snogfest,Parties,Blue,Screenprint,,,
+GDA_JCR_Parties-0043,GDA_JCR_Parties-0043.jpg,Purely Internal Affair,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0044,GDA_JCR_Parties-0044.jpg,Chris Edge for Social Secretary,Parties,Green,Screenprint,,,
+GDA_JCR_Parties-0045,GDA_JCR_Parties-0045.jpg,End of term Dance,Parties,Green,,,,
+GDA_JCR_Parties-0046,GDA_JCR_Parties-0046.jpg,Big Dance,Parties,Black,,,,
+GDA_JCR_Parties-0047,GDA_JCR_Parties-0047.jpg,Dance,Parties,Yellow,Letterpress,,,
+GDA_JCR_Parties-0048,GDA_JCR_Parties-0048.jpg,Bar Party,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0049,GDA_JCR_Parties-0049.jpg,Just a bit of Fun,Parties,Pink,Screenprint,,,
+GDA_JCR_Parties-0050,GDA_JCR_Parties-0050.jpg,Charity Fancy Dress Ball,Parties,Green,Letterpress,1960,,
+GDA_JCR_Parties-0051,GDA_JCR_Parties-0051.jpg,RCA Dance,Parties,Brown,Offset,1967,,
+GDA_JCR_Parties-0052,GDA_JCR_Parties-0052.jpg,Comin' to de party?,Parties,Yellow,Screenprint,,,
+GDA_JCR_Parties-0053,GDA_JCR_Parties-0053.jpg,Kiss 13,Parties,Pink,Screenprint,,,
+GDA_JCR_Parties-0054,GDA_JCR_Parties-0054.jpg,Solomun Grundy,Parties,Pink,Screenprint,,Castle Farman,
+GDA_JCR_Parties-0055,GDA_JCR_Parties-0055.jpg,GR6962b19,Parties,Green,Screenprint,,,
+GDA_JCR_Parties-0056,GDA_JCR_Parties-0056.jpg,Goldrush,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0057,GDA_JCR_Parties-0057.jpg,Ere me now,Parties,Pink,Screenprint,,,
+GDA_JCR_Parties-0058,GDA_JCR_Parties-0058.jpg,Twist at the Diploma Dance,Parties,Blue,Offset,,,
+GDA_JCR_Parties-0059,GDA_JCR_Parties-0059.jpg,Its the End,Parties,Blue,Screenprint,,,
+GDA_JCR_Parties-0060,GDA_JCR_Parties-0060.jpg,Banana Boat Song,Parties,Yellow,Letterpress,,,
+GDA_JCR_Parties-0061,GDA_JCR_Parties-0061.jpg,Friday Night Dance,Parties,White,Screenprint,,,
+GDA_JCR_Parties-0062,GDA_JCR_Parties-0062.jpg,Stag Party,Parties,Brown,Screenprint,1958,,
+GDA_JCR_Parties-0063,GDA_JCR_Parties-0063.jpg,Friday Night Party,Parties,Orange,Letterpress,,,
+GDA_JCR_Parties-0064,GDA_JCR_Parties-0064.jpg,Big Sweat,Parties,Black,Offset,1972,,
+GDA_JCR_Parties-0065,GDA_JCR_Parties-0065.jpg,Another Chance to Get Together,Parties,Orange,Offset,1972,,
+GDA_JCR_Parties-0066,GDA_JCR_Parties-0066.jpg,Ahoy There,Parties,Blue,Screenprint,,,
+GDA_JCR_Parties-0067,GDA_JCR_Parties-0067.jpg,Bar Party & Lightshow,Parties,Multicoloured,Screenprint,,,
+GDA_JCR_Parties-0068,GDA_JCR_Parties-0068.jpg,You may not be a top person...,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0069,GDA_JCR_Parties-0069.jpg,christmas Dance,Parties,Red,Screenprint,1965,,
+GDA_JCR_Parties-0070,GDA_JCR_Parties-0070.jpg,Salle A Manger,Parties,Orange,Letterpress,,,
+GDA_JCR_Parties-0071,GDA_JCR_Parties-0071.jpg,Halloween Party,Parties,White,Screenprint,,,
+GDA_JCR_Parties-0073,GDA_JCR_Parties-0073.jpg,Tramps,Parties,Red,Letterpress,,,
+GDA_JCR_Parties-0074,GDA_JCR_Parties-0074.jpg,Come and Get Glazed at the Pot Shop,Parties,Green,Screenprint,,,
+GDA_JCR_Parties-0075,GDA_JCR_Parties-0075.jpg,A Christmas Fancy Dress Ball,Parties,Orange,Letterpress,1957,,
+GDA_JCR_Parties-0076,GDA_JCR_Parties-0076.jpg,Custer's Last Vest,Parties,Blue,Letterpress,,,
+GDA_JCR_Parties-0077,GDA_JCR_Parties-0077.jpg,All Fools Dance,Parties,Red,Letterpress,,,
+GDA_JCR_Parties-0078,GDA_JCR_Parties-0078.jpg,Bar Party,Parties,Pink,Offset,,,
+GDA_JCR_Parties-0079,GDA_JCR_Parties-0079.jpg,May Ball,Parties,White,Offset,,,
+GDA_JCR_Parties-0080,GDA_JCR_Parties-0080.jpg,May Ball,Parties,White,Offset,,,
+GDA_JCR_Parties-0081,GDA_JCR_Parties-0081.jpg,Guess Where I'm Going,Parties,Orange,Offset,,,
+GDA_JCR_Parties-0082,GDA_JCR_Parties-0082.jpg,Football Dance,Parties,Brown,Letterpress,,,
+GDA_JCR_Parties-0083,GDA_JCR_Parties-0083.jpg,1st Spring Hop,Parties,Multicoloured,Screenprint,1959,,
+GDA_JCR_Parties-0084,GDA_JCR_Parties-0084.jpg,Mick Mulligan,Parties,Yellow,Screenprint,1955,,
+GDA_JCR_Parties-0085,GDA_JCR_Parties-0085.jpg,A Mask Making Competition,Parties,Orange,Letterpress,,,
+GDA_JCR_Parties-0086,GDA_JCR_Parties-0086.jpg,Friday Night Dance,Parties,Green,Letterpress,,,
+GDA_JCR_Parties-0087,GDA_JCR_Parties-0087.jpg,Alex Welsh,Parties,Orange,Letterpress,,,
+GDA_JCR_Parties-0088,GDA_JCR_Parties-0088.jpg,Dance,Parties,Red,Letterpress,,,
+GDA_JCR_Parties-0089,GDA_JCR_Parties-0089.jpg,Not a Pink Zebra,Parties,Orange,Screenprint,,,
+GDA_JCR_Parties-0090,GDA_JCR_Parties-0090.jpg,Spring Fever,Parties,Purple,Letterpress,,,
+GDA_JCR_Parties-0091,GDA_JCR_Parties-0091.jpg,The RCA Boat Race,Parties,Red,Screenprint,,,
+GDA_JCR_Parties-0092,GDA_JCR_Parties-0092.jpg,Dance to the Happy Wanderers,Parties,Blue,Letterpress,,,
+GDA_JCR_Parties-0093,GDA_JCR_Parties-0093.jpg,A Freshers Hop,Parties,Black,Hand,,,
+GDA_JCR_Parties-0094,GDA_JCR_Parties-0094.jpg,dance,Parties,Blue,letterpress,,,
+GDA_JCR_Parties-0095,GDA_JCR_Parties-0095.jpg,The Boat Race,Parties,Green,Offset,,,
+GDA_JCR_Parties-0096,GDA_JCR_Parties-0096.jpg,Graphic Design Christmas Soiree,Parties,Black,Offset,1980,,
+GDA_JCR_Parties-0097,GDA_JCR_Parties-0097.jpg,Make the Myth a Reality,Parties,Blue,Letterpress,1966,,
+GDA_JCR_Parties-0098,GDA_JCR_Parties-0098.jpg,In Order to save on points...,Parties,Black,Offset,,,
+GDA_JCR_Parties-0099,GDA_JCR_Parties-0099.jpg,Cast Off,Parties,Green,Offset,,,
+GDA_JCR_Parties-0100,GDA_JCR_Parties-0100.jpg,The Not Quite Halloween Party,Parties,Green,Offset,,,
+GDA_JCR_Parties-0101,GDA_JCR_Parties-0101.jpg,Circus RCA,Parties,Orange,Offset,,,
+GDA_JCR_Parties-0102,GDA_JCR_Parties-0102.jpg,Freshers Hop,Parties,Purple,Letterpress,,,
+GDA_JCR_Parties-0103,GDA_JCR_Parties-0103.jpg,This Time Everybody's Voting,Parties,Black,Screenprint,,,
+GDA_JCR_Parties-0104,GDA_JCR_Parties-0104.jpg,Final Count Down,Parties,Pink,Letterpress,,,
+GDA_JCR_Parties-0105,GDA_JCR_Parties-0105.jpg,Valentine Dance,Parties,Pink,Letterpress,,,
+GDA_Natural_History-0001,GDA_Natural_History-0001.jpg,A Small Nature Reserve,Natural History,Multicoloured,Offset,,,
+GDA_Natural_History-0003,GDA_Natural_History-0003.jpg,Cherry Denman's Edible Alphabet,Natural History,Multicoloured,Offset,,,
+GDA_Natural_History-0004,GDA_Natural_History-0004.jpg,,Natural History,Black,Screenprint,,,
+GDA_Natural_History-0005,GDA_Natural_History-0005.jpg,Exotic Birds in the RCA Greenhouse,Natural History,Multicoloured,Offset,,,
+GDA_Natural_History-0006,GDA_Natural_History-0006.jpg,Autumnal Scene,Natural History,Multicoloured,Hand,1990,Kat Thompson,
+GDA_Natural_History-0010,GDA_Natural_History-0010.jpg,Lemurs of Madagascar,Natural History,Multicoloured,Offset,,Stephen D. Nash,
+GDA_Theatre_Music_Soc_A1-0001,GDA_Theatre_Music_Soc_A1-0001.jpg,Great Monster Rock,Music Society,Yellow,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0002,GDA_Theatre_Music_Soc_A1-0002.jpg,Pictures in an Exhibition,Music Society,Orange,Offset,,,
+GDA_Theatre_Music_Soc_A1-0003,GDA_Theatre_Music_Soc_A1-0003.jpg,Zaide,Music Society,Green,,1969,,
+GDA_Theatre_Music_Soc_A1-0004,GDA_Theatre_Music_Soc_A1-0004.jpg,A Dream Play,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0005,GDA_Theatre_Music_Soc_A1-0005.jpg,Mozart Clarinet,Music Society,Pink,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0006,GDA_Theatre_Music_Soc_A1-0006.jpg,Jazz Society,Music Society,Red,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0007,GDA_Theatre_Music_Soc_A1-0007.jpg,Monet or Your Wife,Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0008,GDA_Theatre_Music_Soc_A1-0008.jpg,Count King Early Duke,Music Society,White,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0009,GDA_Theatre_Music_Soc_A1-0009.jpg,The Ticket of Leave Man,Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0010,GDA_Theatre_Music_Soc_A1-0010.jpg,Warren Lamb,Music Society,Orange,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0011,GDA_Theatre_Music_Soc_A1-0011.jpg,Byrds Eye View,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0012,GDA_Theatre_Music_Soc_A1-0012.jpg,Belshazzar's Feast,Music Society,Multicoloured,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0013,GDA_Theatre_Music_Soc_A1-0013.jpg,"Mozart, Handel, Vivaldi",Music Society,Grey,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0014,GDA_Theatre_Music_Soc_A1-0014.jpg,Mahler Resurrection,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0015,GDA_Theatre_Music_Soc_A1-0015.jpg,The Piano Styles of Hampton Hawes and Errol Garner,Music Society,White,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0016,GDA_Theatre_Music_Soc_A1-0016.jpg,Peter Grimes,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0017,GDA_Theatre_Music_Soc_A1-0017.jpg,Arcopera present ,Music Society,Purple,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0018,GDA_Theatre_Music_Soc_A1-0018.jpg,Transylvania,Music Society,Orange,Screenprint,1979,,
+GDA_Theatre_Music_Soc_A1-0019,GDA_Theatre_Music_Soc_A1-0019.jpg,"Brahms, Elgar, Vivaldi, Hindemith",Music Society,Pink,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0020,GDA_Theatre_Music_Soc_A1-0020.jpg,Jazz Society,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0021,GDA_Theatre_Music_Soc_A1-0021.jpg,The Beggars Opera,Music Society,Orange,Screenprint,1953,,
+GDA_Theatre_Music_Soc_A1-0022,GDA_Theatre_Music_Soc_A1-0022.jpg,Gramaphone Recitals,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0023,GDA_Theatre_Music_Soc_A1-0023.jpg,Movements for Piano and Orchestra,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0024,GDA_Theatre_Music_Soc_A1-0024.jpg,The Wages of Fear,Music Society,Black,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0025,GDA_Theatre_Music_Soc_A1-0025.jpg,Back on the Scene,Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0026,GDA_Theatre_Music_Soc_A1-0026.jpg,Images,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0027,GDA_Theatre_Music_Soc_A1-0027.jpg,Mozart,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0028,GDA_Theatre_Music_Soc_A1-0028.jpg,Maurice Rave;,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0029,GDA_Theatre_Music_Soc_A1-0029.jpg,Berliozrequim,Music Society,Black,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0030,GDA_Theatre_Music_Soc_A1-0030.jpg,Stockhausen Zeitmasse,Music Society,White,Offset,,,
+GDA_Theatre_Music_Soc_A1-0031,GDA_Theatre_Music_Soc_A1-0031.jpg,Berlioz Centenary,Music Society,Yellow,Offset,1969,,
+GDA_Theatre_Music_Soc_A1-0033,GDA_Theatre_Music_Soc_A1-0033.jpg,Ravel,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0034,GDA_Theatre_Music_Soc_A1-0034.jpg,Pass the Baton,Music Society,Green,Letterpress,,,
+GDA_Theatre_Music_Soc_A1-0035,GDA_Theatre_Music_Soc_A1-0035.jpg,Symphonic Variations,Music Society,Brown,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0036,GDA_Theatre_Music_Soc_A1-0036.jpg,Organ Music,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0037,GDA_Theatre_Music_Soc_A1-0037.jpg,Whooosh,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0038,GDA_Theatre_Music_Soc_A1-0038.jpg,Everybody Who Was Anybody Was There Swinging,Music Society,Red,Screenprint,1938,,
+GDA_Theatre_Music_Soc_A1-0039,GDA_Theatre_Music_Soc_A1-0039.jpg,Skin Deep,Music Society,Brown,Screenprint,1962,,
+GDA_Theatre_Music_Soc_A1-0040,GDA_Theatre_Music_Soc_A1-0040.jpg,Why Tears Achilles,Music Society,Red,Offset,,,
+GDA_Theatre_Music_Soc_A1-0041,GDA_Theatre_Music_Soc_A1-0041.jpg,The Vision,Music Society,Purple,Offset,,,
+GDA_Theatre_Music_Soc_A1-0042,GDA_Theatre_Music_Soc_A1-0042.jpg,First Dance with Bryn,Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0043,GDA_Theatre_Music_Soc_A1-0043.jpg,The planet of Gustav Holt,Music Society,Blue,Screenprint,1966,,
+GDA_Theatre_Music_Soc_A1-0044,GDA_Theatre_Music_Soc_A1-0044.jpg,First Hearing,Music Society,Orange,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0045,GDA_Theatre_Music_Soc_A1-0045.jpg,The Man with the Flower in his Mouth,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0046,GDA_Theatre_Music_Soc_A1-0046.jpg,Mozart,Music Society,Yellow,Screenprint,1968,,
+GDA_Theatre_Music_Soc_A1-0047,GDA_Theatre_Music_Soc_A1-0047.jpg,The Dream of Gerontius,Music Society,Purple,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0048,GDA_Theatre_Music_Soc_A1-0048.jpg,Benjamin Britten,Music Society,White,Screenprint,,Keith Paisley,
+GDA_Theatre_Music_Soc_A1-0049,GDA_Theatre_Music_Soc_A1-0049.jpg,Mahagonny,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0050,GDA_Theatre_Music_Soc_A1-0050.jpg,Orphee,Music Society,Blue,Screenprint,1952,,
+GDA_Theatre_Music_Soc_A1-0051,GDA_Theatre_Music_Soc_A1-0051.jpg,"Beckett, Pinter, Lonesco & a Bar",Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0052,GDA_Theatre_Music_Soc_A1-0052.jpg,Bartok: Violin Concerto: Piano Concerto,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0053,GDA_Theatre_Music_Soc_A1-0053.jpg,The Circus,Music Society,Red,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0054,GDA_Theatre_Music_Soc_A1-0054.jpg,An Evening of Modernist Music,Music Society,Multicoloured,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0055,GDA_Theatre_Music_Soc_A1-0055.jpg,"Then, Suddenly, without any warning",Music Society,White,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0056,GDA_Theatre_Music_Soc_A1-0056.jpg,Music in Style,Music Society,White,Offset,,,
+GDA_Theatre_Music_Soc_A1-0057,GDA_Theatre_Music_Soc_A1-0057.jpg,A Spike of Couch Wheat-Grass,Music Society,Green,Offset,,,
+GDA_Theatre_Music_Soc_A1-0058,GDA_Theatre_Music_Soc_A1-0058.jpg,Benjamin Britten,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0059,GDA_Theatre_Music_Soc_A1-0059.jpg,Richard Strauss,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0060,GDA_Theatre_Music_Soc_A1-0060.jpg,Eric Dolphy,Music Society,Green,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0061,GDA_Theatre_Music_Soc_A1-0061.jpg,Rostropovitch,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0062,GDA_Theatre_Music_Soc_A1-0062.jpg,Vaughan Williams,Music Society,Green,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0063,GDA_Theatre_Music_Soc_A1-0063.jpg,Oriental Folk Music,Music Society,Orange,Offset,,,
+GDA_Theatre_Music_Soc_A1-0064,GDA_Theatre_Music_Soc_A1-0064.jpg,Request Performance,Music Society,Blue,Screenprint,Brian J Beyte,,
+GDA_Theatre_Music_Soc_A1-0065,GDA_Theatre_Music_Soc_A1-0065.jpg,Cesar Franeks Symphony in D Minor,Music Society,Green,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0066,GDA_Theatre_Music_Soc_A1-0066.jpg,"Debissy, Glajunov, Stravinsky",Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0067,GDA_Theatre_Music_Soc_A1-0067.jpg,Britten War Requiem,Music Society,Yellow,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0068,GDA_Theatre_Music_Soc_A1-0068.jpg,Ram Narayan Indias Greatest Sarangi Player,Music Society,Yellow,Offset,K.H.Bayer,,
+GDA_Theatre_Music_Soc_A1-0069,GDA_Theatre_Music_Soc_A1-0069.jpg,Extra,Music Society,Red,Offset,,,
+GDA_Theatre_Music_Soc_A1-0070,GDA_Theatre_Music_Soc_A1-0070.jpg,Wonder What to do After This College,Music Society,Red,Offset,,1995,
+GDA_Theatre_Music_Soc_A1-0071,GDA_Theatre_Music_Soc_A1-0071.jpg,Nothing Can Express...,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0072,GDA_Theatre_Music_Soc_A1-0072.jpg,All the Cats are at the Ellington Jazz Party,Music Society,Grey,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0073,GDA_Theatre_Music_Soc_A1-0073.jpg,Family,Music Society,Orange,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0074,GDA_Theatre_Music_Soc_A1-0074.jpg,Beethoven String Quartet,Music Society,Grey,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0075,GDA_Theatre_Music_Soc_A1-0075.jpg,Beethoven String Quartet,Music Society,Red,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0076,GDA_Theatre_Music_Soc_A1-0076.jpg,Beethoven String Quartet,Music Society,Purple,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0077,GDA_Theatre_Music_Soc_A1-0077.jpg,Beethoven String Quartet,Music Society,Black,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0078,GDA_Theatre_Music_Soc_A1-0078.jpg,Beethoven String Quartet,Music Society,Blue,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0079,GDA_Theatre_Music_Soc_A1-0079.jpg,Beethoven String Quartet,Music Society,Yellow,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0080,GDA_Theatre_Music_Soc_A1-0080.jpg,Beethoven String Quartet,Music Society,Green,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0081,GDA_Theatre_Music_Soc_A1-0081.jpg,Music in Style,Music Society,Red,Screenprint,1964,,
+GDA_Theatre_Music_Soc_A1-0082,GDA_Theatre_Music_Soc_A1-0082.jpg,Beethoven Grieg,Music Society,Black,Offset,1962,,
+GDA_Theatre_Music_Soc_A1-0083,GDA_Theatre_Music_Soc_A1-0083.jpg,Christmas Recital,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0084,GDA_Theatre_Music_Soc_A1-0084.jpg,The Visit,Music Society,Black,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0085,GDA_Theatre_Music_Soc_A1-0085.jpg,Richard Strauss,Music Society,Black,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0086,GDA_Theatre_Music_Soc_A1-0086.jpg,War Requiem,Music Society,Brown,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0087,GDA_Theatre_Music_Soc_A1-0087.jpg,Cage by the Ram,Music Society,Black,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0088,GDA_Theatre_Music_Soc_A1-0088.jpg,Petrushka,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0089,GDA_Theatre_Music_Soc_A1-0089.jpg,Snow White and the Seven Vampires,Music Society,Red,Screenprint,1979,,
+GDA_Theatre_Music_Soc_A1-0090,GDA_Theatre_Music_Soc_A1-0090.jpg,Uncle . Vanya,Music Society,Blue,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0091,GDA_Theatre_Music_Soc_A1-0091.jpg,Schumann Dichterlieber,Music Society,Purple,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0092,GDA_Theatre_Music_Soc_A1-0092.jpg,The Hollow Crown,Music Society,Black,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0093,GDA_Theatre_Music_Soc_A1-0093.jpg,Salome Strauss,Music Society,Red,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0094,GDA_Theatre_Music_Soc_A1-0094.jpg,"Stravinsky, Jabusy, Jacanek",Music Society,Brown,Screenprint,,,
+GDA_Theatre_Music_Soc_A1-0095,GDA_Theatre_Music_Soc_A1-0095.jpg,The Sorcerer,Music Society,Black,Screenprint,1980,,
+GDA_Theatre_Music_Soc_A1-0096,GDA_Theatre_Music_Soc_A1-0096.jpg,Ring Round the Moon,Music Society,Black,Offset,,,
+GDA_Theatre_Music_Soc_A1-0097,GDA_Theatre_Music_Soc_A1-0097.jpg,Jazz Concert,Music Society,White,Offset,,,
+GDA_Type_Workshop-0002,GDA_Type_Workshop-0002.jpg,All the New,Type Workshop,Multicoloured,Letterpress,2000,,
+GDA_Type_Workshop-0003,GDA_Type_Workshop-0003.jpg,,Type Workshop,Multicoloured,Letterpress,,Alan Kitching,
+GDA_Type_Workshop-0004,GDA_Type_Workshop-0004.jpg,,Type Workshop,Orange,Letterpress,1988,Alan Kitching,
+GDA_Type_Workshop-0005,GDA_Type_Workshop-0005.jpg,,Type Workshop,Multicoloured,Letterpress,2001,Alan Kitching,
+GDA_Type_Workshop-0006,GDA_Type_Workshop-0006.jpg,London A–Z,Type Workshop,Multicoloured,Letterpress,1992,"Alan Kitching, David Revell, Anna-Lise, Schoemecker, Arhon Thomas, Julien Wade, Margaret Wartnaby, Claudia Werder",
+GDA_Type_Workshop-0007,GDA_Type_Workshop-0007.jpg,,Type Workshop,Purple,Letterpress,2001,Ian Gabb ,
+GDA_Type_Workshop-0008,GDA_Type_Workshop-0008.jpg,,Type Workshop,Yellow,Letterpress,,,
+GDA_Type_Workshop-0009,GDA_Type_Workshop-0009.jpg, Twenty Six Four Letter Words,Type Workshop,Yellow,Letterpress,2000,"Richard Hartsham, Edward Goodwin, Mark Seamall, Christopher Wilson, Amanda Griffiths, Lars Kirk",
+GDA_Type_Workshop-0012,GDA_Type_Workshop-0012.jpg,Title Page,Type Workshop,White,Letterpress,,"Jeremy Borgust, Simon Lab, Joan Molloy, Elaine Perks, Yu Rong, Martin Gamper, Alexandra Martini",
+GDA_Type_Workshop-0013,GDA_Type_Workshop-0013.jpg,Collect Library Books from Battersea,Type Workshop,Pink,Letterpress,,,
+GDA_Type_Workshop-0014,GDA_Type_Workshop-0014.jpg,Unspoilt by Progress,Type Workshop,Red,Letterpress,1994,,
+GDA_Type_Workshop-0015,GDA_Type_Workshop-0015.jpg,Collect Library Books from Battersea,Type Workshop,Green,Letterpress,,,
+GDA_Type_Workshop-0016,GDA_Type_Workshop-0016.jpg,12345678,Type Workshop,Blue,Letterpress,1994,Stephanie Neumann,
+GDA_Type_Workshop-0017,GDA_Type_Workshop-0017.jpg,Hello?,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0018,GDA_Type_Workshop-0018.jpg,WXYZ,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0020,GDA_Type_Workshop-0020.jpg,ACRCBA,Type Workshop,Multicoloured,Letterpress,1997,"Miles Butterworth, Junk Fuwa, Patricia Jordan, Hannah Lawson, Ingrid Macody Lund, Ben Sansbury, Asuka Sawa, Alan Kitching Mick Perry",
+GDA_Type_Workshop-0025,GDA_Type_Workshop-0025.jpg,The Letterpress Workshop,Type Workshop,Yellow,Letterpress,,Alan Kitching,
+GDA_Type_Workshop-0026,GDA_Type_Workshop-0026.jpg,Albert Hall,Type Workshop,White,Letterpress,1993,"Deepa Agarwal, Michela Magas, Peter Neancini, Anna-Lisa Schoenecker, Alan Kitching, Micheal Parry",
+GDA_Type_Workshop-0027,GDA_Type_Workshop-0027.jpg,Exhibition of Letterpress Typography,Type Workshop,Multicoloured,Letterpress,1998,Darren Hughes,
+GDA_Type_Workshop-0028,GDA_Type_Workshop-0028.jpg,Typography: Alan Kitching,Type Workshop,Red,Letterpress,1993,,
+GDA_Type_Workshop-0029,GDA_Type_Workshop-0029.jpg,T Approaches,Type Workshop,Blue,Letterpress,,,
+GDA_Type_Workshop-0031,GDA_Type_Workshop-0031.jpg,CA&D Type Talks,Type Workshop,Blue,Letterpress,,,
+GDA_Type_Workshop-0032,GDA_Type_Workshop-0032.jpg,POSTER,Type Workshop,Multicoloured,Letterpress,1996,,
+GDA_Type_Workshop-0034,GDA_Type_Workshop-0034.jpg,The Golden Mean,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0035,GDA_Type_Workshop-0035.jpg,Gesbroken...,Type Workshop,Pink,Letterpress,,,
+GDA_Type_Workshop-0036,GDA_Type_Workshop-0036.jpg,Typography Workshop Exhibition,Type Workshop,Grey,Letterpress,2001,,
+GDA_Type_Workshop-0038,GDA_Type_Workshop-0038.jpg,"Swater Road, Kensington Gore",Type Workshop,Green,Letterpress,,,
+GDA_Type_Workshop-0040,GDA_Type_Workshop-0040.jpg,Fine Points,Type Workshop,Yellow,Letterpress,1998,"Alan Kitchin, Darren Hughes",
+GDA_Type_Workshop-0041,GDA_Type_Workshop-0041.jpg,Odd One Out?,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0043,GDA_Type_Workshop-0043.jpg,This Double 8,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0044,GDA_Type_Workshop-0044.jpg,Ciphers of the Anchor,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0046,GDA_Type_Workshop-0046.jpg,Letters LONG,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0048,GDA_Type_Workshop-0048.jpg,Pablo Neruda,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0051,GDA_Type_Workshop-0051.jpg,Stature of Venice,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0052,GDA_Type_Workshop-0052.jpg,A Petal or a Starry ,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0053,GDA_Type_Workshop-0053.jpg,There they were shaped ,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0054,GDA_Type_Workshop-0054.jpg,Forever the profile of writing.,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0056,GDA_Type_Workshop-0056.jpg,Curving the Alphabet,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0057,GDA_Type_Workshop-0057.jpg,Vowels Cast,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0058,GDA_Type_Workshop-0058.jpg,Algebraic Bodoni,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0059,GDA_Type_Workshop-0059.jpg,In the Middle of the Page,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0060,GDA_Type_Workshop-0060.jpg,"Letters,",Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0061,GDA_Type_Workshop-0061.jpg,Ode to Typography,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0062,GDA_Type_Workshop-0062.jpg,Better Accessible to Modern Type Setting,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0063,GDA_Type_Workshop-0063.jpg,Up Down Up Down,Type Workshop,Blue,Letterpress,1970,,
+GDA_Type_Workshop-0064,GDA_Type_Workshop-0064.jpg,Thirty-eight Eighty-five Fifty,Type Workshop,Green,Letterpress,,,
+GDA_Type_Workshop-0065,GDA_Type_Workshop-0065.jpg,Whitechapel Road Market E1,Type Workshop,Blue,Letterpress,,,
+GDA_Type_Workshop-0066,GDA_Type_Workshop-0066.jpg,Whitechapel Road Market E1,Type Workshop,Blue,Letterpress,,,
+GDA_Type_Workshop-0067,GDA_Type_Workshop-0067.jpg,,Type Workshop,Yellow,Letterpress,1992,,
+GDA_Type_Workshop-0068,GDA_Type_Workshop-0068.jpg,Manifesto,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0069,GDA_Type_Workshop-0069.jpg,Fluxus,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0070,GDA_Type_Workshop-0070.jpg,A Non Commital Variable Manifesto ,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0071,GDA_Type_Workshop-0071.jpg,Lowercase Only,Type Workshop,Purple,Letterpress,2000,,
+GDA_Type_Workshop-0072,GDA_Type_Workshop-0072.jpg,4 Twenty-siz Letter Words,Type Workshop,Red,Letterpress,2000,Lara Kirk,
+GDA_Type_Workshop-0073,GDA_Type_Workshop-0073.jpg,The Instruction Manual,Type Workshop,Blue,Letterpress,2000,,
+GDA_Type_Workshop-0075,GDA_Type_Workshop-0075.jpg,Mother,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0076,GDA_Type_Workshop-0076.jpg,The Typography Workshop,Type Workshop,Multicoloured,Letterpress,1996,Alan Kitching,
+GDA_Type_Workshop-0077,GDA_Type_Workshop-0077.jpg,Blood is Thicker than Water,Type Workshop,Red,Letterpress,1995,,
+GDA_Type_Workshop-0111,GDA_Type_Workshop-0111.jpg,TyhpargopyToibuts,Type Workshop,Orange,Letterpress,,,
+GDA_Type_Workshop-0112,GDA_Type_Workshop-0112.jpg,,Type Workshop,Grey,Letterpress,,,
+GDA_Type_Workshop-0113,GDA_Type_Workshop-0113.jpg,Letterpress Workshops,Type Workshop,Multicoloured,Letterpress,,,
+GDA_Type_Workshop-0114,GDA_Type_Workshop-0114.jpg,Letterpress Typography Exhibition,Type Workshop,Multicoloured,Letterpress,2000,,
+GDA_Type_Workshop-0116,GDA_Type_Workshop-0116.jpg,Im Really Sorry Paul! I Will Never Make That Mistake Again,Type Workshop,Red,Letterpress,1999,Henrik Kubel,
+GDA_Type_Workshop-0117,GDA_Type_Workshop-0117.jpg,Typography Workshops,Type Workshop,Brown,Letterpress,1999,Alan Kitching,
+GDA_Type_Workshop-0118,GDA_Type_Workshop-0118.jpg,All The News,Type Workshop,Multicoloured,Letterpress,2000,Antonia Martschin,
+GDA_Type_Workshop-0119,GDA_Type_Workshop-0119.jpg,Wideboy Digest,Type Workshop,Brown,Letterpress,,,
+GDA_Type_Workshop-0122,GDA_Type_Workshop-0122.jpg,Big Ego Big Type,Type Workshop,White,Letterpress,,,
+GDA_Type_Workshop-0123,GDA_Type_Workshop-0123.jpg,Typography is Dead Serious,Type Workshop,Red,Letterpress,1999,,
+GDA_Type_Workshop-0124,GDA_Type_Workshop-0124.jpg,Bingo,Type Workshop,Multicoloured,Letterpress,,,
+GDA_Type_Workshop-0125,GDA_Type_Workshop-0125.jpg,Exhibition Roadieu,Type Workshop,Red,Letterpress,1992,,
+GDA_Type_Workshop-0126,GDA_Type_Workshop-0126.jpg,The Golden Section,Type Workshop,Multicoloured,Letterpress,1993,,
+GDA_Type_Workshop-0127,GDA_Type_Workshop-0127.jpg,The Rules of Typography,Type Workshop,Red,Letterpress,2004,,
+GDA_Type_Workshop-0129,GDA_Type_Workshop-0129.jpg,Pitch Line,Type Workshop,Blue,Letterpress,,,
+GDA_Type_Workshop-0142,GDA_Type_Workshop-0142.jpg,Cromatico,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0143,GDA_Type_Workshop-0143.jpg,Cromatico,Type Workshop,Yellow,Letterpress,,,
+GDA_Type_Workshop-0144,GDA_Type_Workshop-0144.jpg,Cromatico,Type Workshop,Red,Letterpress,,,
+GDA_Type_Workshop-0145,GDA_Type_Workshop-0145.jpg,Translatab,Type Workshop,Yellow,Letterpress,,,
+GDA_Type_Workshop-0146,GDA_Type_Workshop-0146.jpg,The Typography Workshop,Type Workshop,,Letterpress,,,
