@@ -38,6 +38,8 @@ html.loading body {
 
 body {
     margin: 1rem;
+    font-family: sans-serif;
+    color: #222222;
 }
 
 img {
