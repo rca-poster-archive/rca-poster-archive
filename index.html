@@ -13,7 +13,17 @@ layout: default
 		<noscript>
 			<h1 class="poster__title">{{ poster.title }}</h1>
 		</noscript>
-		<img class="poster__file" src="assets/img/{{ poster.title }}.jpg" alt="{{ poster.alt }}" />
+		<img
+			class="lazyload poster__file"
+			data-sizes="auto"
+			data-src="{{ site.cdn.url }}jpg/original/{{ poster.id }}.jpg"
+			data-srcset="
+				{{ site.cdn.url }}jpg/1280px/{{ poster.id }}-1280px.jpg 1280w,
+				{{ site.cdn.url }}jpg/800px/{{ poster.id }}-800px.jpg 800w,
+				{{ site.cdn.url }}jpg/500px/{{ poster.id }}-500px.jpg 500w,
+				{{ site.cdn.url }}jpg/300px/{{ poster.id }}-300px.jpg 300w,
+				{{ site.cdn.url }}jpg/100px/{{ poster.id }}-100px.jpg 100w"
+			alt="{{ poster.alt }}" />
 	</div>
 	<div class="poster__text">
 		<noscript>
