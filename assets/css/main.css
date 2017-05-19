@@ -44,8 +44,8 @@ img {
     width: 100%;
 }
 
-.header, .header__title, .header__reload, .header__description, .main, .footer {
-    margin-bottom: 1rem;
+.header__row, .header__description, .main, .footer {
+    margin-bottom: 1em;
 }
 
 .header__title, .header__reload {
