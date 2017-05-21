@@ -105,6 +105,14 @@ img {
     display: inline;
 }
 
+.poster__property::after {
+    content: ": ";
+}
+
+.poster__property, .poster__value {
+    text-transform: capitalize;
+}
+
 .button--link {
     border: none;
     background: inherit;
