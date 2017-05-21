@@ -15,23 +15,21 @@ layout: default
 			<source
 				type="image/webp"
 				data-srcset="
-					{{ site.cdn.url }}webp/1280px/{{ poster.id }}-1280px.webp 1280w,
 					{{ site.cdn.url }}webp/800px/{{ poster.id }}-800px.webp 800w,
 					{{ site.cdn.url }}webp/500px/{{ poster.id }}-500px.webp 500w,
 					{{ site.cdn.url }}webp/300px/{{ poster.id }}-300px.webp 300w,
 					{{ site.cdn.url }}webp/100px/{{ poster.id }}-100px.webp 100w"
-				data-sizes="auto" />
+				sizes="33vw" />
 			<source
 				type="image/jpg"
 				data-srcset="
-					{{ site.cdn.url }}jpg/1280px/{{ poster.id }}-1280px.jpg 1280w,
 					{{ site.cdn.url }}jpg/800px/{{ poster.id }}-800px.jpg 800w,
 					{{ site.cdn.url }}jpg/500px/{{ poster.id }}-500px.jpg 500w,
 					{{ site.cdn.url }}jpg/300px/{{ poster.id }}-300px.jpg 300w,
 					{{ site.cdn.url }}jpg/100px/{{ poster.id }}-100px.jpg 100w"
-				data-sizes="auto" />
+				sizes="33vw" />
 			<!--[if IE 9]></video><![endif]-->
-		<img class="lazyload poster__file" data-src="{{ site.cdn.url }}jpg/original/{{ poster.id }}.jpg" alt="{{ poster.alt }}" />
+		<img class="lazyload poster__file" data-src="{{ site.cdn.url }}jpg/100px/{{ poster.id }}-100px.jpg" alt="{{ poster.alt }}" />
 	</picture>
 	</div>
 	{% if poster.id %}<h1 class="poster__title"><a href="#">{{ poster.id }}</a></h1>{% endif %}
