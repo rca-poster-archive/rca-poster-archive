@@ -43,7 +43,7 @@ function resetActive() {
 		selectedPosters[i].classList.add('active', selectedFloat, selectedWidth);
 	};
 
-	var list = document.querySelector('.main'), i;
+	var list = document.querySelector('.active'), i;
 
 	for (i = list.children.length; i >= 0; i--) {
 		list.appendChild(list.children[Math.random() * i | 0]);
