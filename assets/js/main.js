@@ -10,15 +10,29 @@ function resetActive() {
 	var widths = ["small", "medium", "large"];
 	var floats = ["right", "left"];
 	// Random Properties
-	var posterProperties = ['promoting','process','colour','year','designer','orientation'];
+	var posterProperties = ['promoting','process','colour','year'];
 	var selectedProperty = posterProperties[Math.floor(Math.random() * posterProperties.length)];
+	// Set values based on property
+	switch (selectedProperty) {
+    case 'promoting':
+        values = ['Exhibition','Film Society','ARK Magazine','Lectures','Exhibitions','light','Parties','Natural History','Music Society','Type Workshop'];
+        break;
+    case 'process':
+        values = ['Offset','Screenprint','Letterpress','Hand','Digital','Linocut','Risograph','Lino',];
+        break;
+    case 'colour':
+        values = ['Red','White','Blue','Green','Black','Yellow','Orange','Multicoloured','Brown','Pink','Image','Gold','Purple','Grey'];
+        break;
+    case 'year':
+        values = ['1991','1992']
+	}
 	// Select value of property
-
+	var selectedValue = values[Math.floor(Math.random()*values.length)];
 	// Update notices on front end
 	document.getElementById('poster__property').innerHTML = selectedProperty;
-	// document.getElementById('poster__value').innerHTML = selectedValue;
+	document.getElementById('poster__value').innerHTML = selectedValue;
 	// Function to add active class to all elements matching random attribute
-	var selectedPosters = document.querySelectorAll('[data-colour="Red"]'); // Placeholder
+	var selectedPosters = document.querySelectorAll('[data-' + selectedProperty + '=' + selectedValue + ']'); // Placeholder
 	for (var i = 0; i < selectedPosters.length; ++i){
 		// Ideally these would be separated into their own functions but I want to speed up the javascript because there's so many images, so instead of doing multiple iterations they're all done here.
 		// Set random float
