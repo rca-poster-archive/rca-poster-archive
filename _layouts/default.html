@@ -8,17 +8,16 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% seo %}
 		{% feed_meta %}
-		<link rel="stylesheet" href="/assets/vendor/reset-css/reset.css">
-		<link rel="stylesheet" href="/assets/css/main.css">
-		<script src="/assets/vendor/jquery/dist/jquery.slim.min.js"></script>
+		<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+		<base href="{{ site.url }}" />
 	</head>
 	<body>
 		<header id="header" class="header">
 			<div class="header__row">
 				<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
 				<div class="header__reload">
-					<span class="process">Selected by <span class="process__type">Process</span></span>
-					<input class="button--link" type="button" value="Click to change" onClick="window.location.reload()">
+					<span class="process">Selected by <span id="poster__property"></span><span id="poster__value"></span></span>
+					<input id="shuffle" class="button--link" type="button" value="Click to change">
 				</div>
 			</div>
 			<p class="header__description">{{ site.description }}</p>
@@ -27,14 +26,15 @@
 			{{ content }}
 		</main>
 		<footer class="footer">
-			<small class="footer__copyright">
-				&copy; Royal College of Arts <script>document.write(new Date().getFullYear())</script>
-			</small>
+			<small class="footer__copyright">&copy; Royal College of Arts <script>document.write(new Date().getFullYear())</script></small>
 		</footer>
-		<script src="/assets/js/main.js"></script>
-		<script src="assets/vendor/lazysizes/lazysizes.min.js" async=""></script>
+		<script src="{{ site.url }}/assets/js/main.js"></script>
+		<script src="{{ site.url }}/assets/vendor/lazysizes/lazysizes.min.js" async=""></script>
 		<script>
-			$( "html" ).removeClass( "loading" );
+			// Initalises reset script
+			document.addEventListener("DOMContentLoaded", function(event) {
+				resetActive();
+			});
 		</script>
 	</body>
 </html>
