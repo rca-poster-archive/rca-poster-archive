@@ -41,6 +41,11 @@ function removeLoading() {
 	document.querySelector('html').classList.remove('loading');
 }
 
+function toggleAside() {
+	document.querySelector('.aside').classList.toggle('aside--active');
+}
+
 document.addEventListener("DOMContentLoaded", function(event) {
   document.getElementById("shuffle").onclick = resetActive;
+  document.getElementById("info").onclick = toggleAside;
 });
