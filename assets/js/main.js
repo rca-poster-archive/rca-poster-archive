@@ -18,7 +18,7 @@ function resetActive() {
         values = ['Exhibition','Film Society','ARK Magazine','Lectures','Exhibitions','light','Parties','Natural History','Music Society','Type Workshop'];
         break;
     case 'process':
-        values = ['Offset','Screenprint','Letterpress','Hand','Digital','Linocut','Risograph','Lino',];
+        values = ['Offset','Screenprint','Letterpress','Hand','Digital','Linocut','Risograph'];
         break;
     case 'colour':
         values = ['Red','White','Blue','Green','Black','Yellow','Orange','Multicoloured','Brown','Pink','Image','Gold','Purple','Grey'];
