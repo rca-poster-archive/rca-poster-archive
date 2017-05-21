@@ -41,7 +41,7 @@ layout: default
 			{% if poster.process %}<li class="poster__process">Process: {{ poster.process }}</li>{% endif %}
 		</ul>
 		<ul class="poster__contact-list">
-			{% if site.email %}<li>Corrections: <a href='mailto:{{ site.email }}'>{{ site.email }}</a></li>{% endif %}
+			{% if site.email %}<li>Corrections: <a href='mailto:{{ site.email }}?subject=Re: Poster {{ poster.id }}'>{{ site.email }}</a></li>{% endif %}
 			{% if site.twitter %}<li>Corrections: <a href='https://twitter.com/{{ site.twitter.username }}'>@{{ site.twitter.username }}</a></li>{% endif %}
 		</ul>
 	</div>
