@@ -82,9 +82,14 @@ html.loading main {
 
 /* END LOADING */
 
+@font-face {
+    font-family: LaNord;
+    src: url(../fonts/LaNord-SemiLight.otf);
+}
+
 body {
     margin: 1rem;
-    font-family: sans-serif;
+    font-family: 'LaNord', sans-serif;
     color: #222222;
 }
 
