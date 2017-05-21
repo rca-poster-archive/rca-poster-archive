@@ -22,7 +22,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 body {
-    line-height: 1;
+    line-height: 1.3;
 }
 
 ol, ul {
@@ -51,7 +51,7 @@ html {
     transition: background-color 1s;
 }
 
-html, main {
+html, .wrapper {
     /* For the loading indicator to be vertically centered ensure */
     /* the html and body elements take up the full viewport */
     min-height: 100%;
@@ -66,12 +66,12 @@ html.loading {
     transition: background-color 0;
 }
 
-main {
+.wrapper {
     -webkit-transition: opacity 1.4s ease-in;
     transition: opacity 1.4s ease-in;
 }
 
-html.loading main {
+html.loading .wrapper {
     /* Make the contents of the body opaque during loading */
     opacity: 0;
     /* Ensures that the transition only runs in one direction */
