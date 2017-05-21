@@ -7,7 +7,6 @@ layout: default
 {% if poster.promoting %} data-promoting={{ poster.promoting }}{% endif %}
 {% if poster.colour %} data-colour={{ poster.colour }}{% endif %}
 {% if poster.process %} data-process={{ poster.process }}{% endif %}
-{% if poster.orientation %} data-orientation={{ poster.orientation }}{% endif %}
  class="poster active">
 	<div class="poster__image">
 		<picture>
@@ -32,14 +31,14 @@ layout: default
 		<img class="lazyload poster__file" data-src="{{ site.cdn.url }}jpg/100px/{{ poster.id }}-100px.jpg" alt="{{ poster.alt }}" />
 	</picture>
 	</div>
-	{% if poster.id %}<h1 class="poster__title"><a href="#">{{ poster.id }}</a></h1>{% endif %}
+	{% if poster.id %}<h1 class="poster__title"><a href="#">{{ poster.title }}</a></h1>{% endif %}
 	<div class="poster__text">
 		<ul class="poster__details-list">
 			{% if poster.year %}<li class="poster__year">Date: {{ poster.year }}</li>{% endif %}
 			{% if poster.promoting %}<li class="poster__promoting">Promoting: {{ poster.promoting }}</li>{% endif %}
+			{% if poster.process %}<li class="poster__process">Designer: {{ poster.designer }}</li>{% endif %}
 			{% if poster.colour %}<li class="poster__colour">Colour: {{ poster.colour }}</li>{% endif %}
 			{% if poster.process %}<li class="poster__process">Process: {{ poster.process }}</li>{% endif %}
-			{% if poster.orientation %}<li class="poster__orientation">Orientation: {{ poster.orientation }}</li>{% endif %}
 		</ul>
 		<ul class="poster__contact-list">
 			{% if site.email %}<li>Corrections: <a href='mailto:{{ site.email }}'>{{ site.email }}</a></li>{% endif %}
