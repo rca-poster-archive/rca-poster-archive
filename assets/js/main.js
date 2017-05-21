@@ -5,13 +5,6 @@ function resetActive() {
 	for (var i = 0; i < elements.length; ++i){
 		elements[i].classList.remove('active', 'small', 'medium', 'large', 'left','right');
 	};
-	setActive();
-}
-document.addEventListener("DOMContentLoaded", function(event) {
-  document.getElementById("shuffle").onclick = resetActive;
-});
-
-function setActive() {
 	// Function to select random attribute
 	// Random widths
 	var widths = ["small", "medium", "large"];
@@ -35,10 +28,7 @@ function setActive() {
 		// Set classnames
 		selectedPosters[i].classList.add('active', selectedFloat, selectedWidth);
 	};
-	shuffleActive();
-}
 
-function shuffleActive() {
 	var list = document.querySelector('.main'), i;
 
 	for (i = list.children.length; i >= 0; i--) {
@@ -50,3 +40,7 @@ function shuffleActive() {
 function removeLoading() {
 	document.querySelector('html').classList.remove('loading');
 }
+
+document.addEventListener("DOMContentLoaded", function(event) {
+  document.getElementById("shuffle").onclick = resetActive;
+});
