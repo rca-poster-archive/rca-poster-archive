@@ -68,6 +68,9 @@ body {
     margin: 1rem;
     font-family: 'LaNord', sans-serif;
     color: #222222;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
 }
 
 img {
