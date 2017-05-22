@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jclwilson/rca-poster-archive#readme",
   "dependencies": {
-    "lazysizes": "^4.0.0-rc1",
+    "headroom.js": "^0.9.3",
+    "lazysizes": "^4.0.0-rc1"
   }
 }

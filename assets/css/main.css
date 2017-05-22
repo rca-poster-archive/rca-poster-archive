@@ -11,7 +11,6 @@ html, body, div, input, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p,
     font: inherit;
     vertical-align: baseline;
     color: #222222;
-    background: white;
 }
 
 
@@ -195,4 +194,21 @@ img {
 .poster.clicked>.poster__text {
     opacity: 1;
     transform: translate3d(0, 0, 0);
+}
+
+.footer__return-text {
+    display: none;
+}
+
+.footer__return-link {
+    max-width: 5%;
+    position: fixed;
+    right: 1em;
+    bottom: 1em;
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+.footer__return-link.headroom--not-top {
+    opacity: 1;
 }

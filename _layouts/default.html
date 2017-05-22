@@ -30,15 +30,28 @@
 			</main>
 		</div>
 		<footer class="footer">
+			<a class="footer__return-link" href="#header"><span class="footer__return-text">Back to top</span><img class="footer__return-icon" src="assets/img/arrow-up.svg"></a>
 			<small class="footer__copyright">&copy; Royal College of Art <script>document.write(new Date().getFullYear())</script></small>
 		</footer>
 		<script src="{{ site.url }}/assets/js/main.js"></script>
-		<script src="{{ site.url }}/assets/vendor/lazysizes/lazysizes.min.js" async=""></script>
+		<script src="{{ site.url }}/assets/vendor/lazysizes/lazysizes.min.js"></script>
+		<script src="{{ site.url }}/assets/vendor/headroom.js/dist/headroom.min.js"></script>
 		<script>
 			// Initalises reset script
 			document.addEventListener("DOMContentLoaded", function(event) {
 				resetActive();
 			});
+		</script>
+		<script>
+			// grab an element
+			var myElement = document.querySelector('.footer__return-link');
+			// construct an instance of Headroom, passing the element
+			var headroom  = new Headroom(myElement, {
+				"offset": 300,
+				"tolerance": 5,
+			  });
+			// initialise
+			headroom.init();
 		</script>
 	</body>
 </html>
