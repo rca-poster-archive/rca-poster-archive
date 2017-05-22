@@ -1,4 +1,4 @@
-# Royal College of Arts Poster Archive
+# Royal College of Art Poster Archive
 
 A project archiving the RCA's posters of the past 75 years.
 
