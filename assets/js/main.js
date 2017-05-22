@@ -15,16 +15,16 @@ function resetActive() {
 	// Set values based on property
 	switch (selectedProperty) {
     case 'promoting':
-        values = ['Exhibition','Film Society','ARK Magazine','Lectures','Exhibitions','Light','Parties','Natural History','Music Society','Type Workshop'];
+        values = ['Film Society','ARK Magazine','Lectures','Exhibitions','Parties','Natural History','Music Society','Type Workshop'];
         break;
     case 'process':
-        values = ['Offset','Screenprint','Letterpress','Hand','Digital','Linocut','Risograph'];
+        values = ['Offset','Screenprint','Letterpress','Hand','Digital','Linocut'];
         break;
     case 'colour':
         values = ['Red','White','Blue','Green','Black','Yellow','Orange','Multicoloured','Brown','Pink','Image','Gold','Purple','Grey'];
         break;
     case 'year':
-        values = ['1970','1971','1972','1973','1974','1975','1976','1977']
+        values = ['1970','1971','1972','1973','1974','1975','1976','1977', '1978']
 	}
 	// Select value of property
 	var selectedValue = values[Math.floor(Math.random()*values.length)];
