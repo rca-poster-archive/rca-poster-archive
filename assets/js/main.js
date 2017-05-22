@@ -1,5 +1,5 @@
 function resetActive() {
-	document.querySelector('html').classList.add('loading');
+	document.querySelector('.wrapper').classList.add('loading');
 	// Remove active classname from all elements
 	var elements = document.querySelectorAll('.active')
 	for (var i = 0; i < elements.length; ++i){
@@ -52,7 +52,7 @@ function resetActive() {
 }
 
 function removeLoading() {
-	document.querySelector('html').classList.remove('loading');
+	document.querySelector('.wrapper').classList.remove('loading');
 }
 
 function toggleAside() {
