@@ -157,12 +157,13 @@ img {
     display: block;
 }
 
-.poster__title, .poster__text {
-    padding: 0 1em 1em 0;
+.poster__file {
+    display: block;
 }
 
 .poster__title {
     word-wrap: break-word;
+    margin-top: -3px;
 }
 
 .poster__text {
@@ -173,11 +174,11 @@ img {
     transition: opacity 0.4s ease, transform 0.4s ease;
 }
 
-.poster:hover>.poster__text {
-    opacity: 1;
-    transform: translate3d(0, 0, 0);
+.poster:hover>.poster__title, .poster.clicked>.poster__title {
+    font-style: italic;
 }
 
-.footer {
-    clear: both;
+.poster.clicked>.poster__text {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
 }

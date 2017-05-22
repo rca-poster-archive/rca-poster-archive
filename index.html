@@ -31,18 +31,17 @@ layout: default
 		<img class="lazyload poster__file" data-src="{{ site.cdn.url }}jpg/100px/{{ poster.id }}-100px.jpg" alt="{{ poster.alt }}" />
 	</picture>
 	</div>
-	{% if poster.id %}<h1 class="poster__title"><a href="#">{{ poster.title }}</a></h1>{% endif %}
+	{% if poster.id %}<h1 class="poster__title">{{ poster.title }}</h1>{% endif %}
 	<div class="poster__text">
-		<ul class="poster__details-list">
-			{% if poster.year %}<li class="poster__year">Date: {{ poster.year }}</li>{% endif %}
-			{% if poster.promoting %}<li class="poster__promoting">Promoting: {{ poster.promoting }}</li>{% endif %}
-			{% if poster.process %}<li class="poster__process">Designer: {{ poster.designer }}</li>{% endif %}
-			{% if poster.colour %}<li class="poster__colour">Colour: {{ poster.colour }}</li>{% endif %}
-			{% if poster.process %}<li class="poster__process">Process: {{ poster.process }}</li>{% endif %}
+		<ul class="poster__details">
+			{% if poster.year %}<li>{{ poster.year }}</li>{% endif %}
+			{% if poster.promoting %}<li>{{ poster.promoting }}</li>{% endif %}
+			{% if poster.process %}<li>{{ poster.designer }}</li>{% endif %}
+			{% if poster.colour %}<li>{{ poster.colour }}</li>{% endif %}
+			{% if poster.process %}<li>{{ poster.process }}</li>{% endif %}
 		</ul>
-		<ul class="poster__contact-list">
-			{% if site.email %}<li>Corrections: <a href='mailto:{{ site.email }}?subject=Re: Poster {{ poster.id }}'>{{ site.email }}</a></li>{% endif %}
-			{% if site.twitter %}<li>Corrections: <a href='https://twitter.com/{{ site.twitter.username }}'>@{{ site.twitter.username }}</a></li>{% endif %}
+		<ul class="poster__contact">
+			{% if site.email %}<li><a href='mailto:{{ site.email }}?subject=Re: Poster {{ poster.id }}'>{{ site.email }}</a></li>{% endif %}
 		</ul>
 	</div>
 </article>
