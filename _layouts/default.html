@@ -12,15 +12,12 @@
 	</head>
 	<body>
 		<header id="header" class="header">
-			<div class="header__row">
-				<h1 class="header__title"><a href="{{ site.url }}">{{ site.title }}</a></h1>
-				<div class="header__reload">
-					<span class="process">Selected by <span class="poster__property"></span><span class="poster__value"></span></span>
-					<input id="shuffle" class="button--link" type="button" value="Click to change">
-				</div>
+			<h1 class="header__title">{{ site.title }}</h1>
+			<div class="header__process">
+				Selected by <span class="poster__property"></span><span class="poster__value"></span>
 			</div>
-			<p class="header__description">{{ site.description }}</p>
-			<input id="info" class="button--link" type="button" value="Info">
+			<input id="shuffle" class="button--link" type="button" value="Click to change">
+			<input id="info" class="button--link" type="button" value="Information">
 		</header>
 		<div class="wrapper loading">
 			<aside class="aside">
