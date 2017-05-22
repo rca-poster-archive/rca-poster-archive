@@ -101,6 +101,10 @@ img {
     cursor: pointer;
 }
 
+.wrapper {
+    flex: 1;
+}
+
 .aside {
     width: 33%;
     position: absolute;
