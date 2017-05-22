@@ -78,16 +78,12 @@ img {
 }
 
 .header {
-    margin-bottom: 1em;
+    margin-bottom: 0.3em;
 }
 
 .header>* {
     display: inline;
-    margin-right: 1em;
-}
-
-.poster__property::after {
-    content: ": ";
+    margin-right: 0;
 }
 
 .poster__property, .poster__value {
