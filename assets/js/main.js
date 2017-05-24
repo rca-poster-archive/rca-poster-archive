@@ -45,8 +45,9 @@ function resetActive() {
 
 	var list = document.querySelector('.active'), i;
 
-	for (i = list.children.length; i >= 0; i--) {
-		list.appendChild(list.children[Math.random() * i | 0]);
+	var selectedContainer = document.querySelector('.main'), i;
+	for (i = selectedPosters.length; i >= 0; i--) {
+		selectedContainer.appendChild(selectedPosters[Math.random() * i | 0]);
 	};
 	removeLoading();
 }
