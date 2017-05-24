@@ -113,7 +113,7 @@ img {
     font-style: italic;
 }
 
-.main, .aside {
+.main {
     background-color: white;
 }
 
@@ -122,15 +122,18 @@ img {
 }
 
 .aside {
-    width: 100vw;
-    height: 100vh;
+    transform: translate3d(100%, 0, 0);
+    transition: transform 0.7s ease;
     position: fixed;
     right: 0;
     top: 0;
+}
+
+.aside__overlay {
+    width: 100vw;
+    height: 100vh;
     background: rgba(16, 16, 16, 0.4);
     z-index: 999;
-    transform: translate3d(100%, 0, 0);
-    transition: transform 0.7s ease;
 }
 
 .aside--active {

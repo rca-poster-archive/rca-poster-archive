@@ -17,10 +17,11 @@
 				Selected by <span class="poster__property"></span><span class="poster__value"></span>
 			</div>
 			<input id="shuffle" class="button--link shuffle" type="button" value="Click to change">
-			<input id="info" class="button--link info" type="button" value="Information">
+			<input id="info" class="button--link info aside__toggle" type="button" value="Information">
 		</header>
 		<div class="wrapper loading">
 			<aside class="aside">
+				<div class="aside__overlay aside__toggle"></div>
 				<div class="aside__wrapper">
 					{% include about.html %}
 				</div>

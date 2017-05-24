@@ -43,7 +43,7 @@ function resetSelectedPosters() {
 		selectedPosters[i].classList.add('poster--selected', selectedFloat, selectedWidth);
 	};
 
-	var selectedContainer = document.querySelector('.main'), i;
+	var selectedContainer = document.querySelector('.main');
 	for (i = selectedPosters.length; i >= 0; i--) {
 		selectedContainer.appendChild(selectedPosters[Math.random() * i | 0]);
 	};
@@ -82,30 +82,15 @@ function removeActivePosters() {
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
-  document.getElementById("shuffle").onclick = resetActive;
-  document.getElementById("info").onclick = toggleAside;
 
 
   	var posters = document.getElementsByClassName("poster");
 
-	var myFunction = function() {
-		var activePosters = document.querySelectorAll(".poster--active");
-		console.log(activePosters);
-		if (this.classList.contains('poster--active')) {
-			this.classList.remove("poster--active");
-		} else {
-			console.log("It's not active!");
-			if (activePosters.length >= 1) {
-				console.log("theres an active poster!");
-				for (var i = 0; i < activePosters.length; i++) {
-					console.log("removeing active!");
-				    activePosters[i].classList.remove("poster--active");
-				}
-			}
-			this.classList.add("poster--active");
-			console.log("added new active");
-		}
-	};
+	// Detects click on overlay
+	var aside = document.getElementsByClassName("aside__toggle");
+	for (var i = 0; i < aside.length; i++) {
+		aside[i].addEventListener('click', toggleAside, false);
+	}
 
 	// Detects clicks on posters
 	var posters = document.getElementsByClassName("poster");
