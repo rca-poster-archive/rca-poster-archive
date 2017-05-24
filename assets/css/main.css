@@ -97,8 +97,16 @@ img {
     text-decoration: underline;
 }
 
+.info.button--link {
+    text-decoration: none;
+}
+
 .button--link:hover, .poster:hover {
     cursor: pointer;
+}
+
+.info.button--link:hover, .info.button--link:focus {
+    font-style: italic;
 }
 
 .main, .aside {
