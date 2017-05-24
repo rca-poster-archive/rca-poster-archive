@@ -166,7 +166,7 @@ img {
     background-color: white;
 }
 
-.poster.active {
+.poster--selected {
     display: block;
 }
 
@@ -187,11 +187,11 @@ img {
     transition: opacity 0.4s ease, transform 0.4s ease;
 }
 
-.poster:hover>.poster__title, .poster.clicked>.poster__title {
+.poster:hover>.poster__title, .poster--active>.poster__title {
     font-style: italic;
 }
 
-.poster.clicked>.poster__text {
+.poster--active>.poster__text {
     opacity: 1;
     transform: translate3d(0, 0, 0);
 }

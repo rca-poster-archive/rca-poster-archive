@@ -1,9 +1,9 @@
 function resetActive() {
 	document.querySelector('.wrapper').classList.add('loading');
 	// Remove active classname from all elements
-	var elements = document.querySelectorAll('.active')
+	var elements = document.querySelectorAll('.poster--selected')
 	for (var i = 0; i < elements.length; ++i){
-		elements[i].classList.remove('active', 'small', 'medium', 'large', 'left','right');
+		elements[i].classList.remove('poster--selected', 'small', 'medium', 'large', 'left','right', 'poster--active');
 	};
 	// Function to select random attribute
 	// Random widths
@@ -40,10 +40,8 @@ function resetActive() {
 		// Set random width
 		var selectedWidth = widths[Math.floor(Math.random()*widths.length)];
 		// Set classnames
-		selectedPosters[i].classList.add('active', selectedFloat, selectedWidth);
+		selectedPosters[i].classList.add('poster--selected', selectedFloat, selectedWidth);
 	};
-
-	var list = document.querySelector('.active'), i;
 
 	var selectedContainer = document.querySelector('.main'), i;
 	for (i = selectedPosters.length; i >= 0; i--) {
@@ -63,4 +61,31 @@ function toggleAside() {
 document.addEventListener("DOMContentLoaded", function(event) {
   document.getElementById("shuffle").onclick = resetActive;
   document.getElementById("info").onclick = toggleAside;
+
+
+  	var posters = document.getElementsByClassName("poster");
+
+	var myFunction = function() {
+		var activePosters = document.querySelectorAll(".poster--active");
+		console.log(activePosters);
+		if (this.classList.contains('poster--active')) {
+			this.classList.remove("poster--active");
+		} else {
+			console.log("It's not active!");
+			if (activePosters.length >= 1) {
+				console.log("theres an active poster!");
+				for (var i = 0; i < activePosters.length; i++) {
+					console.log("removeing active!");
+				    activePosters[i].classList.remove("poster--active");
+				}
+			}
+			this.classList.add("poster--active");
+			console.log("added new active");
+		}
+	};
+
+	for (var i = 0; i < posters.length; i++) {
+	    posters[i].addEventListener('click', myFunction, false);
+		console.log("added for number")
+	}
 });
