@@ -30,7 +30,7 @@ function resetActive() {
 	var selectedValue = values[Math.floor(Math.random()*values.length)];
 	// Update notices on front end
 	document.getElementsByClassName("poster__property")[0].innerHTML = selectedProperty;
-	document.getElementsByClassName('poster__value')[0].innerHTML = selectedValue;
+	document.getElementsByClassName('poster__value')[0].innerHTML = ' (' + selectedValue + ')';
 	// Function to add active class to all elements matching random attribute
 	var selectedPosters = document.querySelectorAll('[data-' + selectedProperty + '="' + selectedValue + '"]');
 	for (var i = 0; i < selectedPosters.length; ++i){
