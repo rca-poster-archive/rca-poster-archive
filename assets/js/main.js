@@ -83,8 +83,11 @@ function removeActivePosters() {
 
 document.addEventListener("DOMContentLoaded", function(event) {
 
-
-  	var posters = document.getElementsByClassName("poster");
+	// Detects clicks on posters
+	var shuffle = document.getElementsByClassName("poster__shuffle");
+	for (var i = 0; i < shuffle.length; i++) {
+		shuffle[i].addEventListener('click', resetSelectedPosters, false);
+	}
 
 	// Detects click on overlay
 	var aside = document.getElementsByClassName("aside__toggle");
