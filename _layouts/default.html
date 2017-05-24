@@ -10,8 +10,8 @@
 		<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
 		<base href="{{ site.url }}" />
 	</head>
-	<body>
-		<header id="header" class="header">
+	<body id="body">
+		<header class="header">
 			<h1 class="header__title">{{ site.title }}</h1>
 			<div class="header__process">
 				Selected by <span class="poster__property"></span><span class="poster__value"></span>
@@ -30,7 +30,7 @@
 			</main>
 		</div>
 		<footer class="footer">
-			<a class="footer__return-link" href="#header"><span class="footer__return-text">Back to top</span><img class="footer__return-icon" src="assets/img/arrow-up.svg"></a>
+			<a data-scroll class="footer__return-link" href="#body"><span class="footer__return-text">Back to top</span><img class="footer__return-icon" src="assets/img/arrow-up.svg"></a>
 			<small class="footer__copyright">&copy; Royal College of Art <script>document.write(new Date().getFullYear())</script></small>
 		</footer>
 		<script src="{{ site.url }}/assets/js/main.js"></script>
@@ -41,6 +41,15 @@
 			// Initalises reset script
 			document.addEventListener("DOMContentLoaded", function(event) {
 				resetActive();
+			});
+		</script>
+		<script>
+			// Initalises Smooth Scroll script
+			smoothScroll.init({
+			    // Speed & Easing
+			    speed: 500, // Integer. How fast to complete the scroll in milliseconds
+			    offset: 0, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
+			    easing: 'easeInOutCubic', // Easing pattern to use
 			});
 		</script>
 		<script>
