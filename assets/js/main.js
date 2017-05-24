@@ -56,6 +56,8 @@ function removeLoading() {
 
 function toggleAside() {
 	document.querySelector('.aside').classList.toggle('aside--active');
+	document.querySelector('.info.button--link').classList.toggle('button--active');
+	document.querySelector('body').classList.toggle('body--no-overflow');
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
