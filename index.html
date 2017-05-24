@@ -41,7 +41,7 @@ layout: default
 			{% if poster.process %}<li>{{ poster.process }}</li>{% endif %}
 		</ul>
 		<ul class="poster__contact">
-			{% if site.email %}<li><a href='mailto:{{ site.email }}?subject=Re: Poster {{ poster.id }}'>Provide additional information &#9993;</a></li>{% endif %}
+			{% if site.email %}<li><a target="_blank" href='mailto:{{ site.email }}?subject=Re: Poster {{ poster.id }}'>Provide additional information &#9993;</a></li>{% endif %}
 		</ul>
 	</div>
 </article>
