@@ -1,0 +1,101 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/cferdinandi/smooth-scroll",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/cferdinandi/smooth-scroll",
+        "spec": "git+https://github.com/cferdinandi/smooth-scroll.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:cferdinandi/smooth-scroll.git",
+          "sshUrl": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git",
+          "httpsUrl": "git+https://github.com/cferdinandi/smooth-scroll.git",
+          "gitUrl": "git://github.com/cferdinandi/smooth-scroll.git",
+          "shortcut": "github:cferdinandi/smooth-scroll",
+          "directUrl": "https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/package.json"
+        }
+      },
+      "/home/jacob/Projects/rca-poster-archive"
+    ]
+  ],
+  "_from": "git+https://github.com/cferdinandi/smooth-scroll.git",
+  "_id": "smooth-scroll@11.1.0",
+  "_inCache": true,
+  "_location": "/smooth-scroll",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/cferdinandi/smooth-scroll",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/cferdinandi/smooth-scroll",
+    "spec": "git+https://github.com/cferdinandi/smooth-scroll.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:cferdinandi/smooth-scroll.git",
+      "sshUrl": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git",
+      "httpsUrl": "git+https://github.com/cferdinandi/smooth-scroll.git",
+      "gitUrl": "git://github.com/cferdinandi/smooth-scroll.git",
+      "shortcut": "github:cferdinandi/smooth-scroll",
+      "directUrl": "https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/cferdinandi/smooth-scroll.git#49ce0c46ac5f56ef339e6128b33705ca050576b6",
+  "_shasum": "38010db1a8863c44b81e96a360764f87bd4b040d",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/cferdinandi/smooth-scroll",
+  "_where": "/home/jacob/Projects/rca-poster-archive",
+  "author": {
+    "name": "Chris Ferdinandi",
+    "url": "http://gomakethings.com"
+  },
+  "bugs": {
+    "url": "https://github.com/cferdinandi/smooth-scroll/issues"
+  },
+  "dependencies": {},
+  "description": "Animate scrolling to anchor links",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^0.14.0",
+    "gulp-flatten": "^0.3.1",
+    "gulp-footer": "^1.0.5",
+    "gulp-header": "^1.8.8",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-markdown": "^1.2.0",
+    "gulp-optimize-js": "^1.1.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-tap": "^0.1.3",
+    "gulp-uglify": "^2.1.2",
+    "gulp-watch": "^4.3.11",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "lazypipe": "^1.0.1",
+    "node-fs": "^0.1.7"
+  },
+  "gitHead": "49ce0c46ac5f56ef339e6128b33705ca050576b6",
+  "homepage": "https://github.com/cferdinandi/smooth-scroll#readme",
+  "license": "GPL-3.0",
+  "main": "./dist/js/smooth-scroll.min.js",
+  "name": "smooth-scroll",
+  "optionalDependencies": {},
+  "readme": "# Smooth Scroll [![Build Status](https://travis-ci.org/cferdinandi/smooth-scroll.svg)](https://travis-ci.org/cferdinandi/smooth-scroll)\n\nA lightweight script to animate scrolling to anchor links. Smooth Scroll works great with [Gumshoe](https://github.com/cferdinandi/gumshoe).\n\n[View the demo and documentation to get started](http://cferdinandi.github.com/smooth-scroll/).\n\n## How to Contribute\n\nPlease review the [contributing guidelines](CONTRIBUTING.md).\n\n\n## License\n\nThe code is available under the [GPLv3 License](LICENSE.md) or a [Commercial License](https://cferdinandi.github.io/smooth-scroll/license#commercial-license).",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git"
+  },
+  "version": "11.1.0"
+}
