@@ -220,10 +220,10 @@ img {
 }
 
 .footer__return-link {
-    max-width: 5%;
+    max-width: 15%;
     position: fixed;
-    right: 1em;
-    bottom: 1em;
+    right: 2em;
+    bottom: 2em;
     opacity: 0;
     transition: opacity 1s ease;
 }
@@ -232,8 +232,14 @@ img {
     opacity: 1;
 }
 
-@media (min-width:30em) {
+@media (min-width:60em) {
     .aside__wrapper {
         width: 23%;
+    }
+    .footer__return-link {
+        max-width: 5%;
+        position: fixed;
+        right: 1em;
+        bottom: 1em;
     }
 }
