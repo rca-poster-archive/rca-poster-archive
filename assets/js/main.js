@@ -1,4 +1,4 @@
-function resetActive() {
+function resetSelectedPosters() {
 	document.querySelector('.wrapper').classList.add('loading');
 	// Remove active classname from all elements
 	var elements = document.querySelectorAll('.poster--selected')
@@ -55,9 +55,30 @@ function removeLoading() {
 }
 
 function toggleAside() {
+	removeActivePosters();
 	document.querySelector('.aside').classList.toggle('aside--active');
 	document.querySelector('.info.button--link').classList.toggle('button--active');
 	document.querySelector('body').classList.toggle('body--no-overflow');
+}
+
+function toggleActivePosters() {
+	var activePosters = document.querySelectorAll(".poster--active");
+	console.log(activePosters);
+	if (this.classList.contains('poster--active')) {
+		this.classList.remove("poster--active");
+	} else {
+		if (activePosters.length >= 1) {
+			removeActivePosters();
+		}
+		this.classList.add("poster--active");
+	}
+}
+
+function removeActivePosters() {
+	var activePosters = document.querySelectorAll(".poster--active");
+	for (var i = 0; i < activePosters.length; i++) {
+		activePosters[i].classList.remove("poster--active");
+	}
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
@@ -86,8 +107,20 @@ document.addEventListener("DOMContentLoaded", function(event) {
 		}
 	};
 
+	// Detects clicks on posters
+	var posters = document.getElementsByClassName("poster");
 	for (var i = 0; i < posters.length; i++) {
-	    posters[i].addEventListener('click', myFunction, false);
-		console.log("added for number")
+		posters[i].addEventListener('click', toggleActivePosters, false);
 	}
+
+	// Detects clicks off posters
+	document.body.addEventListener("click", function (event) {
+  		if (event.target.classList.contains("wrapper")) {
+			var activePosters = document.getElementsByClassName("poster--active");
+			console.log(activePosters)
+			removeActivePosters();
+  		} else if (event.target.classList.contains(".poster--selected")) {
+			toggleActivePosters();
+		}
+	});
 });
