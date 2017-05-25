@@ -74,7 +74,6 @@ table {
 body {
     margin: 1em;
     font-family: 'LaNord', sans-serif;
-    color: #222222;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
@@ -122,7 +121,7 @@ img {
 }
 
 .main {
-    background-color: white;
+    background-color: #fefefe;
 }
 
 .wrapper {
@@ -187,7 +186,7 @@ img {
 
 .poster {
     display: none;
-    background-color: white;
+    background-color: #fefefe;
 }
 
 .poster--selected {
@@ -204,7 +203,7 @@ img {
 }
 
 .poster__text {
-    background-color: white;
+    background-color: #fefefe;
     position: absolute;
     opacity: 0;
     transform: translate3d(0, -100%, 0);
