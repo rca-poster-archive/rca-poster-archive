@@ -105,7 +105,6 @@ document.addEventListener("DOMContentLoaded", function(event) {
 	document.body.addEventListener("click", function (event) {
   		if (event.target.classList.contains("wrapper")) {
 			var activePosters = document.getElementsByClassName("poster--active");
-			console.log(activePosters)
 			removeActivePosters();
   		} else if (event.target.classList.contains(".poster--selected")) {
 			toggleActivePosters();
