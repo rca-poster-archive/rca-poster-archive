@@ -236,7 +236,7 @@ img {
 }
 
 .footer__return-link {
-    max-width: 15%;
+    max-width: 10%;
     position: fixed;
     right: 2em;
     bottom: 2em;
@@ -253,7 +253,7 @@ img {
         width: 23%;
     }
     .footer__return-link {
-        max-width: 5%;
+        max-width: 2%;
         position: fixed;
         right: 1em;
         bottom: 1em;
