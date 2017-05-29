@@ -156,6 +156,7 @@ img {
     word-wrap: break-word;
     padding: 1em;
     height: 100vh;
+    z-index: 999;
 }
 
 .aside--active .aside__overlay {
