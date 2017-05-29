@@ -20,5 +20,8 @@
     "headroom.js": "^0.9.3",
     "lazysizes": "^4.0.0-rc1",
     "smooth-scroll": "git+https://github.com/cferdinandi/smooth-scroll.git"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
   }
 }
