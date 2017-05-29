@@ -10,7 +10,7 @@ function resetSelectedPosters() {
 	var widths = ["small", "medium", "large"];
 	var floats = ["right", "left"];
 	// Random Properties
-	var posterProperties = ['promoting','process','colour','year'];
+	var posterProperties = ['promoting','process','colour','decade'];
 	var selectedProperty = posterProperties[Math.floor(Math.random() * posterProperties.length)];
 	// Set values based on property
 	switch (selectedProperty) {
@@ -23,8 +23,8 @@ function resetSelectedPosters() {
     case 'colour':
         values = ['Red','White','Blue','Green','Black','Yellow','Orange','Multicoloured','Brown','Pink','Image','Gold','Purple','Grey'];
         break;
-    case 'year':
-        values = ['1970','1971','1972','1973','1974','1975','1976','1977', '1978']
+	case 'decade':
+		values = ['1930s','1940s','1950s','1960s','1970s','1980s','1990s','2000s']
 	}
 	// Select value of property
 	var selectedValue = values[Math.floor(Math.random()*values.length)];
@@ -42,11 +42,11 @@ function resetSelectedPosters() {
 		// Set classnames
 		selectedPosters[i].classList.add('poster--selected', selectedFloat, selectedWidth);
 	};
+		var selectedContainer = document.querySelector('.main');
+		for (i = selectedPosters.length; i >= 0; i--) {
+			selectedContainer.appendChild(selectedPosters[Math.random() * i | 0]);
+		};
 
-	var selectedContainer = document.querySelector('.main');
-	for (i = selectedPosters.length; i >= 0; i--) {
-		selectedContainer.appendChild(selectedPosters[Math.random() * i | 0]);
-	};
 	removeLoading();
 }
 

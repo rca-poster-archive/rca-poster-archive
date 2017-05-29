@@ -3,7 +3,7 @@ layout: default
 ---
 {% for poster in site.data.posters %}
 <article
-{% if poster.year %} data-year="{{ poster.year }}"{% endif %}
+{% if poster.decade %} data-decade="{{ poster.decade }}"{% endif %}
 {% if poster.promoting %} data-promoting="{{ poster.promoting }}"{% endif %}
 {% if poster.colour %} data-colour="{{ poster.colour }}"{% endif %}
 {% if poster.process %} data-process="{{ poster.process }}"{% endif %}
