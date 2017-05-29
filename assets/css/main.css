@@ -248,14 +248,17 @@ img {
     opacity: 1;
 }
 
-@media (min-width:60em) {
-    .aside__wrapper {
-        width: 23%;
-    }
+@media (min-width:40em) {
     .footer__return-link {
         max-width: 2%;
         position: fixed;
         right: 1em;
         bottom: 1em;
+    }
+}
+
+@media (min-width:60em) {
+    .aside__wrapper {
+        width: 23%;
     }
 }
