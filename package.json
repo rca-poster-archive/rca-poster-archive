@@ -4,7 +4,8 @@
   "description": "A project archiving the RCA's posters of the past 75 years.",
   "main": "index.js",
   "scripts": {
-    "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/"
+    "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/",
+    "uglify": "uglifyjs _src/assets/js/*.js -m -o assets/js/main.js && uglifyjs _src/assets/js/*.js -m -c -o assets/js/main.min.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,7 @@
     "smooth-scroll": "git+https://github.com/cferdinandi/smooth-scroll.git"
   },
   "devDependencies": {
-    "eslint": "^3.19.0"
+    "eslint": "^3.19.0",
+    "uglify-js": "^3.0.13"
   }
 }
