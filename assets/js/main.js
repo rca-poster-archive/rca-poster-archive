@@ -82,7 +82,6 @@ function removeActivePosters() {
 }
 
 document.addEventListener("DOMContentLoaded", function(event) {
-
 	// Detects clicks on posters
 	var shuffle = document.getElementsByClassName("poster__shuffle");
 	for (var i = 0; i < shuffle.length; i++) {
@@ -110,4 +109,13 @@ document.addEventListener("DOMContentLoaded", function(event) {
 			toggleActivePosters();
 		}
 	});
+
+	window.onresize = function(event) {
+		// Adjusts top margin of wrapper to fit header
+		var height = document.getElementsByClassName("header")[0].offsetHeight;
+		console.log(height);
+		var wrapper = document.getElementsByClassName("wrapper");
+		console.log(wrapper);
+		wrapper[0].style.marginTop = height + 'px';
+	};
 });

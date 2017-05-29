@@ -50,29 +50,13 @@ table {
     box-sizing: border-box;
 }
 
-
-/* Fade in on page load */
-
-.wrapper {
-    opacity: 1;
-    transition: 1s opacity;
-}
-
-.wrapper.loading {
-    opacity: 0;
-    transition: none;
-}
-
-
-/* End Fade In */
-
 @font-face {
     font-family: LaNord;
     src: url(../fonts/LaNord-SemiLight.otf);
 }
 
 body {
-    margin: 1em;
+    margin: 0 1em 1em 1em;
     font-family: 'LaNord', sans-serif;
     display: flex;
     min-height: 100vh;
@@ -89,12 +73,28 @@ img {
 }
 
 .header {
-    margin-bottom: 0.3em;
+    position: fixed;
+    background: #fefefe;
+    width: 100%;
+    padding-top: 1em;
+    padding-bottom: 0.3em;
 }
 
 .header>* {
     display: inline;
-    margin-right: 0;
+}
+
+.wrapper {
+    margin-top: 2.3em;
+    /* Fade in on page load */
+    opacity: 1;
+    transition: 1s opacity;
+}
+
+.wrapper.loading {
+    /* Fade in on page load */
+    opacity: 0;
+    transition: none;
 }
 
 .poster__property, .poster__value {
