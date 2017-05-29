@@ -1,5 +1,8 @@
 function resetSelectedPosters() {
 	document.querySelector('.wrapper').classList.add('loading');
+	// Scroll to top of the page. Should prevent as many images being loaded as well as prevent people losing their place on the site.
+	var anchor = document.querySelector('#body');
+	smoothScroll.animateScroll( anchor );
 	// Remove active classname from all elements
 	var elements = document.querySelectorAll('.poster--selected')
 	for (var i = 0; i < elements.length; ++i){
