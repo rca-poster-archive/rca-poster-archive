@@ -198,7 +198,6 @@ img {
 
 .poster {
     display: none;
-    background-color: #fefefe;
 }
 
 .poster--selected {
@@ -216,10 +215,11 @@ img {
 
 .poster__text {
     background-color: #fefefe;
-    position: absolute;
+    height: 0px;
     opacity: 0;
-    transform: translate3d(0, -100%, 0);
-    transition: opacity 0.4s ease, transform 0.4s ease;
+    overflow: hidden;
+    z-index: -1;
+    transition: opacity 0.4s ease, height 0.4s ease;
 }
 
 .poster:hover>.poster__title, .poster--active>.poster__title {
@@ -228,7 +228,7 @@ img {
 
 .poster--active>.poster__text {
     opacity: 1;
-    transform: translate3d(0, 0, 0);
+    height: 5em;
 }
 
 .footer__return-text {
