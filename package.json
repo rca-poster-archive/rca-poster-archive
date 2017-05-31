@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/",
-    "uglify": "uglifyjs _src/assets/js/*.js -m -o assets/js/main.js && uglifyjs _src/assets/js/*.js -m -c -o assets/js/main.min.js",
+    "uglify": "uglifyjs _src/assets/js/*.js -m -c -o assets/js/main.min.js",
     "cleancss": "cleancss -o assets/css/main.min.css _src/assets/css/main.css"
   },
   "repository": {
