@@ -263,3 +263,5 @@ img {
         width: 23%;
     }
 }
+
+:focus, :active {outline: none;}
