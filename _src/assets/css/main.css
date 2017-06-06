@@ -10,9 +10,9 @@ html, body, button, div, input, span, applet, object, iframe, h1, h2, h3, h4, h5
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    color: #222222;
+    color: inherit;
+	background-color: inherit;
 }
-
 
 /* HTML5 display-role reset for older browsers */
 
@@ -20,9 +20,18 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     display: block;
 }
 
+/* Set variables below */
+
 body {
-    line-height: 1.1;
-    font-size: 22px;
+	--colour-primary: #222222;
+	--colour-secondary: #fefefe;
+	--type-line-height: 1.1;
+	--type-font-size: 22px;
+}
+
+.contrast {
+	--colour-primary: #fefefe;
+	--colour-secondary: #222222;
 }
 
 ol, ul {
@@ -56,12 +65,18 @@ table {
 }
 
 body {
-    margin: 0 1em 1em 1em;
+    padding: 0 1em 1em 1em;
     font-family: 'LaNord', sans-serif;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
     overflow-x: hidden;
+
+	line-height: var(--type-line-height);
+	font-size: var(--type-font-size);
+	color: var(--colour-primary);
+	background-color: var(--colour-secondary);
+	transition: color 0.7s ease, background-color 0.7s ease;
 }
 
 img {
@@ -74,7 +89,6 @@ img {
 
 .header {
     position: fixed;
-    background: #fefefe;
     width: 100%;
     padding-top: 1em;
     padding-bottom: 0.3em;
@@ -132,7 +146,6 @@ img {
 
 .aside__overlay {
     position: fixed;
-    background: #fefefe;
     width: 100vw;
     height: 100vh;
     top: 0;
@@ -145,7 +158,6 @@ img {
 .aside__wrapper {
     transform: translate3d(100vw, 0, 0);
     transition: transform 0.7s ease;
-    background: #fefefe;
     overflow-y: scroll;
     width: 75vw;
     position: fixed;
@@ -212,7 +224,6 @@ img {
 }
 
 .poster__text {
-    background-color: #fefefe;
     height: 0px;
     opacity: 0;
     overflow: hidden;

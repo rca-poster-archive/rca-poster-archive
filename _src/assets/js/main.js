@@ -119,4 +119,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		var wrapper = document.getElementsByClassName('wrapper');
 		wrapper[0].style.marginTop = headerHeight + 'px';
 	};
+
+	document.querySelector('[data-switch-contrast]').addEventListener('click', function() {
+  		document.body.classList.toggle('contrast');
+	});
 });
