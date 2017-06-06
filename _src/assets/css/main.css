@@ -251,6 +251,7 @@ img {
     bottom: 2em;
     opacity: 0;
     transition: opacity 1s ease;
+	background:none;
 }
 
 .footer__return-link.headroom--not-top {
