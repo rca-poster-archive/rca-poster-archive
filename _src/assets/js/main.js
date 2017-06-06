@@ -86,14 +86,13 @@ function removeActivePosters() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-	// Detects clicks on posters
-	var shuffle = document.getElementsByClassName('button__shuffle');
-	for (var i = 0; i < shuffle.length; i++) {
-		shuffle[i].addEventListener('click', resetSelectedPosters, false);
-	}
+	// Detects clicks on shuffle button
+	document.querySelector('[data-button-shuffle]').addEventListener('click', function() {
+		resetSelectedPosters();
+	});
 
 	// Detects click on overlay
-	var aside = document.getElementsByClassName('button__info');
+	var aside = document.querySelectorAll('[data-toggle-aside]');
 	for (var i = 0; i < aside.length; i++) {
 		aside[i].addEventListener('click', toggleAside, false);
 	}
