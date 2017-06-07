@@ -233,7 +233,8 @@ img {
 
 .poster--active>.poster__text {
     opacity: 1;
-    height: 5em;
+    height: 7em;
+	margin-bottom: 1em;
 }
 
 .footer__return-text {
