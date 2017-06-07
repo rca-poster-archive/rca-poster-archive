@@ -242,13 +242,12 @@ img {
 }
 
 .footer__return-link {
-    max-width: 10%;
+    width: 10%;
     position: fixed;
-    right: 2em;
-    bottom: 2em;
     opacity: 0;
     transition: opacity 1s ease;
 	background:none;
+	fill: var(--colour-primary);
 }
 
 .footer__return-link.headroom--not-top {
@@ -256,17 +255,19 @@ img {
 }
 
 @media (min-width:40em) {
-    .footer__return-link {
-        max-width: 2%;
-        position: fixed;
-        right: 1em;
+	.footer__return-link {
+        width: 5%;
+		right: 1em;
         bottom: 1em;
-    }
+	}
 }
 
 @media (min-width:60em) {
     .aside__wrapper {
         width: 23%;
+    }
+	.footer__return-link {
+        width: 2%;
     }
 }
 
