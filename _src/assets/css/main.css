@@ -128,10 +128,6 @@ img {
     text-decoration: none;
 }
 
-.button__contrast {
-    margin-bottom: 1em;
-}
-
 .button__info:hover, .button__info:focus, .button__info--active {
     font-style: italic;
 }
