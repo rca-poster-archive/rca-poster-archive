@@ -157,4 +157,8 @@ document.addEventListener('DOMContentLoaded', function() {
 		var height = document.getElementsByClassName("header")[0].offsetHeight;
 		document.getElementsByClassName("wrapper")[0].style.marginTop = height + 'px';
 	});
+
+	// Writes current year to copyright notice
+	var currentYear = new Date().getFullYear();
+	document.querySelector('.copyright__year').innerHTML = currentYear;
 });
