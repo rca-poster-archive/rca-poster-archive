@@ -7,9 +7,9 @@
     "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/ && npm run build:watch",
     "build:js": "uglifyjs _src/assets/js/*.js -m -c -o assets/js/main.min.js",
     "build:css": "cleancss -o assets/css/main.min.css _src/assets/css/main.css",
-	"build:img": "cp -r _src/assets/img/* assets/img/",
+    "build:img": "cp -r _src/assets/img/* assets/img/",
     "build": "npm run build:js & npm run build:css & npm run build:img",
-	"build:watch": "watch 'npm run build' _src/"
+    "build:watch": "watch 'npm run build' _src/"
   },
   "repository": {
     "type": "git",
