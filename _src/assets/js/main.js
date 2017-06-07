@@ -120,6 +120,11 @@ if (currentThemeColour == null) {
 	document.body.classList.add('contrast');
 }
 
+function resizeHeaderMargin(){
+	var height = document.getElementsByClassName("header")[0].offsetHeight;
+	document.getElementsByClassName("wrapper")[0].style.marginTop = height + 'px';
+}
+
 document.addEventListener('DOMContentLoaded', function() {
 	// Detects clicks on theme switch button
 	document.querySelector('[data-switch-contrast]').addEventListener('click', function() {
@@ -153,9 +158,13 @@ document.addEventListener('DOMContentLoaded', function() {
 	});
 
 	// Adjusts margin top of header on page resize
-	window.addEventListener('resize', function(event){
-		var height = document.getElementsByClassName("header")[0].offsetHeight;
-		document.getElementsByClassName("wrapper")[0].style.marginTop = height + 'px';
+	window.addEventListener('resize', function(){
+		resizeHeaderMargin();
+	});
+
+	// Adjusts margin top of header on window loading
+	window.addEventListener('load', function(){
+		resizeHeaderMargin();
 	});
 
 	// Writes current year to copyright notice
