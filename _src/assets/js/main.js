@@ -85,7 +85,47 @@ function removeActivePosters() {
 	}
 }
 
+// Get the current theme colour by reading the localstorage
+function getThemeColour() {
+	var themeColour = localStorage.getItem('themeColour');
+	return themeColour;
+}
+
+// Set the theme colour by writing to localstorage and updating the relevant classlist
+function setThemeColour(newColour, altColour) {
+	localStorage.setItem('themeColour', newColour);
+	document.querySelector('.button__contrast').innerHTML = altColour;
+}
+
+function switchThemeColour(){
+	currentThemeColour = getThemeColour()
+	if (currentThemeColour === 'primary'){
+		setThemeColour('secondary', 'White');
+	} else if (currentThemeColour === 'secondary') {
+		setThemeColour('primary', 'Black');
+	}
+	document.body.classList.toggle('contrast');
+}
+
+// This is outside the DOMContentLoaded section becuase it needs to run quickly, as it depends on localstoage rather than elements it can be trusted to load first.
+// Find current theme colour from local storage
+currentThemeColour = getThemeColour();
+// Sets theme according to current state
+if (currentThemeColour == null) {
+	setThemeColour('primary', 'Black');
+} else if (currentThemeColour == 'primary') {
+	setThemeColour('primary', 'Black');
+} else if (currentThemeColour == 'secondary') {
+	setThemeColour('secondary', 'White');
+	document.body.classList.add('contrast');
+}
+
 document.addEventListener('DOMContentLoaded', function() {
+	// Detects clicks on theme switch button
+	document.querySelector('[data-switch-contrast]').addEventListener('click', function() {
+		switchThemeColour();
+	});
+
 	// Detects clicks on shuffle button
 	document.querySelector('[data-button-shuffle]').addEventListener('click', function() {
 		resetSelectedPosters();
