@@ -1,7 +1,7 @@
 ---
 title: Royal College of Art Poster Archive
 description: This site is an archive of the Royal College of Art's posters.
-url: https://rca-poster-archive.co.uk/
+url: https://rca-poster-archive.co.uk
 cdn:
   url: https://s3.eu-west-2.amazonaws.com/rca-poster-archive/images/
 email: example@example.org
