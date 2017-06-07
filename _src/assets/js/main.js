@@ -112,7 +112,9 @@ document.addEventListener('DOMContentLoaded', function() {
 		}
 	});
 
-	document.querySelector('[data-switch-contrast]').addEventListener('click', function() {
-  		document.body.classList.toggle('contrast');
+	// Adjusts margin top of header on page resize
+	window.addEventListener('resize', function(event){
+		var height = document.getElementsByClassName("header")[0].offsetHeight;
+		document.getElementsByClassName("wrapper")[0].style.marginTop = height + 'px';
 	});
 });
