@@ -170,7 +170,7 @@ document.addEventListener('DOMContentLoaded', function() {
 	// Writes current year to copyright notice
 	var currentYear = new Date().getFullYear();
 	var yearPlaceHolders = document.getElementsByClassName('copyright__year');
-	for (var i = 0; i < copyrights.length; i++) {
+	for (var i = 0; i < yearPlaceHolders.length; i++) {
 		yearPlaceHolders[i].innerHTML = currentYear;
 	}
 });
