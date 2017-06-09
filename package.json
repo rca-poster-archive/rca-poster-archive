@@ -6,7 +6,7 @@
   "scripts": {
     "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/ && npm run build:watch",
     "build:js": "uglifyjs _src/assets/js/*.js -m -c -o assets/js/main.min.js",
-    "build:css": "cleancss -o assets/css/main.min.css _src/assets/css/main.css",
+    "build:css": "cleancss -O1 -O2 -o assets/css/main.min.css _src/assets/css/*.css",
     "build": "npm run build:js & npm run build:css",
     "build:watch": "watch 'npm run build' _src/"
   },
