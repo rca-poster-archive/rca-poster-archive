@@ -22,7 +22,7 @@ function resetSelectedPosters() {
             values = ['Film Society', 'ARK Magazine', 'Lectures', 'Exhibitions', 'Parties', 'Natural History', 'Music Society', 'Type Workshop'];
             break;
         case 'process':
-            values = ['Offset', 'Screenprint', 'Letterpress', 'Hand', 'Digital', 'Linocut'];
+            values = ['Offset', 'Screenprint', 'Letterpress', 'Hand', 'Digital'];
             break;
         case 'colour':
             values = ['Red', 'White', 'Blue', 'Green', 'Black', 'Yellow', 'Orange', 'Multicoloured', 'Brown', 'Pink', 'Image', 'Gold', 'Purple', 'Grey'];
