@@ -11,8 +11,9 @@ html, body, button, div, input, span, applet, object, iframe, h1, h2, h3, h4, h5
     font: inherit;
     vertical-align: baseline;
     color: inherit;
-	background-color: inherit;
+    background-color: inherit;
 }
+
 
 /* HTML5 display-role reset for older browsers */
 
@@ -20,70 +21,66 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
     display: block;
 }
 
-/* Set variables below */
-
-body {
-	--colour-primary: #222222;
-	--colour-secondary: #fefefe;
-	--type-line-height: 1.1;
-	--type-font-size: 22px;
+:focus, :active {
+    outline: none;
 }
 
-.contrast {
-	--colour-primary: #fefefe;
-	--colour-secondary: #222222;
-}
+/* Jake's code */
 
-ol, ul {
-    list-style: none;
-}
-
-blockquote, q {
-    quotes: none;
-}
-
-blockquote:before, blockquote:after, q:before, q:after {
-    content: '';
-    content: none;
-}
-
-table {
-    border-collapse: collapse;
-    border-spacing: 0;
-}
-
-
-/* Box Sizing */
-
-*, *:before, *:after {
-    box-sizing: border-box;
-}
-
+/* Load font before the rest */
 @font-face {
     font-family: LaNord;
     src: url(https://rca-poster-archive.co.uk/assets/fonts/LaNord-SemiLight.otf);
 }
 
+/* Box Sizing */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+/* Set variables below */
 body {
-    padding: 0 1em 1em 1em;
+    --colour-primary: #222222;
+    --colour-secondary: #fefefe;
+    --type-line-height: 1.2;
+    --type-font-size: 22px;
+}
+
+.contrast {
+    --colour-primary: #fefefe;
+    --colour-secondary: #222222;
+}
+
+/* Set styles of elements first */
+ol, ul {
+    list-style: none;
+}
+
+body {
+    padding-top: 0;
+    padding-right: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
     font-family: 'LaNord', sans-serif;
     display: flex;
     min-height: 100vh;
     flex-direction: column;
     overflow-x: hidden;
-
-	line-height: var(--type-line-height);
-	font-size: var(--type-font-size);
-	color: var(--colour-primary);
-	background-color: var(--colour-secondary);
-	transition: color 0.7s ease, background-color 0.7s ease;
+    line-height: var(--type-line-height);
+    font-size: var(--type-font-size);
+    color: var(--colour-primary);
+    background-color: var(--colour-secondary);
+    transition: color 0.7s ease, background-color 0.7s ease;
 }
 
 img {
     width: 100%;
 }
 
+/* set styles of classes, working down the html document */
+
 .body--no-overflow {
+	/* This is necessary for the overlay, it stops people scrolling down the document - only the sidebar */
     overflow: hidden;
 }
 
@@ -92,7 +89,7 @@ img {
     width: 100%;
     padding-top: 1em;
     padding-bottom: 0.3em;
-	z-index: 100;
+    z-index: 100;
 }
 
 .header>* {
@@ -100,24 +97,24 @@ img {
 }
 
 .wrapper {
-    margin-top: 2.3em;
-    /* Fade in on page load */
+	/* Flex is for the sticky footer */
+	flex: 1;
+	/* controls the fade in on the website content */
     opacity: 1;
-    transition: 1s opacity;
+    transition: 3s opacity;
 }
 
-.wrapper.loading {
-    /* Fade in on page load */
+.loading {
+	/* controls the fade in on the website content */
     opacity: 0;
-    transition: none;
 }
 
 .poster__property, .poster__value {
     text-transform: capitalize;
 }
 
-.button  {
-	text-decoration: underline;
+.button {
+    text-decoration: underline;
 }
 
 .button:hover, .poster:hover {
@@ -132,23 +129,24 @@ img {
     font-style: italic;
 }
 
-.wrapper {
-    flex: 1;
-}
-
 .aside {
     z-index: 9999;
 }
 
 .aside__overlay {
     position: fixed;
-    width: 100vw;
-    height: 100vh;
     top: 0;
     left: 0;
     opacity: 0;
     transform: translate3d(100vw, 0, 0);
     transition: opacity 0.7s ease;
+}
+
+.aside--active .aside__overlay {
+    opacity: 0.4;
+	z-index: 999;
+	width: 100vw;
+    height: 100vh;
 }
 
 .aside__wrapper {
@@ -165,10 +163,6 @@ img {
     z-index: 999;
 }
 
-.aside--active .aside__overlay {
-    opacity: 0.4;
-}
-
 .aside--active .aside__wrapper, .aside--active .aside__overlay {
     transform: translate3d(0, 0, 0);
 }
@@ -180,6 +174,8 @@ img {
 .aside__wrapper p, .aside__wrapper ul, .aside__wrapper small {
     margin-bottom: 1em;
 }
+
+/* CSS for posters */
 
 .left {
     float: left;
@@ -234,8 +230,10 @@ img {
 .poster--active>.poster__text {
     opacity: 1;
     height: 7em;
-	margin-bottom: 1em;
+    margin-bottom: 1em;
 }
+
+/* Return to top */
 
 .footer__return-text {
     display: none;
@@ -246,29 +244,32 @@ img {
     position: fixed;
     opacity: 0;
     transition: opacity 1s ease;
-	background:none;
-	fill: var(--colour-primary);
+    background: none;
+    fill: var(--colour-primary);
 }
 
 .footer__return-link.headroom--not-top {
     opacity: 1;
 }
 
+/* Media queries for medium and large screens */
+
 @media (min-width:40em) {
-	.footer__return-link {
-        width: 5%;
-		right: 1em;
-        bottom: 1em;
+	body{
+		line-height: 1.1;
 	}
+    .footer__return-link {
+        width: 5%;
+        right: 1em;
+        bottom: 1em;
+    }
 }
 
 @media (min-width:60em) {
     .aside__wrapper {
         width: 23%;
     }
-	.footer__return-link {
+    .footer__return-link {
         width: 2%;
     }
 }
-
-:focus, :active {outline: none;}
