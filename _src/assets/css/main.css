@@ -129,6 +129,10 @@ img {
     font-style: italic;
 }
 
+.button__contrast {text-decoration: none;}
+
+.button__contrast.active {text-decoration: underline;}
+
 .aside {
     z-index: 9999;
 }

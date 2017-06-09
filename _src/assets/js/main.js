@@ -92,19 +92,26 @@ function getThemeColour() {
 }
 
 // Set the theme colour by writing to localstorage and updating the relevant classlist
-function setThemeColour(newColour, altColour) {
+function setThemeColour(newColour) {
     localStorage.setItem('themeColour', newColour);
-    document.querySelector('.button__contrast').innerHTML = altColour;
+	if (newColour === 'primary') {
+		document.querySelector('.button__contrast--white').classList.add("active");
+		document.querySelector('.button__contrast--black').classList.remove("active");
+		document.body.classList.remove('contrast');
+    } else if (newColour === 'secondary') {
+		document.querySelector('.button__contrast--black').classList.add("active");
+		document.querySelector('.button__contrast--white').classList.remove("active");
+		document.body.classList.add('contrast');
+    }
 }
 
 function switchThemeColour() {
     currentThemeColour = getThemeColour()
     if (currentThemeColour === 'primary') {
-        setThemeColour('secondary', 'White');
+        setThemeColour('secondary');
     } else if (currentThemeColour === 'secondary') {
-        setThemeColour('primary', 'Black');
+        setThemeColour('primary');
     }
-    document.body.classList.toggle('contrast');
 }
 
 // This is outside the DOMContentLoaded section becuase it needs to run quickly, as it depends on localstoage rather than elements it can be trusted to load first.
@@ -112,12 +119,11 @@ function switchThemeColour() {
 currentThemeColour = getThemeColour();
 // Sets theme according to current state
 if (currentThemeColour == null) {
-    setThemeColour('primary', 'Black');
+    setThemeColour('primary');
 } else if (currentThemeColour == 'primary') {
-    setThemeColour('primary', 'Black');
+    setThemeColour('primary');
 } else if (currentThemeColour == 'secondary') {
-    setThemeColour('secondary', 'White');
-    document.body.classList.add('contrast');
+    setThemeColour('secondary');
 }
 
 function resizeHeaderMargin() {
@@ -127,8 +133,12 @@ function resizeHeaderMargin() {
 
 document.addEventListener('DOMContentLoaded', function() {
     // Detects clicks on theme switch button
-    document.querySelector('[data-switch-contrast]').addEventListener('click', function() {
-        switchThemeColour();
+    document.querySelector('[data-switch-white]').addEventListener('click', function() {
+        setThemeColour('primary');
+    });
+
+	document.querySelector('[data-switch-black]').addEventListener('click', function() {
+		setThemeColour('secondary');
     });
 
     // Detects clicks on shuffle button
