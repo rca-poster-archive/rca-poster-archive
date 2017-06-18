@@ -7,7 +7,8 @@
     "postinstall": "rm -r assets/vendor/* && cp -r node_modules/* assets/vendor/ && npm run build:watch",
     "build:js": "uglifyjs _src/assets/js/*.js --screw-ie8 -m -c -o assets/js/main.min.js",
     "build:css": "cleancss -O1 -O2 -o assets/css/main.min.css _src/assets/css/*.css",
-    "build": "npm run build:js & npm run build:css",
+    "build:img": "rm -r assets/img/ && mkdir assets/img/ && cp _src/assets/img/* assets/img/",
+    "build": "npm run build:js & npm run build:css & npm run build:img",
     "build:watch": "watch 'npm run build' _src/"
   },
   "repository": {
