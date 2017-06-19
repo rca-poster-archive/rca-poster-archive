@@ -73,10 +73,6 @@ body {
     transition: color 0.7s ease, background-color 0.7s ease;
 }
 
-img {
-    width: 100%;
-}
-
 /* set styles of classes, working down the html document */
 
 .body--no-overflow {
@@ -212,6 +208,7 @@ img {
 
 .poster__file {
     display: block;
+	width:100%;
 }
 
 .poster__title {
@@ -237,6 +234,10 @@ img {
     margin-bottom: 1em;
 }
 
+/* Footer */
+
+.footer {margin-top:1em;}
+
 /* Return to top */
 
 .footer__return-text {
@@ -255,6 +256,12 @@ img {
 .footer__return-link.headroom--not-top {
     opacity: 1;
 }
+
+.footer__logo {margin-top:1em;}
+
+.footer__logo {width: 10%;}
+
+.footer__logo-file {max-width: 100%;}
 
 /* Media queries for medium and large screens */
 
