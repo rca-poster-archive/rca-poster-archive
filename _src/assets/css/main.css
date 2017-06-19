@@ -175,6 +175,14 @@ body {
     margin-bottom: 1em;
 }
 
+.aside__wrapper h2, .aside__wrapper h3 {margin-top:1em;}
+
+.dots {list-style-type: disc; margin-left: 1em;}
+
+.aside__logo {margin-top:1em;}
+
+.aside__logo-file {max-width: 100%;}
+
 /* CSS for posters */
 
 .left {
@@ -256,12 +264,6 @@ body {
 .footer__return-link.headroom--not-top {
     opacity: 1;
 }
-
-.footer__logo {margin-top:1em;}
-
-.footer__logo {width: 10%;}
-
-.footer__logo-file {max-width: 100%;}
 
 /* Media queries for medium and large screens */
 

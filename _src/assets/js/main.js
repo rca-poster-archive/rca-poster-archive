@@ -97,12 +97,12 @@ function setThemeColour(newColour) {
 	if (newColour === 'primary') {
 		document.querySelector('.button__contrast--white').classList.add("active");
 		document.querySelector('.button__contrast--black').classList.remove("active");
-		document.querySelector('.footer__logo-file').src='assets/img/rca_logo--black.png';
+		document.querySelector('.aside__logo-file').src='assets/img/rca_logo--black.png';
 		document.body.classList.remove('contrast');
     } else if (newColour === 'secondary') {
 		document.querySelector('.button__contrast--black').classList.add("active");
 		document.querySelector('.button__contrast--white').classList.remove("active");
-		document.querySelector('.footer__logo-file').src='assets/img/rca_logo--white.png';
+		document.querySelector('.aside__logo-file').src='assets/img/rca_logo--white.png';
 		document.body.classList.add('contrast');
     }
 }
