@@ -31,7 +31,7 @@ layout: default
 		<img class="lazyload poster__file" data-src="{{ site.cdn.url }}jpg/100px/{{ poster.id }}-300px.jpg" alt="{{ poster.alt }}" />
 	</picture>
 	</div>
-	{% if poster.title != blank %}<h1 class="poster__title">{{ poster.title }}</h1>{% endif %}
+	{% if poster.title %}<h1 class="poster__title">{{ poster.title }}</h1>{% endif %}
 	<div class="poster__text">
 		<ul class="poster__details">
 			{% if poster.year %}<li>{{ poster.year }}</li>{% endif %}
