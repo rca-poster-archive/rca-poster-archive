@@ -10,7 +10,7 @@
     "build:img": "rm -r assets/img/ && mkdir assets/img/ && cp _src/assets/img/* assets/img/",
     "build:watch": "watch 'npm run build' _src/",
     "build:vendor": "rm -r assets/vendor/* && cp -r node_modules/headroom.js assets/vendor/ && cp -r node_modules/smooth-scroll assets/vendor/ && cp -r node_modules/lazysizes assets/vendor/",
-    "build": "npm run build:js & npm run build:css & npm run build:img & npm run build:vendor",
+    "build": "npm run build:js & npm run build:css & npm run build:img & npm run build:vendor"
   },
   "repository": {
     "type": "git",
