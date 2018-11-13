@@ -1,58 +1,31 @@
 {
   "_args": [
     [
-      {
-        "raw": "https://github.com/cferdinandi/smooth-scroll",
-        "scope": null,
-        "escapedName": null,
-        "name": null,
-        "rawSpec": "https://github.com/cferdinandi/smooth-scroll",
-        "spec": "git+https://github.com/cferdinandi/smooth-scroll.git",
-        "type": "hosted",
-        "hosted": {
-          "type": "github",
-          "ssh": "git@github.com:cferdinandi/smooth-scroll.git",
-          "sshUrl": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git",
-          "httpsUrl": "git+https://github.com/cferdinandi/smooth-scroll.git",
-          "gitUrl": "git://github.com/cferdinandi/smooth-scroll.git",
-          "shortcut": "github:cferdinandi/smooth-scroll",
-          "directUrl": "https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/package.json"
-        }
-      },
+      "smooth-scroll@git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
       "/home/jacob/Projects/rca-poster-archive"
     ]
   ],
-  "_from": "git+https://github.com/cferdinandi/smooth-scroll.git",
-  "_id": "smooth-scroll@11.1.0",
-  "_inCache": true,
+  "_from": "smooth-scroll@git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+  "_id": "smooth-scroll@git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+  "_inBundle": false,
+  "_integrity": "",
   "_location": "/smooth-scroll",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "https://github.com/cferdinandi/smooth-scroll",
-    "scope": null,
-    "escapedName": null,
-    "name": null,
-    "rawSpec": "https://github.com/cferdinandi/smooth-scroll",
-    "spec": "git+https://github.com/cferdinandi/smooth-scroll.git",
-    "type": "hosted",
-    "hosted": {
-      "type": "github",
-      "ssh": "git@github.com:cferdinandi/smooth-scroll.git",
-      "sshUrl": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git",
-      "httpsUrl": "git+https://github.com/cferdinandi/smooth-scroll.git",
-      "gitUrl": "git://github.com/cferdinandi/smooth-scroll.git",
-      "shortcut": "github:cferdinandi/smooth-scroll",
-      "directUrl": "https://raw.githubusercontent.com/cferdinandi/smooth-scroll/master/package.json"
-    }
+    "type": "git",
+    "raw": "smooth-scroll@git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+    "name": "smooth-scroll",
+    "escapedName": "smooth-scroll",
+    "rawSpec": "git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+    "saveSpec": "git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+    "fetchSpec": "https://github.com/cferdinandi/smooth-scroll.git",
+    "gitCommittish": "64ed8798b52c7029ee308ac9a778941c88e1ef92"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "git+https://github.com/cferdinandi/smooth-scroll.git#49ce0c46ac5f56ef339e6128b33705ca050576b6",
-  "_shasum": "38010db1a8863c44b81e96a360764f87bd4b040d",
-  "_shrinkwrap": null,
-  "_spec": "https://github.com/cferdinandi/smooth-scroll",
+  "_resolved": "git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
+  "_spec": "git+https://github.com/cferdinandi/smooth-scroll.git#64ed8798b52c7029ee308ac9a778941c88e1ef92",
   "_where": "/home/jacob/Projects/rca-poster-archive",
   "author": {
     "name": "Chris Ferdinandi",
@@ -61,7 +34,6 @@
   "bugs": {
     "url": "https://github.com/cferdinandi/smooth-scroll/issues"
   },
-  "dependencies": {},
   "description": "Animate scrolling to anchor links",
   "devDependencies": {
     "del": "^2.2.2",
@@ -85,14 +57,10 @@
     "lazypipe": "^1.0.1",
     "node-fs": "^0.1.7"
   },
-  "gitHead": "49ce0c46ac5f56ef339e6128b33705ca050576b6",
   "homepage": "https://github.com/cferdinandi/smooth-scroll#readme",
   "license": "GPL-3.0",
   "main": "./dist/js/smooth-scroll.min.js",
   "name": "smooth-scroll",
-  "optionalDependencies": {},
-  "readme": "# Smooth Scroll [![Build Status](https://travis-ci.org/cferdinandi/smooth-scroll.svg)](https://travis-ci.org/cferdinandi/smooth-scroll)\n\nA lightweight script to animate scrolling to anchor links. Smooth Scroll works great with [Gumshoe](https://github.com/cferdinandi/gumshoe).\n\n[View the demo and documentation to get started](http://cferdinandi.github.com/smooth-scroll/).\n\n## How to Contribute\n\nPlease review the [contributing guidelines](CONTRIBUTING.md).\n\n\n## License\n\nThe code is available under the [GPLv3 License](LICENSE.md) or a [Commercial License](https://cferdinandi.github.io/smooth-scroll/license#commercial-license).",
-  "readmeFilename": "README.md",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/cferdinandi/smooth-scroll.git"

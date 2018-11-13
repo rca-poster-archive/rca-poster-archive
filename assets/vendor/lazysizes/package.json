@@ -1,50 +1,30 @@
 {
   "_args": [
     [
-      {
-        "raw": "lazysizes",
-        "scope": null,
-        "escapedName": "lazysizes",
-        "name": "lazysizes",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
+      "lazysizes@https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
       "/home/jacob/Projects/rca-poster-archive"
     ]
   ],
-  "_from": "lazysizes@latest",
+  "_from": "lazysizes@https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
   "_id": "lazysizes@4.0.0-rc1",
-  "_inCache": true,
+  "_inBundle": false,
+  "_integrity": "sha1-Qcxmny52u7ya3gjsevMeZ4EXNkA=",
   "_location": "/lazysizes",
-  "_nodeVersion": "6.9.1",
-  "_npmOperationalInternal": {
-    "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/lazysizes-4.0.0-rc1.tgz_1494869862567_0.07951321708969772"
-  },
-  "_npmUser": {
-    "name": "afarkas",
-    "email": "info@corrupt-system.de"
-  },
-  "_npmVersion": "3.10.8",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "lazysizes",
-    "scope": null,
-    "escapedName": "lazysizes",
+    "type": "remote",
+    "raw": "lazysizes@https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
     "name": "lazysizes",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
+    "escapedName": "lazysizes",
+    "rawSpec": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
+    "saveSpec": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
+    "fetchSpec": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz"
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
   "_resolved": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
-  "_shasum": "41cc669f2e76bbbc9ade08ec7af31e6781173640",
-  "_shrinkwrap": null,
-  "_spec": "lazysizes",
+  "_spec": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz",
   "_where": "/home/jacob/Projects/rca-poster-archive",
   "author": {
     "name": "Alexander Farkas",
@@ -54,7 +34,6 @@
   "bugs": {
     "url": "https://github.com/aFarkas/lazysizes/issues"
   },
-  "dependencies": {},
   "description": "High performance (jankfree) lazy loader for images (including responsive images), iframes and scripts (widgets).",
   "devDependencies": {
     "grunt": "~0.4.2",
@@ -73,13 +52,7 @@
     "qunitjs": "^1.17.0",
     "respimage": "^1.4.2"
   },
-  "directories": {},
-  "dist": {
-    "shasum": "41cc669f2e76bbbc9ade08ec7af31e6781173640",
-    "tarball": "https://registry.npmjs.org/lazysizes/-/lazysizes-4.0.0-rc1.tgz"
-  },
   "filename": "lazysizes.min.js",
-  "gitHead": "097a9878817dd17be3366633e555f3929a7eaaf1",
   "homepage": "https://github.com/aFarkas/lazysizes#readme",
   "keywords": [
     "lazy",
@@ -106,12 +79,6 @@
   ],
   "license": "MIT",
   "main": "lazysizes.js",
-  "maintainers": [
-    {
-      "name": "afarkas",
-      "email": "info@corrupt-system.de"
-    }
-  ],
   "name": "lazysizes",
   "namespace": "lazySizes",
   "npmFileMap": [
@@ -124,12 +91,9 @@
     }
   ],
   "npmName": "lazysizes",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git://github.com/aFarkas/lazysizes.git"
   },
-  "scripts": {},
   "version": "4.0.0-rc1"
 }
