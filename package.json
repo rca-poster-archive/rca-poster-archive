@@ -23,14 +23,14 @@
   },
   "homepage": "https://github.com/jclwilson/rca-poster-archive#readme",
   "dependencies": {
-    "headroom.js": "^0.9.4",
-    "lazysizes": "^4.1.4",
+    "headroom.js": "latest",
+    "lazysizes": "latest",
     "smooth-scroll": "git+https://github.com/cferdinandi/smooth-scroll.git"
   },
   "devDependencies": {
-    "clean-css-cli": "^4.2.1",
-    "eslint": "^3.19.0",
-    "uglify-js": "^3.4.9",
-    "watch": "^1.0.2"
+    "clean-css-cli": "latest",
+    "eslint": "latest",
+    "uglify-js": "latest",
+    "watch": "latest"
   }
 }
