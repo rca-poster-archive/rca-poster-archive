@@ -1,30 +1,26 @@
 {
-  "_args": [
-    [
-      "headroom.js@https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
-      "/home/jacob/Projects/rca-poster-archive"
-    ]
-  ],
-  "_from": "headroom.js@https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
-  "_id": "headroom.js@0.9.3",
+  "_from": "headroom.js@latest",
+  "_id": "headroom.js@0.9.4",
   "_inBundle": false,
-  "_integrity": "sha1-bUhJmiuYg/zAaDsm9GHnMvFJof4=",
+  "_integrity": "sha1-DE5rRWO7ad9Vrs3vq6MidWby31o=",
   "_location": "/headroom.js",
   "_phantomChildren": {},
   "_requested": {
-    "type": "remote",
-    "raw": "headroom.js@https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
+    "type": "tag",
+    "registry": true,
+    "raw": "headroom.js@latest",
     "name": "headroom.js",
     "escapedName": "headroom.js",
-    "rawSpec": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
-    "saveSpec": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
-    "fetchSpec": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz"
+    "rawSpec": "latest",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
-  "_spec": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.3.tgz",
+  "_resolved": "https://registry.npmjs.org/headroom.js/-/headroom.js-0.9.4.tgz",
+  "_shasum": "0c4e6b4563bb69df55aecdefaba3227566f2df5a",
+  "_spec": "headroom.js@latest",
   "_where": "/home/jacob/Projects/rca-poster-archive",
   "author": {
     "name": "Nick Williams"
@@ -32,6 +28,8 @@
   "bugs": {
     "url": "https://github.com/WickyNilliams/headroom.js/issues"
   },
+  "bundleDependencies": false,
+  "deprecated": false,
   "description": "Give your page some headroom. Hide your header until you need it",
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -70,5 +68,5 @@
     "test": "grunt test --verbose",
     "version": "npm run build"
   },
-  "version": "0.9.3"
+  "version": "0.9.4"
 }
