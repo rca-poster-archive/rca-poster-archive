@@ -55,11 +55,11 @@
 		</script>
 		<script>
 			// Initalises Smooth Scroll script
-			smoothScroll.init({
-			    // Speed & Easing
-			    speed: 500, // Integer. How fast to complete the scroll in milliseconds
-			    offset: 0, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
-			    easing: 'easeInOutCubic', // Easing pattern to use
+			var scroll = new SmoothScroll('.footer__return-link', {
+				    // Speed & Easing
+				    offset: 0, // Integer or Function returning an integer. How far to offset the scrolling anchor location in pixels
+				    easing: 'easeInOutCubic', // Easing pattern to use
+				});
 			});
 		</script>
 		<script>
