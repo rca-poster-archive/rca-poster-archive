@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "clean-css-cli": "latest",
-    "eslint": "latest",
+    "eslint": "^5.12.1",
     "uglify-js": "latest",
     "watch": "latest"
   }
