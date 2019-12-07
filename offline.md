@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 'Offline :('
+sitemap: false
 ---
 Oh dear!
 
