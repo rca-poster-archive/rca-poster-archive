@@ -1,6 +1,6 @@
 ---
 ---
-    var CACHE_VERSION = 'rca-pa-v2';
+    var CACHE_VERSION = 'rca-pa-v3';
 	var CACHE_FILES = [
 	    '/',
 	    '/404',
@@ -9,9 +9,9 @@
 		'/assets/css/main.min.css',
 		'/assets/img/rca_logo--black.png',
 		'/assets/img/rca_logo--white.png',
-		'/assets/vendor/headroom.js/dist/headroom.min.js',
-		'/assets/vendor/lazysizes/lazysizes.min.js',
-		'/assets/vendor/smooth-scroll/dist/smooth-scroll.min.js',
+		'/assets/js/headroom.min.js',
+		'/assets/js/lazysizes.min.js',
+		'/assets/js/smooth-scroll.min.js',
 	    '/assets/fonts/LaNord-SemiLight.otf'
 	];
 
